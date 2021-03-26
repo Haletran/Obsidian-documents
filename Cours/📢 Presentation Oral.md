@@ -4,10 +4,11 @@
 
 ### What is Linux ? 
 
-Linux is an operating system for your computer just like Mac OS or Windows. If you don't know what is an operating system, it's a collection of the basic instructions that manage the electronic parts of your computer allowing running application programs.
+GNU/Linux is an operating system for your computer just like Mac OS or Windows. If you don't know what is an operating system, it's a collection of the basic instructions that manage the electronic parts of your computer allowing running application programs.
 
 It's a free and open-source OS so that basically means everyone has the freedom to use it, see how it works, change it, or share it (Github Repositories). 
-Linux represents 93% of all the computer today . In fact, you probably use Linux right now if you have an Android phone because it's based on the Linux Kernel. 
+Linux represents 1.98% of all the desktop operating system and 97% of the server OS . In fact, you probably use Linux right now if you have an Android phone because it's based on the Linux Kernel. 
+[Statistics](https://gs.statcounter.com/os-market-share/desktop/worldwide)
 
 ### Linus Torvalds
 
@@ -26,7 +27,7 @@ But then during the 80s UNIX started to diverge in many ways with many variants 
 This is where Linux comes in. In 1991 a man named **Linus Torvalds** was a student at the University of Helsinki in Finland and was unhappy about that so he decide to made his own UNIX clone and called it Linux . So he decided to posted a letter in a popular Usenet newsgroup and say what is he going to do : 
 >"Hello everybody out there... I'm doing a (free) operating system( just a hobby, won't be anything big and professional like gnu)... it probably will never support anything other than AT-hard disks, as that's all I have...
 
-This caught up fast with the developer community. Contributions started pouring in. In 1994, Linus believed that a certain level of maturity was attained for the kernel , so it decided to release the first complete version as Linux 1.0 under the GNU GPL license of Richard Stallman.
+This caught up fast with the developer community. Contributions started pouring in. In 1994, Linus believed that a certain level of maturity was attained for the kernel , so it decided to release the first complete version as Linux 1.0 under the GNU GPL license of *Richard Stallman*.
 
 In 1996, The Linux mascot *Tux* was born. TUX stands for Torvald's UNIX. And was inspired by a childhood experience of Linus with a penguin in Australia. ( image of the childhood memory)
 
@@ -37,12 +38,26 @@ In 1996, The Linux mascot *Tux* was born. TUX stands for Torvald's UNIX. And was
 
 These early distros were designed with specific users and hardware in mind and since Linux is open-source then developers were always tweaking their systems to fit their needs for example one student at Morehead state university created his own distro base on SLS called SLACKWARE.
 
-There are hundred of Linux Distros available online today. Some of the most popular in 2020 were Ubuntu / Linux Mint / Arch Linux / Debian / Manjaro / etc...  *Distrowatch.com* is a cool website if you want to have information about one particular distro or you can check on the website of the distro.
+There are hundred of Linux Distros available online today. Some of the most popular in 2020 were Ubuntu / Linux Mint / Elementary / Debian / Manjaro / etc... 
+https://distrowatch.com/ is a cool website if you want to have information about one particular distro or you can check on the website of the distro.
 
 ### Try it
 
 I encourage you to try Linux , many people are scare because they think that it's very complicated to learn or are simply scared about the terminal. But in fact, it's very easy !! It's like Windows or Mac OS, there are no big differences between them. You can try any distributions without even installing it, you just need a USB key and the ISO of the distro you want to try and make it bootable.
-https://www.forbes.com/sites/jasonevangelho/2018/09/18/how-to-safely-try-linux-on-your-mac-or-windows-pc/
+[Tutorial](https://www.forbes.com/sites/jasonevangelho/2018/09/18/how-to-safely-try-linux-on-your-mac-or-windows-pc/)
+
+### Recommendations 
+
+Beginners | Advanced
+---------|--------
+Linux Mint | Arch 
+Kubuntu | Debian
+Elementary | Gentoo
+Pop! OS | Void
+Manjaro | OpenSUSE
+Zorin | Redhat 
+Linux Lite | Kali
+
 
 ### Questions
 
