@@ -22,6 +22,8 @@ Richard Mathew Stallman is an American free software movement activist and progr
 
 The story begins in the 1970s when an operating system called *UNIX* which stands for "Uniplex Information and Computer System" was created as an alternative to the system at Bell Labs ( NOKIA ) untitled *Multics*. UNIX quickly grew in popularity around Bell Labs and eventually schools and universities. 
 
+> Kernel : The kernel is a computer program at the core of a computer's operating system that has complete control over everything in the system.
+
 But then during the 80s UNIX started to diverge in many ways with many variants of the operating systems and many early computing companies that we know of today. Ship their computers with different variants of UNIX. 
 
 This is where Linux comes in. In 1991 a man named **Linus Torvalds** was a student at the University of Helsinki in Finland and was unhappy about that so he decide to made his own UNIX clone and called it Linux . So he decided to posted a letter in a popular Usenet newsgroup and say what is he going to do : 
