@@ -1,4 +1,4 @@
-# Linux 
+# 🐧Linux 
 
 ## The History 
 
@@ -43,7 +43,7 @@ https://distrowatch.com/ is a cool website if you want to have information about
 
 ### Try it
 
-I encourage you to try Linux , many people are scare because they think that it's very complicated to learn or are simply scared about the terminal. But in fact, it's very easy !! It's like Windows or Mac OS, there are no big differences between them. You can try any distributions without even installing it, you just need a USB key and the ISO of the distro you want to try and make it bootable.
+I encourage you to try Linux , many people are scare because they think that it's very complicated to learn or are simply scared about the terminal or they just simply think that is just for nerds and cs grads. But in fact, it's very easy !! It's like Windows or Mac OS, Linux is different but not hard. You can try any distributions without even installing it, you just need a USB key and the ISO of the distro you want to try and make it bootable.
 [Tutorial](https://www.forbes.com/sites/jasonevangelho/2018/09/18/how-to-safely-try-linux-on-your-mac-or-windows-pc/)
 
 ### Recommendations 
