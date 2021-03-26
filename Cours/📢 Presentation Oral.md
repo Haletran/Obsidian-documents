@@ -60,7 +60,8 @@ Manjaro | OpenSUSE
 Zorin | Kali 
 Linux Lite | Temple OS
 
-## TempleOS 
+
+## -TempleOS-
 
 TempleOS is a Christianity-themed operating system written by Terry A. Davis (1969–2018).Long story short, Davis was a former atheist who, after being hospitalized for mental health issues, then claimed to communicate with God and said he had heard him tell him to develop TempleOS.
 
