@@ -41,7 +41,7 @@ In 1996, The Linux mascot *Tux* was born. TUX stands for Torvald's UNIX. And was
 These early distros were designed with specific users and hardware in mind and since Linux is open-source then developers were always tweaking their systems to fit their needs for example one student at Morehead state university created his own distro base on SLS called SLACKWARE.
 
 There are hundred of Linux Distros available online today. Some of the most popular in 2020 were Ubuntu / Linux Mint / Elementary / Debian / Manjaro / etc... 
-https://distrowatch.com/ is a cool website if you want to have information about one particular distro or you can check on the website of the distro.
+https://distrowatch.com/ it's a cool website if you want to have information about one particular distro or you can check on the website of the distro you want to try.
 
 ### Try it
 
@@ -57,15 +57,18 @@ Kubuntu | Debian
 Elementary | Gentoo
 Pop! OS | Void
 Manjaro | OpenSUSE
-Zorin | Redhat 
-Linux Lite | Kali
+Zorin | Kali 
+Linux Lite | Temple OS
 
+## TempleOS 
+
+TempleOS is a Christianity-themed operating system written by Terry A. Davis (1969–2018).Long story short, Davis was a former atheist who, after being hospitalized for mental health issues, then claimed to communicate with God and said he had heard him tell him to develop TempleOS.
 
 ### Questions
 
 - Did you know Linux before my presentation ? If yes, have you tried it ?
-- Do you want to try the Linux experience ? 
 - What OS are you using right now ? ( Windows / Mac OS / Chrome OS / Linux )
+- Do you want to try the Linux experience ? If no, why ?
 - Do you have any questions ? 
 
 ###### 7:00 min presentation and 2 minutes questions
