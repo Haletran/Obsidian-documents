@@ -42,7 +42,7 @@ Voyages à l’étranger | Beaucoup de responsabilités
 Diversité des tâches | Dépendre d’une entreprise
 Créer de bout en bout un voyage  |
 
-## Evolutions de carrière
+## Évolutions de carrière
 Au niveau de ses responsabilités, il peut évoluer vers un poste de direction où
 il devra gérer une équipe de chefs de produits. Il peut également évoluer en travaillant dans une plus grande entreprise ou dans un autre type de structure (d’une agence de voyages à un tour opérateur et inversement).
 
