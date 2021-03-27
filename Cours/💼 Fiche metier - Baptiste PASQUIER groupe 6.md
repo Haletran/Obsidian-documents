@@ -2,7 +2,7 @@
 # **Chefs de produits touristiques**
  Le but du chef de produits touristiques est d’organiser un circuit dans un pays, une ville, une région... Il lui faut trouver des hébergements agréables et confortables, des moyens de transport, des visites et activités originales pour en faire une offre compétitrice. Il doit négocier avec les professionnels locaux pour mettre en place des partenariats, revoir les prix tout au long de l’année pour définir un budget qui permettrait d’offrir un forfait abordable aux consommateurs et une marge suffisante pour l’entreprise. Il doit également responsable de la communication : il doit gérer sa publicité via des catalogues, des sponsors, Internet… Il doit trouver ses arguments de vente, et mettre en avant ses circuits, en rédigeant les descriptifs, en mettant des photos aguichantes. C’est à lui de donner envie aux clients de voyager dans son agence.
 
-## Compétences : 
+## Compétences 
 
 Ce métier requiert de nombreuses compétences sociale et créative : 
 - Créativité et curiosité
