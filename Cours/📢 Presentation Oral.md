@@ -20,7 +20,7 @@ Richard Mathew Stallman is an American free software movement activist and progr
 
 ### History
 
-The story begins in the 1970s when an operating system called *UNIX* which stands for "Uniplex Information and Computer System" was created as an alternative to the system at Bell Labs ( NOKIA ) untitled *Multics*. UNIX quickly grew in popularity around Bell Labs and eventually schools and universities. 
+The story begins in the 1970s when an operating system called *UNIX* which stands for "Uniplex Information and Computer System" was created as an alternative to the system at Bell Labs ( NOKIA ) untitled *Multics*. UNIX quickly grew in popularity around Bell Labs and eventually schools and universities. [Unix-presentation](https://fr.wikibooks.org/wiki/Le_syst%C3%A8me_d%27exploitation_GNU-Linux/Unix_et_Linux)
 
 > Kernel : The kernel is a computer program at the core of a computer's operating system that has complete control over everything in the system.
 
@@ -40,12 +40,12 @@ In 1996, The Linux mascot *Tux* was born. TUX stands for Torvald's UNIX. And was
 
 These early distros were designed with specific users and hardware in mind and since Linux is open-source then developers were always tweaking their systems to fit their needs for example one student at Morehead state university created his own distro base on SLS called SLACKWARE.
 
-There are hundred of Linux Distros available online today. Some of the most popular in 2020 were Ubuntu / Linux Mint / Elementary / Debian / Manjaro / etc... 
+There are hundred of Linux Distros available online today. 700 to be precise. Some of the most popular in 2020 were Ubuntu / Linux Mint / Elementary / Debian / Manjaro / etc... 
 https://distrowatch.com/ it's a cool website if you want to have information about one particular distro or you can check on the website of the distro you want to try.
 
 ### Try it
 
-I encourage you to try Linux , many people are scare because they think that it's very complicated to learn or are simply scared about the terminal or they just simply think that is just for nerds and cs grads. But in fact, it's very easy !! It's like Windows or Mac OS, Linux is different but not hard. You can try any distributions without even installing it, you just need a USB key and the ISO of the distro you want to try and make it bootable.
+I encourage you to try Linux , many people are scare because they think that it's very complicated to learn or are simply scared about the terminal or they just simply think that is just for nerds and cs grads. But in fact, it's very easy !! It's like Windows or Mac OS, of course it's different but not that hard. You can try any distributions without even installing it, you just need a USB key and the ISO of the distro you want to try and make it bootable.
 [Tutorial](https://www.forbes.com/sites/jasonevangelho/2018/09/18/how-to-safely-try-linux-on-your-mac-or-windows-pc/)
 
 ### Recommendations 
@@ -60,6 +60,7 @@ Manjaro | OpenSUSE
 Zorin | Kali 
 Linux Lite | Temple OS
 
+*Distribution don't matter, the only thing they are is a starting place.*
 
 ## -TempleOS-
 
@@ -72,8 +73,7 @@ TempleOS is a Christianity-themed operating system written by Terry A. Davis (19
 - Do you want to try the Linux experience ? If no, why ?
 - Do you have any questions ? 
 
-###### 7:00 min presentation and 2 minutes questions
+###### 8:40 min presentation and 2 minutes questions
 
-
-
-
+GNU is the OS and Linux is the kernel. Car and engine 
+![1.4 Linux structure | Linux on the Mainframe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fflylib.com%2Fbooks%2F2%2F342%2F1%2Fhtml%2F2%2Ffiles%2F01fig01.gif&f=1&nofb=1)
