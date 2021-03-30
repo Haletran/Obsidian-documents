@@ -3,12 +3,12 @@
 
 Le but du chef de produits touristiques, aussi appelé chef de produits voyages, est d’organiser un circuit dans un pays, une ville, une région... que pourraient choisir les touristes. Il lui faut trouver des hébergements agréables et confortables, des moyens de transport, des visites et activités originales pour en faire une offre compétitrice. 
 Il doit négocier avec les professionnels locaux pour mettre en place des partenariats, revoir les prix tout au long de l’année pour définir un budget qui permette d’offrir un forfait abordable aux consommateurs et une marge suffisante pour l’entreprise. Il est également responsable de la communication : il doit gérer sa publicité via des catalogues, des sponsors, Internet... 
-Il doit trouver ses arguments de vente, et mettre en avant ses circuits, en rédigeant les descriptifs et en mettant des photos aguichantes. C’est à lui de donner envie aux clients de voyager dans son agence.
+Il doit trouver ses arguments de vente, et mettre en avant ses circuits, en rédigeant les descriptifs et en mettant des photos aguichantes. C’est à lui de donner envie aux clients de voyager grâce à son agence ou son tour-opérateur.
 
 ## Conditions et lieux de travail
 
-Le chef de produits touristiques est employé dans une agence de voyage ou un tour opérateur, spécialisé dans une zone géographique spécifique.
-Il n’est en voyage qu’un à deux mois par an, dans la zone locale. Le reste du temps, il travaille de son siège social, et gère les circuits de l’agence où il est. 
+Le chef de produits touristiques est employé par une entreprise, spécialisé dans une zone géographique spécifique.
+Il n’est en voyage qu’un à deux mois par an, dans la zone locale. Le reste du temps, il travaille de son siège social, et gère les circuits de son agence ou de son tour-opérateur. 
 Il voyage peu à l’étranger, c’est pourquoi il doit connaître le territoire sur le bout des doigts.
 
 ## Diplômes et formations
