@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💼 Fiche métier 🇷🇺.md",
-            "mode": "preview"
+            "file": "Colors.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💼 Fiche métier 🇷🇺.md",
+                "file": "Colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Colors.md",
+    "Liens.md",
     "💼 Fiche métier 🇷🇺.md",
     "💼 Fiche métier 🇫🇷.md",
+    "Untitled.md",
     "📢 Presentation Oral.md",
     "🔊  Oral comprehension 22-03-21.md",
     "TD7.md",
-    "Liens.md",
     "Immigration in Canada until WWII.md",
-    "Untitled.md",
-    "💼 Fiche métier RU.md",
-    "💼 Fiche métier FR.md"
+    "💼 Fiche métier RU.md"
   ]
 }
