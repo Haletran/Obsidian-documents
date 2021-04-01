@@ -6,6 +6,7 @@ Like that to color and put text in the middle : <h1 style="color:#F08080;  displ
 =="color"== to change color
 =="font-family"== to change the font 
 =="position"== to change position style
+=="u"== underline text
 
 
 

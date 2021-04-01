@@ -38,7 +38,42 @@ Those people were attracted because they wanted a new life out of poverty, war, 
 ## III - After World War II
 
 In the 1950's : promotion of Canada's economic growth : only Europeans were accepted (Italy / Spain / Greece/ Refugees).
-Since the 1970's : visible minorities from the developing world.
+Since the 1970's : things have changed a lot, emergence of visible minorities from the developing world.
+
+## 1967 : Immigration Act 
+
+The Immigration policy in America were completely revised. Implemented in 1967. These selections is not possible anymore ( racial/national ).
+As a consequence today , they are three categories of Immigration : 
+- Economic class : selected according a system of points adapted to the needs of the labor market. ( ex : The Skilled Worker Immigration Program ) Training / Education / Languages , *60%*
+- Family Class :  when someone is sponsored by a relative already living in Canada. (Recommendations) *30%*
+- Refugees Class : *10%*, People can apply to have a permanent residence, someone who want to leave his country for many reasons.The most recent were the Syrians in 2016 because of the conflict in Syria.  And also many illegals immigrants.
+
+## Ethnic and visible minorities 
+
+<u>Definitions :</u>
+
+ **Ethnic Minorities** : People who do not belong to one of the two charters groups or the Aboriginal category and who still retain some elements of their parents or ancestor's original foreign identity ( language, religion, customs...)
+ 
+ **Immigrants** : people who have come to Canada to settle but who have not yet acquired Canadian citizenship (recent/established immigrant)
+ 
+ **Visible minorities** : 'persons, other than Aboriginal people, who are non-Caucasian in race or non'white in color.'' (Canadian Employment Equity Act)
+ 
+<u>According to the last 2016 Census :</u>
+- Over 250 ethnic origins reported 
+- More than 1 in 5 Canadians are foreign-born
+- Almost half of the foreign-born population is from Asia
+- Africa accounts for the second largest source continent of recent immigrants
+- Growth of the visible minority population(22,3% of the population) : South Asians, Chinese and Blacks
+- The visible population expected to grow and represent between 31.2% and 35.9% of the Canadian population by 2036.
+
+
+
+
+
+
+
+
+
 
 
 
