@@ -66,6 +66,30 @@ As a consequence today , they are three categories of Immigration :
 - Growth of the visible minority population(22,3% of the population) : South Asians, Chinese and Blacks
 - The visible population expected to grow and represent between 31.2% and 35.9% of the Canadian population by 2036.
 
+<u>Historical geographic  distribution :</u>
+
+- **The prairies :** Ukrainians, Germans, Polish
+- **Ontario :** Italians, Chinese, East Indians and Caribbeans
+- **British Columbia :** Chinese 
+- **Quebec :** Haitians, Italians
+- **Atlantic Canada :** Europeans
+
+(Map for percentage)
+
+Half of the immigrants live in Toronto, Vancouver and Montreal. The prairies are welcoming more immigrants (job opportunities and high standards of living).
+
+
+## Linguistic and economic integration of ethnic minorities 
+
+<u>Social and economic integration :</u>
+
+Knowing one of the 2 official languages help immigrants to be socially and economically integrate.(French in Quebec and English others)
+Many immigrants considered that the social and economic experience in Canada is the best (high education / work experience ) but finding a job is very difficult. 
+
+[2016-Census](https://www.statcan.gc.ca/eng/sc/video/2016census-immigration)
+
+
+
 
 
 
