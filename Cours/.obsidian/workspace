@@ -10,18 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "💼 Fiche métier 🇫🇷.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "aff3bcc79ca1acf9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "💼 Fiche métier 🇷🇺.md",
+            "file": "TD8.md",
             "mode": "source"
           }
         }
@@ -80,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💼 Fiche métier 🇫🇷.md",
+                "file": "TD8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "TD8.md",
+    "TD7.md",
+    "TD6.md",
+    "Untitled.md",
     "💼 Fiche métier 🇫🇷.md",
     "Immigration in Canada until WWII.md",
     "Cheatsheet Md-HTML.md",
     "Liens.md",
     "📢 Presentation Oral.md",
-    "💼 Fiche métier 🇷🇺.md",
-    "Fiche RU.md",
-    "Fiche FR.md",
-    "Untitled.md",
-    "Fiche.md"
+    "💼 Fiche métier 🇷🇺.md"
   ]
 }
