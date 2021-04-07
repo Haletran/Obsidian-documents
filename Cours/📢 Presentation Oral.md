@@ -72,8 +72,3 @@ TempleOS is a Christianity-themed operating system written by Terry A. Davis (19
 - What OS are you using right now ? ( Windows / Mac OS / Chrome OS / Linux )
 - Do you want to try the Linux experience ? If no, why ?
 - Do you have any questions ? 
-
-###### 8:40 min presentation and 2 minutes questions
-
-GNU is the OS and Linux is the kernel. Car and engine 
-![1.4 Linux structure | Linux on the Mainframe](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fflylib.com%2Fbooks%2F2%2F342%2F1%2Fhtml%2F2%2Ffiles%2F01fig01.gif&f=1&nofb=1)

@@ -6,12 +6,11 @@
       {
         "id": "ac4160919475d1c2",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Devoir 2 - Baptiste PASQUIER.md",
-            "mode": "source"
+            "file": "📢 Presentation Oral.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devoir 2 - Baptiste PASQUIER.md",
+                "file": "📢 Presentation Oral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "ac4160919475d1c2",
   "lastOpenFiles": [
+    "📢 Presentation Oral.md",
+    "🔊  Oral comprehension 22-03-21.md",
+    "Devoir 2 - Baptiste PASQUIER.md",
+    "Cheatsheet Md-HTML.md",
     "Untitled.md",
     "TD8.md",
-    "Cheatsheet Md-HTML.md",
     "TD7.md",
     "Liens.md",
     "💼 Fiche métier 🇫🇷.md",
-    "📢 Presentation Oral.md",
-    "Immigration in Canada until WWII.md",
-    "TD6.md",
-    "💼 Fiche métier 🇷🇺.md"
+    "Immigration in Canada until WWII.md"
   ]
 }
