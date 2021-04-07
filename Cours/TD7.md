@@ -14,7 +14,6 @@ La Sécurité sociale est devenue de plus en plus un système beveridgien car el
 Beveridge = assurance et assistance / nationale 
 
 3 - Pourquoi la Sécurité sociale rencontre-t-elle des problèmes d’équilibre financier ? (Présentez un tableau de l’évolution financière de la Sécurité sociale depuis 2006)
-![[Pasted image 20210331195857.png]]
 
 
 4 - Présentez les moyens mis en place, au fil du temps, auxquels le passage du texte suivant fait référence : « Un certain nombre de plans de redressements se succèdent, qui comprennent des augmentations de recette ou de cotisation et des mesures de régulation de la dépense ou de déremboursements »

@@ -16,12 +16,9 @@
 **Evolution du taux d'emploi aux USA et en France depuis 1970**
 >Rapport entre le nombre de personnes en emploi et le nombre total de personnes. (*INSEE*)
 
-![[Pasted image 20210324165732.png | 400]]
-![[Pasted image 20210324170314.png | 300]]
 
 **Photographies**
 
-![[Pasted image 20210323095817.png | 300]]
 ![SEPTEMBRE 2018 - USINE RENAULT | 300](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.y-ingenierie.com%2Fmedia%2Fuploads%2Fzinnia%2FImage2_YLfwK3a.jpg&f=1&nofb=1)
 ![Usine Dacia de Mioveni - Newsroom Groupe Renault | 300](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbe-fr.media.groupe.renault.com%2Fmedia%2Fcache%2Fresolve%2Frenault_no_filter_grid_fs%2F5e8e115dc2c3d58d6355ddc3&f=1&nofb=1)
 
