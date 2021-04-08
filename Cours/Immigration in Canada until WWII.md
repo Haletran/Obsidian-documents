@@ -88,9 +88,12 @@ Many immigrants considered that the social and economic experience in Canada is 
 
 [2016-Census](https://www.statcan.gc.ca/eng/sc/video/2016census-immigration)
 
+#### <u>Devoir :</u>
+==11-12h: Epreuve écrite qui portera sur le TD (sujet déposé sur Updago)  
+15-16h: QCM qui portera sur le CM (à faire sur Updago)==
 
 
-
+-- rattraper le dernier cours de diversite culturelle --
 
 
 
