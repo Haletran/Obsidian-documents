@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Immigration in Canada until WWII.md",
+            "file": "Oral PPE - Chef de produits touristiques.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204
+    "width": 204,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Immigration in Canada until WWII.md",
+                "file": "Oral PPE - Chef de produits touristiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "ac4160919475d1c2",
   "lastOpenFiles": [
-    "Immigration in Canada until WWII.md",
-    "💼 Fiche métier 🇷🇺.md",
-    "💼 Fiche métier 🇫🇷.md",
     "Oral PPE - Chef de produits touristiques.md",
-    "Cheatsheet Md-HTML.md",
+    "Immigration in Canada until WWII.md",
     "🔊 Oral comprehension 07-04 - Baptiste PASQUIER.md",
+    "💼 Fiche métier 🇷🇺.md",
+    "📢 Presentation Oral.md",
+    "💼 Fiche métier 🇫🇷.md",
+    "Cheatsheet Md-HTML.md",
     "TD8.md",
     "Liens.md",
-    "📢 Presentation Oral.md",
     "Devoir 2 - Baptiste PASQUIER.md"
   ]
 }

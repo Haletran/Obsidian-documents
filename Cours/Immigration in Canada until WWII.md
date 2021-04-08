@@ -93,13 +93,39 @@ Many immigrants considered that the social and economic experience in Canada is 
 15-16h: QCM qui portera sur le CM (à faire sur Updago)==
 
 
--- rattraper le dernier cours de diversite culturelle --
+-- rattraper le dernier cours de diversite culturelle  car juste les notes du diapos--
 
 
+## The different meaning of Multiculturalism
 
+- A demographic fact 
+- An ideology 
+- A public policy 
 
+## Purposes of multiculturalism 
+- to reduce prejudice 
+- to support and encourage cultural preservation 
+- to integrate (not to assimilate)
+- to promote intergroup contacts and cultural exchanges
+- to promote social and economic integration  
 
+## Evolution of multiculturalism
+- Canadian multiculturalism act passed in 1988
+Campaigns against racism (poster diapo)
+Employement equity measures
 
+## The perception of multiculturalism by Canadians 
+
+- Immigration has a positive effect on Canada' (Cititzenship and Immigration,2007)
+- Positive contribution to the growth of the nation (high educated immigrants)
+- Absence/few of illegal immigrants
+![Justin Trudeau | 100 ](https://upload.wikimedia.org/wikipedia/commons/a/a9/Justin_Trudeau_in_Lima%2C_Peru_-_2018_(41507133581)_(cropped).jpg)
+- Election of Justin Trudeau (Liberal) in 2015
+
+## The perception of multiculturalism by Canadians
+(picture on the slide)
+Canada : 68%(more things to fit) / 32%(encourage cultural diversity)  
+United States : 53%(more things to fit)  / 47%(encourage cultural diversity)
 
 
 
