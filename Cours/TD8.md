@@ -10,7 +10,7 @@ L'entreprise est plus productive donc augmentation de la production donc plus de
 2 - Quels sont les différents bénéficiaires de la valeur ajoutée d’une entreprise ?
 
 La valeur ajoute c'est la soustraction entre le chiffre d'affaires et les consommations intermediaires. C'est ce que l'entreprise produit / ajoute aux produits quelles achetent. 
-Les differents beneficaires de la valeur ajoute d'une entreprise sont les salaries, les banques, l'Etat, les actionnaires et aussi a l'entreprise elle meme. 
+Les differents beneficaires de la valeur ajoute d'une entreprise sont les salaries, les banques, l'Etat, les actionnaires et aussi l'entreprise elle meme. 
 
 3 - Retrouvez pour chacune des situations suivantes, le(s) bénéficiaire(s) de la valeur ajoutée. Justifiez vos choix.
 
