@@ -70,12 +70,6 @@ En russe, les pronoms démonstratifs dépendent du genre et du nombre du sujet.
 играть : B si sport / HA si instruments  
 ex : Я люблю играть в футбол / Мне нравится играть на скрипке.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <u>La famille </u> 
 
 FR | RU 
