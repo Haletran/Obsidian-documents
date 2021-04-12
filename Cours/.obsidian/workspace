@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TD8.md",
+            "file": "Partiels/Russe langue.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204,
-    "collapsed": true
+    "width": 204
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TD8.md",
+                "file": "Partiels/Russe langue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "ac4160919475d1c2",
   "lastOpenFiles": [
+    "Partiels/Russe langue.md",
+    "Partiels/Grammaire Anglaise.md",
+    "Pasted image 20210412141514.png",
+    "Pasted image 20210412141325.png",
+    "L1/Cheatsheet Md-HTML.md",
+    "Untitled.md",
+    "Partiels/Untitled.md",
     "TD8.md",
     "🔊 Oral comprehension 07-04 - Baptiste PASQUIER.md",
-    "🔊  Oral comprehension 22-03-21.md",
-    "Cheatsheet Md-HTML.md",
-    "Devoir 2 - Baptiste PASQUIER.md",
-    "Oral PPE - Chef de produits touristiques.md",
-    "💼 Fiche métier 🇷🇺.md",
-    "Immigration in Canada until WWII.md",
-    "📢 Presentation Oral.md",
-    "💼 Fiche métier 🇫🇷.md"
+    "🔊  Oral comprehension 22-03-21.md"
   ]
 }
