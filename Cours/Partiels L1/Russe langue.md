@@ -239,6 +239,3 @@ A l’accusatif, les masculins ne changent pas par rapport au nominatif, sauf s�
 Les mots feminins « a » devient « у » et « я » devient « ю ».  le neutre ne change pas.
 
 exemple :  maison - дом | fille - девушку  | mer - море
-
-
-❌✏️

@@ -7,7 +7,7 @@ Le caractère et les signes voyelles peuvent être considérés comme des signes
 ### L'alphabet 
 28 lettres avec la hamza
 
-![[Pasted image 20210413144633.png]]
+![[alphabeta.png]]
 
 ### Les voyelles 
 
@@ -16,7 +16,11 @@ Les voyelles brèves s'écrivent sur/sous la lettre après laquelle elles se pro
 
 <u>Ecriture des voyelles brèves :</u>
 
-![[Pasted image 20210413145417.png]]
+Les voyelles courtes en arabe sont au nombre de 4 : 
+-   La fatha (الْفَتْحَة) qui s’écrit بَ. Cela donne à l’oral le son « è ».
+-   La kasra (الكَسْرَة) qui s’écrit بِ. Cela donne le son « i » à l’oral.
+-   La damma (الضَّمَّة) qui s’écrit بُ. A l’oral on la prononce « ou ».
+-   La soukoun (السُّكُون) qui s’écrit بْ. Cela s’illustre à l’oral par une aspiration de la lettre ornée de la soukoune.
 
 ### Mots invariables
 
