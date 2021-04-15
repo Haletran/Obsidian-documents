@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partiels L1/Grammaire Anglaise.md",
+            "file": "Partiels L1/Russe langue.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels L1/Grammaire Anglaise.md",
+                "file": "Partiels L1/Russe langue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "ac4160919475d1c2",
   "lastOpenFiles": [
+    "Partiels L1/Russe langue.md",
     "Partiels L1/Grammaire Anglaise.md",
     "Partiels L1/Arabe.md",
     "test.md",
@@ -96,7 +97,6 @@
     "alphabeta.png",
     "L1/Devoir 2 - Baptiste PASQUIER.md",
     "Group 3(2).png",
-    "Group 3(1).png",
-    "Group 3.png"
+    "Group 3(1).png"
   ]
 }
