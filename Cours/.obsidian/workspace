@@ -7,9 +7,10 @@
         "id": "ac4160919475d1c2",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "voyelles.png"
+            "file": "Partiels L1/Grammaire Anglaise.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "voyelles.png",
+                "file": "Partiels L1/Grammaire Anglaise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +88,15 @@
   },
   "active": "ac4160919475d1c2",
   "lastOpenFiles": [
+    "Partiels L1/Grammaire Anglaise.md",
+    "Partiels L1/Arabe.md",
+    "test.md",
     "voyelles.png",
     "Group 1(1).png",
     "alphabeta.png",
     "L1/Devoir 2 - Baptiste PASQUIER.md",
     "Group 3(2).png",
     "Group 3(1).png",
-    "Group 3.png",
-    "Group 2.png",
-    "Group 1.png",
-    "Partiels L1/Economie.md"
+    "Group 3.png"
   ]
 }
