@@ -1,4 +1,16 @@
-# 
+# Diversities in the anglophone world
+
+Many different types of things or being included in something : 
+=> the social, economic, ethnic or cultural diversity of a country 
+A situation where there are many different ideas or opinions about something : 
+=> different political or religious ideas (Cambridge dictionary)
+
+## What is culture ? 
+
+Culture is one of the most complicated terms to defined, they are many definitions depending on approaches or theory (philosophy,sociology...)
+Culture characterizes the practices and lifestyle shared by some humans beings : language, religions , customs , art/music, food, clothes, sports, beliefs, attitudes... Culture always change/ on the move and depend on people. Culture can be transmitted, learn, borrowed and/or created (sociological definition)
+
+## Cultural stereotypes
 
 
 
@@ -12,32 +24,15 @@
 
 
 
+# The United Kingdom 
+*(England, Scotland, Wales, Northern Ireland)*
 
+## Concept and definitions 
 
+- Culture : is the root of the word "multiculturalism", culture = practices and lifestyle shared by some human beings, always in progress not still, evolving. 
+- Britishness : 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+To complete 
 # Immigration in Canada 🇨🇦
 ## Founding people
 
