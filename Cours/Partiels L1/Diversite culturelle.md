@@ -12,19 +12,60 @@ Culture characterizes the practices and lifestyle shared by some humans beings :
 
 ## Cultural stereotypes
 
+Culture is very often define according to specific statements and representations which are not always true or which are incomplete. Categorize people depending on their genders / origins / attitudes. 
+
+## The danger of culture 
+
+Of course the stereotypes can be sometimes funny but they are also many others stereotypes which can be very hurtful and  very dangerous as well. 
+The main problem is when people consider that their culture is the only one which is valid as oppose to the others culture (example : the notion of the Western culture).This is part of a tendency call ethnocentrism. 
+***Ethnocentrism*** : the tendency to consider that our culture is superior and the only valid one. That all the other culture are strange and inferior. 
+
+One of the many consequences of ethnocentrism, is the rejection of all the others culture groups which can lead to issue in daily life for example issues in the workplace / school / social life. This rejection can take various forms / shapes, negative feeling or attitude = *prejudice* / negative behaviors or actions = *discrimination*. Racism is an example of both prejudice and discrimination. And sometimes ethnocentrism can also lead to fear and hatred of people with other cultures/ origins = *xenophobia*
+
+## Definitions 
+
+Cultural diversity refers to a situation where there are different groups within a society who try to maintain and develop their cultural identities. 
+- a sociological reality : immigrants have come to settle in  a host / receiving society (=almost all countries in the world are multicultural)
+- a political program : cultural differences are officially preserved and promoted (Multiculturalism in Canada, in Australia)
+- an ideology : cultural differences are valuable and should be preserved (different metaphors : multiculturalism, cultural mosaic, salad bowl...)
+
+Salad bowl = refers to a juxtaposition or addition of various ingredients that keep their individual characteristics and qualities. When applied to a given society characterized by cultural diversity, you can see that people are able to keep their original ethnic culture. 
+
+## Integration vs Assimilation 
+
+- Integration : people are bale to adopt the cultural norms of the dominant group culture while maintaining their culture of origin
+=> "The Salad Bowl" or "Mosaic" metaphors 
+
+- Assimilation : people give up their culture of origin and adopt norms of the dominant culture 
+=> "The Melting Pot" metaphor
+
+## The Melting pot concept 
+
+The USA are often refer as a mixture or a melting pot of people from a wide variety of culture / religion / tradition /  ideas... In 1908, this concept was invented by *Israel Zangwill*  (title of a play) to describe the process of assimilation of immigrants coming to the USA.(affiche diapo)
+This concept rely on the idea that everyone who lives in USA can become a part of a larger that is uniquely American. People have left behind their original identity to become American. 
+
+## Salad bowl vs Melting pot
+
+The image of the Salad Bowl celebrate diversity because Americans culture are juxtapose like salad ingredients but do not mixed.
+The image of Melting Pot, we can see a mixture or blending of many different people who would become American. 
+
+Nowadays, the cultural trend in the US is cultural diversity (=salad bowl) and not assimilation (=melting pot). 
+
+## Race / ethnicity 
+
+- Race = often linked to biology (people having common hereditary traits), but also linked to culture.
+- Ethnicity = linked to culture (people having a common ancestry or sharing a cultural heritage)
+
+But the two categories can overlap because a person may have multiple racial and ethnic backgrounds.
 
 
+## The colonial period (1607-1776)
 
+-To complete-
 
+<br>
 
-
-
-
-
-
-
-
-# The United Kingdom 
+# The United Kingdom 🇬🇧
 *(England, Scotland, Wales, Northern Ireland)*
 
 ## Concept and definitions 
@@ -32,7 +73,8 @@ Culture characterizes the practices and lifestyle shared by some humans beings :
 - Culture : is the root of the word "multiculturalism", culture = practices and lifestyle shared by some human beings, always in progress not still, evolving. 
 - Britishness : 
 
-To complete 
+-To complete-
+<br>
 # Immigration in Canada 🇨🇦
 ## Founding people
 
@@ -170,3 +212,5 @@ Others measures were taken for immigration education for example some initiative
 
 Canada : 68%(more things to fit) / 32%(encourage cultural diversity)  
 United States : 53%(more things to fit)  / 47%(encourage cultural diversity)
+
+
