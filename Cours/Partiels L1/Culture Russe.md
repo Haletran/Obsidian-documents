@@ -420,33 +420,192 @@ Règne aussi marqué par violence et autoritarisme :
 
 ### La fin de la dynastie des Riourikides
 
+Mort des enfants d’Ivan IV : 
+- En 1591 meurt, peut-être assassiné par le régent Boris Godounov, le tsarévitch Dimitri, âgé de 8 ans (le plus jeune des fils d’Ivan IV) à Ouglitch (loin de Moscou)
+- En 1598 meurt, sans laisser d’hériSer, Fédor Ier de Russie, le dernier tsar de la dynastie des Riourikides
 
-
-
-
+De fait, Fédor n’a jamais eu les capacités intellectuelles pour régner – c’est son
+beau-frère Boris Godounov qui assure le règne. De 1598 à l’avènement du premier tsar de la dynastie des Romanov en 1613, la Russie traverse le « Temps des troubles »
 
 ### Le « Temps des troubles » (Смутное время)
+
+Dans un contexte de peste et de famine en 1603, on voit apparaitre le premier « Faux Dimitri » = Gregori Otrepiev qui, avec un grand soutien de la population et des Polonais, devient effectivement tsar en 1605 (assassiné un an après).
+Le boyard Vassili Chouiski devient tsar de 1606 à 1610. 
+=> Guerre russo-polonaise (jusqu’en 1618)
+Apparition d’un 2e Faux Dimitri.
+
 ### Le début de la dynastie des Romanov
+
+1613: élecSon de Michel Romanov par une assemblée de la noblesse (« zemski sobor »)
+**Michel Fiodorovitch Romanov** (1596-1645) est ainsi le fondateur de la dynastie des Romanov (qui règnera sur la Russie jusqu’à la Révolution de février 1917).
 
 3) Pierre Ier
 
 ### Le Raskol ou schisme de l’Eglise orthodoxe
+
+1652: lancement des réformes du patriarche Nikon à l’origine du Raskol
+(schisme).
+=> émergence des vieux-croyants ou schismaSque
+
 ### La Révolte de Stenka Razine
+
+1667-1671: La révolte du cosaque Stenka Razine contre la noblesse et
+l’administration russe embrase le bassin de la Volga. Mouvement contre les
+impôts, la conscription et le servage
+
 ### Le traité de Nertchinsk
+
+Le Traité de Nertchinsk (Chinois: 尼布楚 Pinyin: Níbùchǔ) est un important traité de paix conclu entre la Russie et l'Empire Qing. Signé le 6 septembre 1689 (27 août du calendrier julien) dans la petite ville de Nertchinsk, il délimite la frontière entre la Chine et la Russie (en Sibérie), et met fin à un conflit militaire dont l'enjeu était la région du fleuve Amour.
+
 ### Le règne de Pierre Ier
+
+1689-1725: règne de Pierre Ier dit « le grand »
+1697-1698: voyage de Pierre Ier à travers l’Europe à la tête de la Grande Ambassade
+1700 :  Entrée de la Russie dans la Guerre du Nord; défaite russe à Narva
+1709 : victoire russe à Poltava contre Charles XII de Suède
+
 ### La construction de Saint-Pétersbourg
+
+1703: construction d’une ville sur la Mer baltique, une « fenêtre vers
+l’Occident » = Saint-Pétersbourg
+
 ### Le règne de Pierre Ier
+
+1712: Saint-Pétersbourg devient la capitale de l’Empire russe
+1717: voyage officiel de Pierre Ier à Paris. Début des relations officielles entre
+France et Russie
+1722: Mise en place de la table des rangs (tchins) qui détermine précisément le degré de dignité des « serviteurs de l’Etat » (tchinovniki) civils et militaires en 14 rangs.
+1724: Fondation de la première université de Russie par Pierre Ier à Saint-Pétersbourg
 
 4) Le XVIIIe siècle, Catherine II
 
 ### Le règne de Catherine II 
+
+1762-1796: règne de Catherine II
+**Catherine II**(Екатерина II, 1729-1796), née Sophie Frédérique Augusta d’Anhalt-Zerbst, prend le nom de Catherine en se convertissant à la religion orthodoxe.
+Son règne est marqué par une grande expansion du territoire de l’Empire russe dans le sud (Crimée) et l’est (Pologne). Elle se marie à 15 ans à Pierre III (1728-1762). Après la mort de l’impératrice Elisabeth I en 1861, Catherine craint pour sa vie et décide de renverser Pierre III pour prendre le trône. Pierre III est assassiné par les frères Orlov dans des circonstances troubles. 
+
 ### La révolte de Pougatchev 
+
+1773-1774: Révolte de Pougatchev 
+**Emelian Pougatchev** (1742-1775), fils d’un cosaque du Don, petit propriétaire terrien erre dans le pays après avoir terminé une carrière militaire. 
+1773 : dit être Pierre III et prétend au trône de Russie, il déclenche une insurrection dans les régions de la Volga et de l’Oural
+Le pouvoir ne prend pas au sérieux la rébelliondans un premier temps ; met fin aumouvement en 1774 – Pougatchev condamné à la peine de mort et exécuté à Moscou. 
+
 ### La conquête des steppes 
+
+6e Guerre russo-turque de 1768-1774
+1774: Paix de Kutchuk-Kaïnardji avec l’Empire ottoman (ouverture du pays vers la mer Noire).
+1783: Annexion de la Crimée
+
+A la fin de la 6e Guerre russo-turque, l’Empire o(oman cède des territoires à la Russie  et donne l'indépendance au Khanat de Crimée que les Russes annexent en 1783.
+
 ### L’expansion de la Russie et Les Partages de la Pologne
 
-6) Du début du XIXe siècle à l’abolition du servage (1861)
-7) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
-8) La Révolution d’octobre et la Guerre civile russe
-9) Le Stalinisme et la Seconde Guerre mondiale
-10) Des années 1950 à la fin de l’URSS
-11) Histoire récente de la Russie
+<img src="expansionrussie.png" alt="expansionrussiecarte" > 
+
+Trois « partages » successifs, en 1772, 1793 et 1795, entre les trois puissances voisines, l’Empire de Russie, le Royaume de Prusse et l’Empire d’Autriche.
+
+5) Du début du XIXe siècle à l’abolition du servage (1861)
+
+### Le règne de Paul Ier
+### Le règne d’Alexandre Ier (1801-1825)
+### La Russie autour de 1800
+### La société russe autour de 1800
+### Alexandre Ier et Napoléon 
+### La Campagne de Russie de Napoléon
+### La « Guerre patriotique »
+### 1814 – Les Russes à Paris
+### La révolte des décembristes
+### Le règne de Nicolas Ier (1825-1855)
+### Astolphe de Custine
+### L’insurrection de Varsovie 1830
+### La guerre de Crimée (1853-1856)
+### *L’Histoire de la Sainte Russie* de Gustave Doré
+### Le règne d’Alexandre II (1855-1881)
+### L’abolition du servage
+### Les réformes
+
+6) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
+
+### Socialisme et anarchisme
+### Populisme et terrorisme
+### L’assassinat d’Alexandre II
+### Le règne d’Alexandre III (1881-1894)
+### Les grands changements de la fin du XIXe siècle
+### Le règne de Nicolas II (1894-1917)
+### L’Alliance franco-russe
+### La crise en Russie
+### Le « dimanche rouge »: la RévoluGon de 1905 
+### Fin de la révolution de 1905
+### La Russie rentre dans la 1ère Guerre mondiale
+### L’Année 1917 en bref
+### L’Année 1918 en bref
+
+7) La Révolution d’octobre et la Guerre civile russe
+
+### Le désastre de la Première Guerre mondiale
+### Nicolas II s’obstine
+### La Révolution de février 
+### Le gouvernement provisoire
+### Le retour de Lénine
+### La question de la paix
+### Les journées de juillet
+### La Russie sombre dans l’anarchie
+### Octobre
+### La « Grande RévoluAon socialiste d’Octobre »
+### L’Assemblée constituante
+### La guerre civile
+### 1922: un pays dévasté
+
+8) Le Stalinisme et la Seconde Guerre mondiale
+
+### 1921: Nouvelle poliAque économique (NEP)
+### 1922: la naissance de l’URSS
+### 1924: la mort de Lénine
+### 1927: Staline écarte ses concurrents
+### 1928-1953: la dictature stalinienne
+### 1928: Début du 1er plan quinquennal
+### L’industrialisation forcée
+### 1929: la collectivisation
+### Culte de la personnalité
+### La Grande Terreur
+### 1939: le pacte germano-soviétique
+### 1941: Hitler a(aque l’URSS
+### La population russe et la guerre
+### 1942: Stalingrad
+### 1945: Fin de la 2e Guerre mondiale
+### 1947: le début de la Guerre froide 
+### 1952/1953: la lu(e contre les « cosmopolites » 
+### 1953: mort de Staline 
+
+9) L’ère de Nikita Khrouchtchev (1955-1964)
+
+### 1955: La signature du pacte de Varsovie
+### 1956: XXe congrès du PCUS 
+### 1956: intervention sovitiXque à Budapest
+### 1957: lancement de Spoutnik
+### 1961: premier vol habité dans l’espace
+### 1962: émeutes de Novotcherkassk
+### Programme d’habitation sous Khrouchtchev
+
+10) L’URSS sous Léonid Brejnev (1964-1982)
+
+### 1964: limogeage de Khrouchtchev
+### Une ère stable – et figée
+### 1968: intervention militaire en Tchécoslovaquie
+### 1968: traité de non-proliféraXon nucléaire
+### Détente et croissance économique
+### Stagnation
+### 1974: Expulsion de A. Soljenitsyne
+### 1979: Début de la guerre en Afghanistan
+### Novembre 1982: mort de Brejnev
+
+11) Gorbatchev et la fin de l’URSS (1982-1991)
+
+### 1985: Mikhaïl Gorbatchev accède au pouvoir
+### Glasnost’
+### Politique extérieure
+### Tchernobyl
+### 1989
+### 1991
