@@ -217,7 +217,7 @@ exemple  : Elle part la semaine prochaine = Она уезжает на след�
 
 <u>Les pronoms russes au locatif : </u> 
 
-<img src="tablocpro.png" alt="tableau pronoms locatif"
+<img src="tablocpro.png" alt="tableau pronoms locatif">
 
 <u>Les noms russes au locatif  :</u>
 
