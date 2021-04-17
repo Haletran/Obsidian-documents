@@ -509,22 +509,156 @@ Trois « partages » successifs, en 1772, 1793 et 1795, entre les trois puissanc
 5) Du début du XIXe siècle à l’abolition du servage (1861)
 
 ### Le règne de Paul Ier
+
+Mort soudaine de Catherine II en 1796, Son fils Paul, âgé de 42 ans, accède à la couronne. Il a le meme caractère irritable, haine de sa mère. 
+Frédéric II de Prusse dit sur Paul Ier (qu’il voit à Berlin):
+
+> Il se montra altier, haut et violent, ce qui fit craindre à ceux qui connaissaient la Russie qu’il ne lui fût difficile de se maintenir sur le trône où, appelé à gouverner un peuple dur et féroce, gâté en outre par le gouvernement trop doux de plusieurs impératrices, il risquait de subir un sort semblable à celui de son malheureux père.
+
+Paul a un grand amour pour le militaire et les parades (comme son père, Pierre III), Il s’entoure d’une armée et de soldats de ses gardes; prend l’armée prussienne comme modèle. Il mène une politique extérieure hasardeuse
+(d’abord dans l’alliance contre la France révolutionnaire, puis il se rapproche de Napoléon et se distancie de l’Angleterre)
+
+Pour débarrasser le pays de Paul Ier, le comte von der Pahlenprend les choses en mains => complot
+Mieux organisé que l’assassinat de Pierre III (plutôt improvisé), Alexandre, fils de Paul, donne son accord, mais ne participe pas à l’assassinat. Assassinat de l’empereur dans la nuit du 11 au 12 mars 1801. 
+
 ### Le règne d’Alexandre Ier (1801-1825)
+
+Élevé par sa grand-mèrre (Catherine II) à l’écart de son père (Paul Ier )
+Son précepteur est le Suisse Frédéric-César de La Harpe, qui lui transmet des
+idées libérales. Catherine souhaitait faire d’Alexandre son successeur direct, mais lors de sa mort, le décret n’était pas signé. Hanté par l’assassinat de son père (il était au courant du complot, mais pas du fait que Paul allait trouver la mort). Après un temps de réflexion, décide de se positionner contre Napoléon Bonaparte, qui monte en puissance.
+
 ### La Russie autour de 1800
+
+Début du XIXe siècle: la Russie est le plus grand pays du monde – après une forte extension (sur la Baltique, en Pologne, vers la mer Noire, en Transcaucasie).
+C’est un empire multiethnique et multiconfessionnel: quelques 41 millions d’habitants, dont la moitié est russe – et l’autre moitié appartient à l’un des nombreux autres peuples.
+Avec la France, l’Angleterre, la Prusse et l’Autriche, la Russie fait désormais partie du « club » des cinq grandes puissances européennes sur lesquelles
+repose le système diplomatique et militaire européen.
+
 ### La société russe autour de 1800
+
+Société assez pauvre et peu structurée en grande partie rurale. Servage maintenu (près de 90% de la population). Dirigée par une monarchie
+absolue qui s’impose par son armée, par l’industrie métallurgique (1er rang
+mondial), par son système administratif et fiscal.
+Surproduction de céréales => export
+
 ### Alexandre Ier et Napoléon 
+
+Premiers affrontements contre Napoléon se soldent par un échec pour Alexandre Ier (Austerlitz, Friedland).
+1807: traité franco-russe signé à Tilsit à la surprise générale. Le Traité de paix s’avère être un traité d’alliance (qui lie la Russie)
+1812: invasion de la Russie par Napoléon
+
 ### La Campagne de Russie de Napoléon
+
+Russie lève le blocus continental avec l’Angleterre.
+Napoléon lance une armée de 680 000 hommes contre la Russie et, après la sanglante bataille de Borodino, arrive jusqu’à Moscou. 
+Moscou vidée de ses habitants et de toute provision, puis incendiée par les
+Russes sur décision du gouverneur de la ville, Fédor Rostopchine.
+
+Problèmes de ravitaillement: Napoléon comprend (trop tard) qu’il ne pourra pas passer l’hiver en Russie avec une armée complète. La Retraite commence le 18 octobre alors que l’hiver est tout proche. L’armée doit traverser un pays désert, sans ravitaillement, par un froid rapidement glacial, sous les attaques de l’armée russe.
+
+Moment symbolique de la défaite française: traversée du fleuve Bérézina (aujourd’hui en Biélorussie). En tout, la Campagne de Russie cause à Napoléon
+des pertes énormes (quelques 200 000 morts et 180 000 soldats capturés).
+
 ### La « Guerre patriotique »
+
+Conséquence de la guerre en Russie: sentiment national russe renforcé;
+culture et langue nationale favorisées (au détriment du français).
+Cette guerre est appelée la« Guerre patriotique » en Russie (« Отечественная войнa »).
+
 ### 1814 – Les Russes à Paris
-### La révolte des décembristes
+
+L’armée russe poursuit sonchemin vers l’ouest; l’Autricheet la Prusse rejoignent l’alliance anti-napoléonienne. La bataille de Leipzig met un terme aux ambitions napoléoniennes. L’armée russe entre en France en 1814 (beaucoup de soldats quittent le territoire russe pour la 1ère fois).
+=> Restructuration de l’Europe lors du Congrès de Vienne, 1815
+
+### La révolte des décembriste
+
+Le 14 décembre 1825 – révolte pour une monarchie constitutionnelle. 
+Dès 1816, des officiers avaient fondé une société secrète, une l'influence des idées libérales trouvées en France (en 1814). Pris de cours en 1825, quand l’empereur Alexandre Ier meurt lors d’un voyage dans le sud de l’Empire
+=> Les officiers se soulèvent contre Nicolas (le frère cadet d’Alexandre qui doit
+lui succéder).
+
+La révolte est très rapidement arrêtée. Cinq meneurs sont condamnés à mort.
+De très nombreux autres officiers (une centaine) envoyés en Sibérie. Grande émotion, y compris en Europe (le mouvement concerne les meilleures familles et vide la capitale russe de son intelligentsia).
+Grande émotion aussi: les femmes des décabristes, dont beaucoup
+décident de suivre leurs maris en Sibérie (elles doivent alors abandonner leur fortune et les enfants nés jusque-là à Saint-Pétersbourg). 
+
+Pour le développement de nombreuses villes sibériennes, comme Tchita ou Irkoutsk, la présence des décembristes jeunes, intellectuels, bien éduqués est extrêmement favorable.
+
 ### Le règne de Nicolas Ier (1825-1855)
+
+Frère cadet d’Alexandre Ier qui ne comptait pas devenir empereur. Mais Alexandre meurt sans descendance et le 2e frère, ConstanGn, s’est retiré après un mariage morganatique.
+Expérience de la révolte des décembristes au début de son régime
+=> régime autoritaire
+Il fige le régime dans un immobilisme croissant et une marginalisation de la Russie, retard économique.
+
 ### Astolphe de Custine
+
+Il publie en 1843 l’ouvrage La Russie en 1839 après un séjour en Russie ou il decrit le système de surveillance systématique, de suspicion, de délation. 
+C'est un livre qui influence toute l’opinion européenne sur la Russie pendant le XIXe siècle.
+
+Quelques citations : 
+> ...je vous déclare donc, qu’après avoir bien regardé autour de moi
+pour voir ce qu’on me cachait, bien écouté pour entendre ce qu’on ne
+voulait pas me dire, bien tâché d’apprécier le faux dans ce qu’on me
+disait, je ne crois pas exagérer en vous assurant que l’Empire de Russie
+est le pays de la terre où les hommes sont les plus malheureux, parce
+qu’ils y souffrent à la fois des inconvénients de la barbarie et de ceux
+de la civilisation.(Custine (1843), IV, 454-455).
+
+> L’état social, intellectuel et politique de la Russie actuelle, est le
+résultat, et pour ainsi dire le résumé des règnes d’Ivan IV, surnommé le
+Terrible, par les Russes eux-mêmes ; de Pierre Ier, dit le Grand, par des
+hommes qui se glorifient de singer l’Europe, et de Catherine II,
+divinisée par un peuple qui rêve la conquête du monde et qui nous flatte
+en attendant qu’il nous dévore; tel est le redoutable héritage dont
+l’empereur Nicolas dis-pose...(Custine (1843), III, 213).
+
+>J’allais en Russie pour y chercher des arguments contre le
+gouvernement représentatif, j’en reviens partisan des
+constitutions. (Custine (1843), I, XXV).
+
 ### L’insurrection de Varsovie 1830
+
+Suite aux partages de la Pologne et notamment après le Congrès de Vienne, une grande partie de l’ancienne Pologne est intégrée dans l’Empire de Russie.
+Novembre 1830: de jeunes officiers polonais s’emparent de Varsovie et des tituent le gouverneur, Constantin (frère de Nicolas Ier)
+Mais manque de coordination et de soutien concret de l’étranger. 
+
+⇒ guerre polono-russe : Varsovie reprise par l’armée russe en septembre 1831
+⇒ Répression très dure: déportations en Sibérie, abrogation de la constitution, dissolution de l’armée polonaise, fermeture des universités
+
 ### La guerre de Crimée (1853-1856)
+
+CrispaGons entre Nicolas Ier et les autres dirigeants européens atteignent un paroxysme lors de la guerre de Crimée. Nicolas Ier suscite une crise des Balkans quand il prétexte vouloir aider les « frères slaves », chrétiens orthodoxes, sous tutelle ottomane et peur de l’expansionnisme russe en Europe occidentale.  France et Angleterre soutiennent la Turquie.
+=> Guerre éclate en Crimée avec, notamment, le siège de la ville de
+Sébastopol pendant un an (1854/1855)
+=> défaite des Russes et traité de Paris de 1856
+
 ### *L’Histoire de la Sainte Russie* de Gustave Doré
+
+Ouvrage sort en 1854, Prédécesseurs de la bande dessinée. Il s’inscrit dans le contexte de la guerre de Crimée et relate les peurs de l’Europe, face àla Russie de Nicolas Ier.
+
 ### Le règne d’Alexandre II (1855-1881)
+
+Règne de grandes réformes, notamment l’abolition du servage (1861).
+Le règne commence avec la défaite en Crimée et le traité de Paris (1856), vécu
+comme une humiliation de la Russie. Toute future « croisade » panslaviste
+interdite Russie stigmatisée en Europe (bataille perdue aussi dans l’opinion européenne). 
+La guerre sert aussi d’avertissement au pays quant aux retards économiques et sociales pris par rapport aux autres pays européens.
+
 ### L’abolition du servage
+
+Alexandre II déclare rapidement à la noblesse russe qu’il vaut mieux abolir le servage « d’en haut » que d’attendre d’y être contraint par des révoltes paysannes.
+Longue discussion sur la méthode: faut-il payer des terres aux paysans?
+Pouvoir transféré aux communautés rurales, « mir » (assemblée des chefs de village): paysans sous leur tutelle. Au-delà de « part du mendiant », les paysans doivent racheter leur terre sur plusieurs années. 
+⇒De nombreux mécontents
+Les dettes des paysans ainsi générées sont l’une des raisons de la Révolution russe de 1917.
+
 ### Les réformes
+
+Années 1860-1888: plusieurs réformes qui servent notamment à moderniser le fonctionnement de l’Etat : 
+- Administration des provinces (création des « zemstvos » pour les domaines civils de l’administration)
+- Réforme de la justice (plus d’efficacité, modernisation)
+- Réorganisation de l’armée (service militaire universel et obligatoire)
 
 6) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
 
