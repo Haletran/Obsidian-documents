@@ -12,7 +12,7 @@ Un huitième des terres émergées, le plus grand pays du monde (avant le Canada
 -  4 % eau
 - 13 % terres agricoles
 - 19 % autres terres
- 
+
  Du nord au sud: entre 2500 et 4000 km / D’ouest en est: 9000 km 
  Point le plus occidental : l’enclave de Kaliningrad
  Point le plus oriental: île Ratmanov (dans le détroit de Béring)
@@ -274,7 +274,7 @@ Pour des buts statistiques, la Fédération russe est divisée en 12 régions é
 
 ![[cartea2etatseco.png]]
 
-4) Les institutions
+3) Les institutions
 
 ### Les Présidents de la Russie 
 
