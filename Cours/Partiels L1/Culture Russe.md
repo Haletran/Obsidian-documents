@@ -272,7 +272,7 @@ Exemples : Tchoukotka, Khantys-Mansis (oblast de Tioumen), Nénétsie (oblast d�
 
 Pour des buts statistiques, la Fédération russe est divisée en 12 régions économiques.
 
-![[cartea2etatseco.png]]
+<img src="cartea2etatseco.png" alt="carteetetats">
 
 3) Les institutions
 
@@ -663,18 +663,112 @@ Années 1860-1888: plusieurs réformes qui servent notamment à moderniser le fo
 6) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
 
 ### Socialisme et anarchisme
+
+Climat de réformes favorise émergence de courants radicaux. 
+Nouvelle insurrection en Pologne (1863)
+-> Découverte du socialisme
+Phénomène du « nihilisme » immortalisé dans le roman Père et fils (1862) d’Ivan Tourgueniev (communication difficile entre deux générations).
+Roman Que faire? (1863) de Nicolas Tchernichevski: utopie du socialisme
+-> sorte de bible de la jeune génération
+
 ### Populisme et terrorisme
+
+Mouvement des « narodniki » dans les années 1870: idée que les bourgeois doivent aller « au peuple » 250 000 jeunes suivent qui sont très souvent arrêtés et jugés  => radicalisation
+Idée: progrès en Russie doit se faire par la violence: Bakounine (« Catéchisme révolutionnaire ») => terrorisme professionnel du groupe « La volonté du peuple»
+
+1866: attentat sur Alexandre II; 1878: Véra Zassoulitch blesse grièvement le
+gouverneur militaire de Saint-Pétersbourg, Trepov.
+
 ### L’assassinat d’Alexandre II
+
+Au terme d’une sorte de chasse à l’homme par les terroristes, Alexandre II est
+assassiné le 1er mars 1881 par un groupe dirigé par Sophie Petrovskaïa.
+=> Répression brutale sous le règne de son fils et successeur, Alexandre III
+
 ### Le règne d’Alexandre III (1881-1894)
+
+Essaie de diriger l’empire d’une main de fer. Empire fragilisé, déséquilibré par de grands changements. Poursuit une ligne conservatrice, d’inspiration paternaliste (sans prendre en compte les besoins et les changements de son pays).
+
 ### Les grands changements de la fin du XIXe siècle
+
+- Paternalisme, idéalisation de la Russie rurale et des paysans.
+- Evolutions spectaculaires (démographie, urbanisation, industrie, commerce, éducation, vie intellectuelle et culturelle).
+- Produit national brut de la Russie triple de 1861 à 1913. Construction d’un grand réseau ferroviaire et apparition d’une classe ouvrière importante. 
+- UrbanisaGon de la populaGon (qui double entre 1872 et 1914)
+- Les villes grandissent très rapidement.
+- De plus en plus d’étudiants non-nobles (y compris des femmes).
+- Vie culturelle très riche (« Âge d’argent »)
+
 ### Le règne de Nicolas II (1894-1917)
+
+S’inscrit dans la lignée de la poliGque de son père, Alexandre III. Contre toute réforme politique, contre l’introduction d’une constitution. C'est un personnage faible et indécis.
+
 ### L’Alliance franco-russe
+
+Alliance assez improbable entre la France de la 3e République et la Russie impériale à la fin du XIXe siècle. 
+1887:  des banques parisiennes achètent des emprunts russes
+1891: accueil de la flotte française à Kronstadt
+1892: Conclusion d’un pacte secret entre la France et la Russie
+1893: accueil de la marine russe à Toulon
+1896: Visite de Nicolas II et de son épouse à Paris
+1897: lors d’une visite à Saint-Pétersbourg, le Président Félix Faure confirme l’existence d’un accord entre Paris et Saint-Pétersbourg
+=> Mode russe en France (affiche diapo)
+
 ### La crise en Russie
+
+Récession économique de 1900-1903, il y a de plus en plus de grèves et de troubles avec des paysans. 
+Guerre russo-japonaise (1904/1905), suite à la prise sous contrôle russe de la
+Mandchourie (1895-1890). 
+=> Montre les faiblesse de l’armée russe car défaite
+
 ### Le « dimanche rouge »: la RévoluGon de 1905 
+
+Le 9 janvier 1905, la troupe tire sur la foule pacifique de manifestants.
+⇒Révolution urbaine
+Classes urbaines fondent syndicats et partis. Grève générale; campagnes se joignent aux villes. Terrorisme de masse: plusieurs milliers d’attentats, demande de constitution.
+
 ### Fin de la révolution de 1905
+
+**Serge Witte** (ministre de la finance) devient président du conseil de ministres.Le « Manifest d’octobre » annonce l’octroi de libertés fondamentales (presse, expression, réunion, association, confession), ce qui casse le mouvement. Mise en  place d'une Élection d’une assemblée nationale dotée d’un pouvoir législatif, **la douma**.
+Mais glissement vers la droite et oppression des forces modérées par l’empereur (xénophobie, antisémitisme), plusieurs dissolutions de la douma (à peu près ingouvernable).
+
+>« A défaut d’un gouvernement absolu, il faudrait un gouvernement constitutionnel, mais nous n’avons ni l’un, ni l’autre »
+
+\- Witte, 1911
+
 ### La Russie rentre dans la 1ère Guerre mondiale
+
+30 juillet 1914: ordre de mobilisation générale
+1/8/1914: Allemagne déclare la guerre à la Russie 
+- Choc de la Première Guerre mondiale: échecs militaires de la Russie
+- Perte de vastes territoires et ébranlement du pays
+- Lassitude de la population, discrédit du gouvernement 
+
+> « En février (mars) 1917, il allait suffire d’une poussée pour faire
+tomber le château de cartes de l’autocratie russe »
+
+\- Wladimir Berelowitch
+
 ### L’Année 1917 en bref
+
+- 23 février (8 mars): manifestation conduite par les femmes réclame pain et travail
+- 25 février: grève générale; demande de la fin de la monarchie
+- 27 février: les troupes se rallient aux insurgés
+- 1er mars: abdication de Nicolas II
+- CréaGon du « Soviet » de Saint-Pétersbourg
+- 2 mars: mise en place d’un gouvernement provisoire
+- 3 avril: retour de Lénine à Pétrograd
+- 24 juin: Kerenski à la tête du gouvernement
+- 24-26 octobre: Prise du pouvoir par les bolcheviks
+- 26 octobre: décrets sur la paix et sur la terre
+- 12 novembre: Elections à l’assemblée constituante
+- Décembre: nationalisation des principales branches de l’économie
+
 ### L’Année 1918 en bref
+
+- 6 janvier 1918: Dissolution de l’assemblée constituante
+- 3 mars 1918: signature de la paix de Brest-Litovsk
+- 16 juin 1918: assassinat de la famille impériale à Ekaterinbourg
 
 7) La Révolution d’octobre et la Guerre civile russe
 
