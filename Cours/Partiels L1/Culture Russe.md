@@ -34,7 +34,7 @@ de la Pologne et de la Lituanie à l’UE, devenue une enclave russe au cœur de
 
 Demandes russes auprès de l’ONU de reconnaître au territoire russe une partie de l’Arctique. Différend avec le Japon sur les îles Kouriles. L’annexion de la Crimée, région multiethnique, arrachée à l’Ukraine par la Russie en mars 2014 (massivement reconnue par la populaCon dans un référendum... mais qui n’est pas reconnu par la communauté internationale).
 
-### Les fuseaux 
+### Les fuseaux horaires 
 
 Heure de Moscou comme référence (rendue obligatoire par l’étendue du réseau ferroviaire) Depuis 2014, nouvelle division en 11 fuseaux qui suivent le tracé des régions de la Fédération de Russie. Par région, un seul fuseau horaire, mais exceptions: 3 fuseaux pour la Iakoutie, deux pour Sakhaline. Depuis 2011, heure d’été permanente a été instaurée.
 
@@ -212,14 +212,97 @@ et de son affluent l’Oussouri / 8523 km de Moscou
 9288 km de Moscou
 
 
-# L’État russe
+# L’État russe 
 
 1) La création de la Fédération de Russie
+
+Le 25 décembre 1991, la République socialiste fédérative des Soviets de Russie devient officiellement la Fédération de Russie. Peu avant, plusieurs villes ont retrouvé leurs noms historiques: Leningrad est redevenu Saint-
+Pétersbourg, Sverdlovsk est redevenu Ekaterinbourg. Donc fin de l’Union Soviétique, mais il y a bien des traces de ce passé. 
+
+Premier Président de la FédéraAon de Russie: **Boris Eltsine** (Борис Николаевич Ельцин, 1931-2007), président de 1991 à 1999. Élu président du Soviet suprême de la République socialiste fédérative soviétique de Russie le 29 mai 1990, Soit le 1er président non-communiste d’une république soviétique. Il fait sortir la Russie de l'URSS. 
+
+« Thérapie de choc », instabilité économique et politique, capitalisme sauvage marquent la première décennie. 
+=> bilan négatif de Eltsine aux yeux de beaucoup de Russes
+
+En 1993, mise en place d'une Constitution qui definit la Russie comme un Etat fédératif, dirigée par un Président (chef de l’Etat), élu au suffrage direct, avec un mandat qui peut être renouvelé qu'une seule fois. 
+
 2) La structure fédérative
-3) Les institutions
+
+La Russie a une structure fédérative qui se compose de 85 entités de statuts différents, appelés les « sujets de la fédération de Russie » (субъекты Российской Федерации). Malgré les statuts différents (kraï, oblast’, république, ville fédérale), les sujets sont égaux face aux institutions fédérales.
+Chaque « sujet » est représenté par deux délégués dans le Conseil de la fédéraAon (= Chambre haute; à peu près la même fonction que le Sénat français).
+
+Article 5 de la Constitution Russe :
+> La fédération de Russie est composée de républiques,de territoires, de régions, de villes d'importance fédérale, d’une région autonome et de districts autonomes, sujets égaux en droits de la fédération de Russie.
+
+### Les différentes catégories des sujets 
+
+22 républiques (республики) :
+- ont une propre constitution, un président, une certaine autonomie
+- droit de fixer une langue nationale (en plus du russe)
+
+Exemples : le Daghestan (Caucase), la Tchétchénie (Caucause), la Carélie
+(Nord-Ouest), la Bouriatie (Est du lac Baïkal), la République de Sakha (Iakoutie)...
+
+9 kraïs (края, sing. Край): 
+- Plutôt grands (souvent plus grands que les oblasts)
+- Historiquement situés aux confins (kraï = bord, frontière) de la Russie
+- Chaque kraï est dirigé par un gouverneur nommé par le gouvernement russe
+
+Exemples: Kraï de Perm, du Kamtchatka, de Transbaïkalie, de Primorié...
+
+46 oblasts (области) :
+- Régions administratives
+- Dirigées par un gouverneur
+- Portent généralement le nom de leur capitale: Kaliningrad, Arkhangelsk, Volgograd, Novossibirsk, Irkoutsk...
+
+3 villes d'importance fédérale (города федерального значения) :
+- Moscou, Saint-Pétersbourg et Sébastopol = régions distinctes au sein du sujet où elles sont enclavées
+
+1 oblast autonome (автономная область) : 
+-  l’oblast autonome juif, Birobidjan; désigné comme tel pour des raisons historiques (« terre d’accueil »)
+
+4 districts autonomes ou okrougs autonomes(автономные округа) : 
+- Vastes territoires peu peuplés
+- Font souvent partie d’autres oblasts – à l’exception du district autonome de Tchoukotka (qui ne fait partie d’aucun autre sujet)
+
+Exemples : Tchoukotka, Khantys-Mansis (oblast de Tioumen), Nénétsie (oblast d’Arkhangelsk), Iamalie (obl. De Tioumen)
 
 
-# Repères historiques
+### Les régions économiques
+
+Pour des buts statistiques, la Fédération russe est divisée en 12 régions économiques.
+
+![[cartea2etatseco.png]]
+
+4) Les institutions
+
+### Les Présidents de la Russie 
+
+- 1991-1999: Boris Eltsine
+- 2000-2008: Vladimir Poutine
+- 2008-2012: Dimitri Medvedev
+- Depuis 2012: Vladimir Poutine (réélu en 2018)
+- Depuis 2012: le mandat du président est de six ans
+
+Le président nomme un gouvernement. Dirigé par le Premier Ministre (depuis le 16 janvier 2020 Mikhaïl MichousAne)(La maison blanche de Moscou).
+
+
+### Le pouvoir législatif
+
+L‘Assemblée fédérale est composée de  :
+- La Douma d’État (Государственная Дyмa)
+=> assemblée; 450 députés élus au suffrage universel direct pour cinq ans
+- Le Conseil de la fédération (Совет Федерации), formé de 170 représentants des 85 sujets de la fédération de Russie, les « sénateurs »
+
+
+### Le pouvoir judiciaire
+
+Selon la Constitution, l’égalité de tous les citoyens devant la loi et l’indépendance des juges sont garanties, les procès doivent être publics et le droit de la défense est garantie aux accusés. 
+=> Cour suprême de Russie: Cour constitutionnelle (à Saint-Pétersbourg)
+
+
+
+# Repères historiques (157 pages)
 
 1) De la Rus’ de Kiev au Joug tatar
 2) D’Ivan le Terrible aux Temps de troubles
