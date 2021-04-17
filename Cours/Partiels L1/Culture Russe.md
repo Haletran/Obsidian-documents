@@ -301,16 +301,152 @@ Selon la Constitution, l’égalité de tous les citoyens devant la loi et l’i
 => Cour suprême de Russie: Cour constitutionnelle (à Saint-Pétersbourg)
 
 
-
 # Repères historiques (157 pages)
 
 1) De la Rus’ de Kiev au Joug tatar
+
+### La formation de la Rus’ de Kiev
+VIe siècle: Slaves orientaux s’installent dansles territoires de l’actuelle Biélorussie, dunord de l’Ukraine et de la Russie occidentale.
+Ils s’associent aux Varègues (Vikings),commerçants entre la Baltique et
+Constantinople, le long du Dniepr. Les Varègues sont progressivement slavisés.
+Un Etat se forme autour de Kiev, appelé la« Rus’ » (mot d’origine scandinave).
+Le premier prince attesté est Oleg le Sage de Novgorod (fin IXe) qui unit Novgorod et Kiev en un seul royaume
+C’est le nom de son père, Riourik, qui est utilisé pour nommer la dynastie, les
+Riourikides (règnent jusqu’au début du XVIIe).
+
+<img src="cartekiev.png" alt="cartekiev" > 
+
+### 989: Vladimir adopte le christianisme
+
+989: le souverain Vladimir (956-1015) se convertit au christianisme (par baptême); les habitants de la Rus’ adoptent la même religion. C'est une conversion mythique – mais historiquement surtout politique(Vladimir épousera la sœur de l’empereur byzantin Basile II). 
+
+C'est une religion diffusée notamment par les moines, progressivement L’art orthodoxe russe se développe selon le modèle byzantin (affranchissement
+progressif des modèles, cf. Andreï Roublev au XVe siècle). 
+
+### Iaroslav Vladimirovitch 
+
+1019: avènement d’Iaroslav Vladimirovitch (978-1054) qui favorise l’unité du pays. ⇒Développement politique, économique et culturel du royaume
+ 1036: victoire contre les Petchenègues (peuple nomade d’origine turque)
+1045: fin de la construcSon de la cathédrale Sainte-Sophie à Kiev
+
+### Le morcellement du pays 
+
+1054: mort du prince de Kiev, Iaroslav Vladimirovitch –morcellement du royaume en petites principautés. 
+1185-1241: Valdemar II le Victorieux (1170-1241), souverain du Danemark,
+conquiert la Poméranie,l’Estonie et la Courlande.
+1219: premiers raids mongols dans le pays
+1223: Victoire des Mongols à Kalka
+1239: raids mongols et destruction de Kiev en 1240
+
+### L’invasion des Mongols
+
+Gengis Khan (~1155-1227)
+Batû Khan (1205-1255)
+
+<img src="carteinvasion.png" alt="carteinvasion" > 
+
+### Le joug tatar (Монголо-татарское иго)
+
+Invasion des Mongols, associés à des tribus turques etgénéralement qualifiés de Tatars; soumetent en quelques années la quasi-totalité de la Rous’ (1222-1240). Conquête menée par Batû Khan, petit-fils de Gengis Khan.
+1243: Batû fonde Saraï, sur la Volga, comme capitale de la Horde d’Or.
+1245: domination de la Horde d’Or sur toute la Russie
+
+Les principautés russes doivent verser un tribut au khan de la Horde d’Or basé à Saraï. Le prince de la Rus’ est désormais nommé par le khan mongole. Tolérance religieuse: les principautés russes restent chrétiennes
+
+### Alexandre Nevski
+
+À l’ouest de la Rus’: défense contre les Suédois et les chevaliers de l’Ordre Teutonique. Durant les années 1240, le prince Alexandre de Novgorod s’impose face aux Suédois près du fleuve Neva (=> surnom de « Nevski »).
+=> établissement de la frontière entre la chrétienté occidentale et orientale
+
+### L’ascension de Moscou
+
+1326: avènement d’Ivan Ier Kalita (1326-1340) qui rassemble les principautés
+russes et devient grand prince en 1328 après sa victoire sur le prince Vladimir
+Souzdal.
+=>Moscou devient la capitale religieuse et politique du pays. Mise à l’écart des
+Mongols
+
+1339: début de la construction du Kremlin à Moscou
+1359: avènement du prince de Moscou Dimitri (1350-1389) qui combat les Mongols de la Horde d’Or.
+1380 victoire de Koulikovo remportée sur les Mongols par Dimitri qui prend le
+surnom de Donskoï. Confirme le rôle de la Moscovie (et du soutien de l’Eglise)
+DominaSon tatare se poursuit encore pendant un siècle, mais la Horde se
+fragmente.
+
+Au même moment, les parties sud et ouest de laRous’ se retrouvent de plus
+en plus proche de la Lituanie (dynastie des Jagellon)
+=> différenciation progressive entre Biélorusses, Ukrainiens etRusses
+=> émergence de trois langues entre 1350 et 1700
+
+### Ivan III 
+
+Ivan IV règne de 1547 à 1584 la principauté moscovite devient la Russie
+triple héritage de la Rous’, de Byzance et de la Horde d’Or. 
+1485: Ivan III premier prince de Moscou à se proclamer souverain de toutes les Russies, chef de l’Église russe devient patriarche à la fin du XVIe siècle (chute de Constantinople en 1453)
+=> Moscou se proclame la « troisième Rome » (plan religieux et politique)
+
 2) D’Ivan le Terrible aux Temps de troubles
+
+### Ivan IV (le « Terrible »)
+
+Sous Ivan IV (règne de 1547 à 1584), la  principauté moscovite devient la Russie. Triple héritage de la Rous’ , de Byzance et de la Horde d’Or.
+En 1547: Ivan IV est couronné « tsar » (= César), selon le rite byzantin soumet les boyards (la haute noblesse). 
+1552: il prend la ville de Kazan aux Tatars musulmans
+⇒ Etat multinational et pluriconfessionnel
+
+Règne aussi marqué par violence et autoritarisme :
+- accès de folie sanguinaire, surtout après 1565 (mort de sa première épouse),  il tue son propre fils
+
+### La conquête de la Sibérie
+
+1582: Ermak, cosaque du Don, entreprend la conquête de la Sibérie sur ordre des Stroganov (puissants commerçants).
+
+<img src="conquetesiberie.png" alt="conquetesiberiecarte" > 
+
+### La fondation des villes sibériennes
+
+- 1586 Tobolsk (1621 évêché) sur l’Irtych
+- 1604 Tomsk
+- 1621 Krasnoïarsk sur le Ienisseï
+- 1632 Iakoutsk sur la Léna
+- 1661 Irkoutsk, sur l’Angara, près du Lac Baïkal
+- 1666 Oulan-Oude (forteresse, devient ville en 1775)
+- 1723 Ekaterinbourg (Oural)
+- 1740 Petropavlovsk-Kamtchatski
+- 1858 Khabarovsk sur le fleuve Amour
+- 1860 Vladivostok (au bord du Pacifique)
+- 1893 Novossibirsk
+
+
+### La fin de la dynastie des Riourikides
+
+
+
+
+
+
+### Le « Temps des troubles » (Смутное время)
+### Le début de la dynastie des Romanov
+
 3) Pierre Ier
+
+### Le Raskol ou schisme de l’Eglise orthodoxe
+### La Révolte de Stenka Razine
+### Le traité de Nertchinsk
+### Le règne de Pierre Ier
+### La construction de Saint-Pétersbourg
+### Le règne de Pierre Ier
+
 4) Le XVIIIe siècle, Catherine II
-5) Du début du XIXe siècle à l’abolition du servage (1861)
-6) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
-7) La Révolution d’octobre et la Guerre civile russe
-8) Le Stalinisme et la Seconde Guerre mondiale
-9) Des années 1950 à la fin de l’URSS
-10) Histoire récente de la Russie
+
+### Le règne de Catherine II 
+### La révolte de Pougatchev 
+### La conquête des steppes 
+### L’expansion de la Russie et Les Partages de la Pologne
+
+6) Du début du XIXe siècle à l’abolition du servage (1861)
+7) De la fin du XIXe siècle à la fin de l’Empire russe (1917)
+8) La Révolution d’octobre et la Guerre civile russe
+9) Le Stalinisme et la Seconde Guerre mondiale
+10) Des années 1950 à la fin de l’URSS
+11) Histoire récente de la Russie
