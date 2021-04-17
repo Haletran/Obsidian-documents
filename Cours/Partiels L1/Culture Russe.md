@@ -301,7 +301,7 @@ Selon la Constitution, l’égalité de tous les citoyens devant la loi et l’i
 => Cour suprême de Russie: Cour constitutionnelle (à Saint-Pétersbourg)
 
 
-# Repères historiques (157 pages)
+# Repères historiques 
 
 1) De la Rus’ de Kiev au Joug tatar
 
@@ -772,6 +772,7 @@ tomber le château de cartes de l’autocratie russe »
 
 7) La Révolution d’octobre et la Guerre civile russe
 
+CM5 diapo (69 slides restantes)
 ### Le désastre de la Première Guerre mondiale
 ### Nicolas II s’obstine
 ### La Révolution de février 
