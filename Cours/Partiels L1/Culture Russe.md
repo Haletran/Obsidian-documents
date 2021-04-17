@@ -34,7 +34,7 @@ de la Pologne et de la Lituanie à l’UE, devenue une enclave russe au cœur de
 
 Demandes russes auprès de l’ONU de reconnaître au territoire russe une partie de l’Arctique. Différend avec le Japon sur les îles Kouriles. L’annexion de la Crimée, région multiethnique, arrachée à l’Ukraine par la Russie en mars 2014 (massivement reconnue par la populaCon dans un référendum... mais qui n’est pas reconnu par la communauté internationale).
 
-### Les fuseaux horaires 
+### Les fuseaux 
 
 Heure de Moscou comme référence (rendue obligatoire par l’étendue du réseau ferroviaire) Depuis 2014, nouvelle division en 11 fuseaux qui suivent le tracé des régions de la Fédération de Russie. Par région, un seul fuseau horaire, mais exceptions: 3 fuseaux pour la Iakoutie, deux pour Sakhaline. Depuis 2011, heure d’été permanente a été instaurée.
 
