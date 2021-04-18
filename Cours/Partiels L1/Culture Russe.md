@@ -772,69 +772,398 @@ tomber le château de cartes de l’autocratie russe »
 
 7) La Révolution d’octobre et la Guerre civile russe
 
-CM5 diapo (69 slides restantes)
+
 ### Le désastre de la Première Guerre mondiale
+
+Manque de munitions, de vivres pour les soldats russes.
+Perte de provinces occidentales, envahies par armées allemandes et austro-hongroises. Économie nationale lourdement impactée par un blocus. 
+Effort de guerre déstabilise transport à l’intérieur du pays.
+⇒inflation, pénuries
+Le pouvoir centralisé ne parvient plus à stabiliser la situation.
+
 ### Nicolas II s’obstine
+
+L’Empereur Nicolas II n’entend pas les plaintes de la population, il s’accroche à une vision dépassée de la monarchie absolue. Sous influence néfaste de **Raspoutine**, charlatan qui soigne hémophilie du fils de l’empereur et qui gagne en influence. 
+Nicolas prend le commandement suprême des armées et part en guerre et laisse le pouvoir à son épouse impopulaire. 
+=> Le pouvoir se dissout pratiquement
+
+> « Mon chéri, quel temps affreux vivons-nous! Dieu t’a chargé d’une croix terriblement lourde à porter. La situation a l’air de s’améliorer. Seulement, chéri, sois ferme. Montre-toi autoritaire: c’est cela qu’il faut aux Russes. Tu as témoigné de ta bonté. Fais sentir ton poing à présent! »
+
+\- L’impératrice Alexandra à son mari, l’empereur Nicolas II, le 25 février 1917
+
 ### La Révolution de février 
+
+Journées de février: le peuple montre sa colère, ses sentiments antimonarchistes. Elle debute durant la Journée mondiale de la femme (le 23 février / 8 mars). De nombreuses manifestations ont lieu et plusieurs statues de tsars sont vandalisées. 
+Dans l’absence de réaction du gouvernement, grèves et manifestations se
+multiplient. 25 février: grève générale / 26 février: les soldats tirent sur la foule
+27 février: les soldats se retournent contre le gouvernement et rejoignent les manifestants donc prise de la forteresse Pierre et Paul (en partie prison politique). 
+Une cinquantaine de militants de différents partis révolutionnaires (mencheviques, socialistes-révolutionnaires, bolcheviques, travaillistes) fondent « comité exécutif provisoire du soviet des députés ouvriers »
+demandent à la classe bourgeoise de gouverner (provisoirement).
+
 ### Le gouvernement provisoire
+
+Le 1er mars, Nicolas II abdique. Le Gouvernement provisoire, d’abord sous Gueorgi Lvov, puis, à partir de juillet, sous Alexandre Kerenski (populaire depuis la révolution de février).
+19 mars: droit de vote pour les femmes accordé
+
 ### Le retour de Lénine
+
+3 avril 1917: Vladimir Ilitch Oulianov, dit Lénine, revient en Russie depuis son exil en Suisse. C’est le leader des bolcheviks malgré le nom (« majorité »), il
+s’agit d’un parti minoritaire qui rêve de la révolution des ouvriers (et qui voit la
+révolution de février comme le premier pas seulement dans la lutte des classes). Il demande la Révolution européenne contre le capitalisme.
+
 ### La question de la paix
+
+Ministre de l’étranger, Milioukov, doit prome(re aux alliés de la Russie, aux Français et aux Anglais, de poursuivre la guerre.
+⇒Démonstrations monstrueuses à Saint-Pétersbourg demandent la paix, maudissent Milioukov.
+Situation explosive, qui met en question l’union révolutionnaire des partis et qui profite à Lénine. 
+En mai, retour de l’exil de Léon Trotski à Petrograd; mêmes idées que Lénine
+=>L'Influence du parti bolchevik grandit de plus en plus, grâce à la radicalisation des ouvriers
+
 ### Les journées de juillet
+
+Plusieurs unités devant être envoyées au front depuis Petrograd se révoltent le 3 juillet. La base navale de Kronstadt se joint au mouvement. Le gouvernement provisoire fait tirer sur les foules au croisement de la Perspective Nevski et de la ruе Sadovaïa. 
+Lénine, accusé d’être un espion allemand, doit s’exiler en Finlande.
+
 ### La Russie sombre dans l’anarchie
+
+Pendant que militaires et civils s’affrontent pour le contrôle de l’Etat:
+- Mutineries de soldats, pertes de terrains contre troupes allemandes
+- Pillage, anarchie dans les villages, assassinats de grands propriétaires fonciers
+- Manifestations: on réclame la paix, du pain, des terres
+
 ### Octobre
+
+Convergence de deux mouvements: 
+- Prise du pouvoir politique par les bolcheviks, fruit d’une minutieuse préparation insurrectionnelle
+- Vaste révolution sociale, multiforme, autonome (jacquerie paysanne, décomposition de l’armée, mouvement ouvrier, émancipation des peuples allogènes de l’ex-Empire russe)
+
 ### La « Grande RévoluAon socialiste d’Octobre »
+
+24 octobre: Début du coup d’Etat bolchevique
+Dans la nuit du 24 au 25, les unités ralliées aux bolcheviks prennent sans résistance le contrôle de la capitale. Kerenski s’enfuit à la recherche de renforts. 
+25/26 octobre: Attaque du palais d’Hiver
+IIe Congrès panrusse des soviets. Retrait des socialistes-révolutionnaires et des mencheviks, qui dénoncent le coup de force bolchévique. Ratification de l’insurrection par les députés bolcheviques et socialistes-révolutionnaires de gauche.
+26/27 octobre: Dernière séance du IIe Congrès des soviets. Formation du gouvernement entièrement bolchevique, de Conseil des commissaires du peuple, présidé par Lénine.
+
 ### L’Assemblée constituante
+
+12 novembre: 42 millions d’électeurs
+Victoire des socialistes révolutionnaires !!
+Les Bolcheviks ne remportent que 180 sièges sur 767
+Unique séance: le 5 janvier, suspendue pendant la nuit (« La garde est fatiguée! »). L'Assemblée est dissoute.
+
 ### La guerre civile
+
+<img src="carteci1.png" alt="guerre civile avant">
+
+Fin de la Révolution à Petrograd ne signifie pas que les bolcheviks contrôlent toute l’immensité du pays  bien au contraire. Lutte entre les « rouges » et les armées « blanches » (tsaristes, conservateurs...) domine jusqu’en 1922. Dans de nombreux endroits, le pouvoir change de camp plusieurs fois.
+
+Paix de Brest-Litovsk en mars 1918: la Russie met fin à la 1ère Guerre mondiale (en perdant certains territoires à l’ouest; perte de 780 000 km2 et quelques 56 millions d’habitants). La paix ne Aent pas: troupes étrangères dans le pays (Britaniques à Mourmansk, Japonais à Vladivostok, Allemands en Ukraine,
+Britanniques et Français au Caucase...).
+
+<img src="carteci2.png" alt="russie soviet 1919">
+
+Les « blancs » (Koltchak en Sibérie, Denikine au Sud, Ioudenitch à l’ouest, en Estonie...) ne parviennent pas à s’entendre entre elles. Manque de stabilité des fronts: armées nationalistes, anarchistes, paysannes... qui changent parfois de camp. Trotski parvient à organiser une Armée rouge efficace. 
+⇒Victoire des rouges se dessine à parAr de 1920
+Koltchak arrêté et fusillé en 1920; Wrangel et Denikine contraints de partir via la Crimée; Ioudenitch repoussé en Estonie... Les derniers à partir sont les Japonais en 1922.
+
+- Violences graves caractérisent la vie des habitants pendant plusieurs années.
+- Apparition de camps d’internement; exécutions arbitraires
+- Pogroms antisémites (près de 120 000 morts!)
+- Opérations de « pacifications » dans les zones prises par les rouges sont extrêmement violentes
+- Famine
+
 ### 1922: un pays dévasté
+
+<u>Conséquences de huit années de guerre (1914-1922):</u>
+
+- Russie a perdu 8% de sa population (par guerre ou famine)
+- Pays entièrement ruiné
+- Chute du produit national de 70% par rapport à 1913 (ne retrouvera le niveau d’avant-guerre qu’en 1928)
+
+=> C’est une perte énorme, jamais connue dans l’histoire du pays, qui laissera des traces durables dans la mémoire collective russe
 
 8) Le Stalinisme et la Seconde Guerre mondiale
 
-### 1921: Nouvelle poliAque économique (NEP)
+### 1921: Nouvelle politique économique (NEP)
+
+Le Xe congrès du parti communiste instaure en 1921 la NEP, la Nouvelle politique économique pour remplacer le communisme de guerre. 
+C’est un recul par rapport à la volonté de construire le socialisme en URSS – et donne du répit aux paysans notamment (qui peuvent garder une partie de leur production – on les appelle les « koulaks » quand ils possèdent ne serait-ce que quelques animaux).
+⇒ Réapparition de l’artisanat et petits métiers de rue, dont certains « NEPmen » qui font profit
+Ces « nouveaux riches » sont officiellement raillés, attaqués idéologiquement et deviennent une cible de prédilection après la mort de Lénine.
+
 ### 1922: la naissance de l’URSS
+
+Le 30 décembre 1922 est fondée l’URSS (Union des Républiques soviétiques socialistes), en russe: Союз Советских Социалистических Республик(СССР).
+C’est une Fédération formée de quinze Républiques socialistes , sur une large partie de l’ancien Empire russe (mais après la perte de territoires à l’ouest) qui existera jusqu’à la dissolution, fin décembre 1991.
+La République socialiste fédérative soviéAque de Russie (RSFSR), fondée en 1918, est l’une des républiques de l’URSS (la plus grande).
+
 ### 1924: la mort de Lénine
+
+Lénine, malade et épuisé depuis plusieurs années, meurt le 21 janvier. Petrograd prend le nom de Leningrad le 26 janvier.
+
+Joseph Staline (né Iossif Vissarionovitch Djougachvili), 1878-1953, prend le pouvoir en éliminant progressivement tous ses concurrents, notamment Léon Trotski. Sa fonction de secrétaire du Comité central du parti communiste lui assure une bonne position de départ.
+Contre l’avis de la famille de Lénine, Staline impose un culte de Lénine, qu’il
+fait embaumer et place dans un mausolée sur la Place Rouge.
+
 ### 1927: Staline écarte ses concurrents
+
+En 1927, Staline fait exclure du comité central du parti Léon Trotski (qui dirige l’armée), puis Grigori Zinoviev (qui dirige le parti à Leningrad) et Lev Kamenev (président du Soviet suprême à Moscou). Zinoviev et Kamenev sont éliminés lors des grandes purges instaurées par Staline en 1936 (exécutés).
+Trotski est expulsé de l’URSS en 1929 (et assassiné en 1940 au Mexique par un agent envoyé par Staline).
+
 ### 1928-1953: la dictature stalinienne
+
+On parle de « dictature stalinienne » à parAr de 1928, soit après l’éviction des concurrents. Staline instaure un régime poliAque totalitaire; il devient le
+maître absolu de l’URSS.
+
+Le totalitarisme stalinien : 
+
+/  | Principes | Moyens d'application 
+----|----|----
+Un seul chef | Plein pouvoirs - Guide infaillible | Fin des libertés fondamentales y compris liberte de culte / Culte de la personnalite
+Un parti unique | Pensée Unique | Embrigadement de la population / censure / propagande / Goulag
+Economie dirigée par l'Etat | Nationalisations / Planifications / Collectivisation des terres | Plans quinquennaux obligatoires / Kolkhozeas, sovkhozes, répression des paysans hostiles, Stakhanovisme
+
 ### 1928: Début du 1er plan quinquennal
+
+Désormais maître absolu de l’URSS, Staline lance le premier plan quinquennal (l’économie est donc planifiée par l’Etat). Chaque entreprise reçoit un plan à appliquer sur cinq ans, sous peine de déportation. 
+- Idée: faire de l’URSS une grande puissance industrielle
+
+⇒Priorité donnée à l’industrie lourde (sidérurgie, armement, énergie), agriculture négligée
+
+Doctrine du « stakhanovisme »: fondé sur le mythe du mineur Stakhanov qui aurait produit 14 fois plus que la norme imposée, c’est censé être un encouragement des travailleurs. 
+
 ### L’industrialisation forcée
+
+Lancement de grands travaux (production sidérurgique, barrages, canaux, ferroviaire, nouvelles villes industrielles sorties de terre, exploitation minière renforcée...). 
+1928-1941: trois plans quinquennaux font de l’URSS une grande puissance industrielle (12% de la production mondiale)
+Ce(e marche forcée s’appuie sur l’exploitation d’innombrables prisonniers politiques dans les camps de travail.
+
 ### 1929: la collectivisation
+
+1929: Staline décide de collecAviser toutes les terres agricoles
+Toutes les exploitations sont regroupées dans des « kolkhozes » (exploitations collectives) ou « sovkhozes » (fermes appartenant à l’Etat). 
+Collectivisation brutale  qui se heurte à la résistance des paysans(cachent ou détruisent les récoltes et le bétail).
+
+Famine parfois extrême entre 1932 et 1934, notamment en Ukraine (on parle aujourd’hui de « holodomor », d’un génocide par une famine faite par l’Etat)
+Entre 6 et 8 millions de morts de la famine, dont 4,5 millions en Ukraine. 
+1938: 97 % des terres sont collectivisées
+
 ### Culte de la personnalité
+
+Culte de Staline instauré, le « bon petit père du peuple »
+Censure de la presse, de l’expression; quasi-interdicAon des religions, endoctrinement par l’éducation. Contrôle stricte des artistes et des
+intellectuels.
+Propagande du régime (à laquelle doivent contribuer les artistes et les
+intellectuels). Jeunesse doit s’organiser dans les « jeunesses communistes », les « komsomols ». Police politique, le NKVD, contrôle la population.
+
 ### La Grande Terreur
+
+1934: début de la « Grande Terreur » qui connaît son apogée entre 1936 et 1939.
+Sur ordre de Staline: Suspicions, paranoïa, arrestations arbitraires et dénonciations, Août 1936: premier procès de Moscou contre de soi-disant
+« ennemis du peuple »; deux autres suivront en 1937 et 1938.
+Purges au sein du parti, de l’armée, parmi les intellectuels et les cadres: 70 % des membres du comité central du Parti de 1934 et 90 % des généraux de l’armée Rouge sont frappés... 
+Environ 1,5 millions de personnes sont frappées par la Grande Terreur, dont la moitié est condamnée à mort.
+
 ### 1939: le pacte germano-soviétique
-### 1941: Hitler a(aque l’URSS
+
+Staline, maître incontesté de l’URSS, sort renforcé de la grande terreur.
+Problème: l’armée a été décimée (notamment les officiers) par la terreur – elle se trouve affaiblie à la veille de la 2e Guerre mondiale.
+Le 23 août 1939, Hitler et Staline signent le pacte germano-soviétique, soit un
+pacte de non-agression.
+
+### 1941: Hitler attaque l’URSS
+
+Le 22 juin 1941: début de l’offensive Barbarossa Hitler rompt le pacte germano-soviétique et attaque l’URSS.
+Dès 1939: URSS a annexé des territoires en Pologne (après l’agression allemande de la Pologne; territoires mentionnés dans le pacte), en 1940 les pays baltes, Effondrement de l’Armée rouge face à l’attaque: novembre 1941, Allemands à 25 km de Moscou, grande partie du territoire occupée. 
+Fin 1941: 2 millions de prisonniers politiques soviétiques
+
 ### La population russe et la guerre
+
+Plus de 16 millions de personnes transférées vers l’Est.
+Mobilisation de la population par discours dénonçant la barbarie de
+l’ennemi. Déserteurs et défaitistes arrêtés et punis (exécutés), les Usines sont si possible, démontées et déplacées par train vers l’intérieur du pays.
+
 ### 1942: Stalingrad
+
+Le 17 juin 1942: début de la bataille de Stalingrad, qui s’achève le 2 février 1943 – signe un tournant dans la guerre et mène vers la défaite de l’Allemagne nazie. Suivent la reprise des villes de Koursk, Rostov, Kharkov...
+Grandes pertes de la Wehrmacht (de novembre 1942 à octobre 1943: 1,5 millions d’hommes)
+Siège de Leningrad par la Wehrmacht brisé en janvier 1944, après près de 900 jours. Le 27 janvier, libération du camp d’extermination d’Auschwitz par l’Armée
+rouge.
+
 ### 1945: Fin de la 2e Guerre mondiale
+
+4-11 février 1945: Conférence de Yalta (Staline reçoit les dirigeants
+des Etats-Unis et de la Grande Bretagne, Roosevelt et Churchill).
+Mai: capitulation des Allemands après la bataille de Berlin
+24 juin 1945: parade de la victoire sur la Place Rouge marque la fin
+de la guerre en Europe et l’apogée de la gloire de Staline.
+Fin définitive de la 2e Guerre mondiale pour l’Armée rouge: le 2
+septembre (après la capitulation japonaise).
+
 ### 1947: le début de la Guerre froide 
+
+Climat d’abord plus libre dans l’après-guerre
+À partir de 1947: tensions entre URSS et autres alliés (USA, GB, F), notamment à la suite de la doctrine Truman qui tente d’endiguer le communisme aux USA. 
+=> Début de la Guerre froide
+- Course à l’armement nucléaire
+- Le 29 août: première bombe atomique soviétique
+
 ### 1952/1953: la lu(e contre les « cosmopolites » 
+
+Tendances de repli et de nationalisme en URSS : 
+- Dès 1946: Jdanov (protégé de Staline) lance une violente campagne doctrinale contre les arAstes et les intellectuels
+- Demande d’un art simple, populaire  toute autre tendance est poursuivie
+- Campagne antisémite contre le « cosmopolitisme » - touche les artistes, les intellectuels, les médecins et tous les organes juifs (presse, éditeurs...)
+
 ### 1953: mort de Staline 
+
+5 mars 1953: mort de Staline
+Cela empêchera la réalisation de nouvelles purges qu’il avait imaginées juste avant sa mort. Une direction collégiale du pays se met alors en place. Légère libéralisation du régime; réhabilitations et remises en liberté. 
+Le maître de la police, Béria, fait libérer un million de détenus du Goulag (mais Beria lui-même arrêté et fusillé sur ordre de ses collègues). 
+Le nouveau maître du pays, Nikita Khrouchtchev, poursuit la libéralisation (mesurée cependant) – qu’il appelle la « déstalinisation ».
 
 9) L’ère de Nikita Khrouchtchev (1955-1964)
 
 ### 1955: La signature du pacte de Varsovie
+
+14 mai 1955: signature du pacte de Varsovie
+Conçu par Nikita Khrouchtchev, le nouveau premier secrétaire du Comité central du Parti communiste de l’Union soviétique. Regroupe: URSS, Pologne, Albanie, RDA, Tchécoslovaquie, Bulgarie, Roumanie, Hongrie. 
+Idée: lier les pays de l’Europe de l’Est avec l’URSS (militairement, économiquement)
+Asseoir le pouvoir de l’URSS comme  réponse contre l’OTAN occidentale.
+Le pacte dissout seulement en 1991. 
+
 ### 1956: XXe congrès du PCUS 
+
+Février 1956: congrès du Parti Communiste de l’URSS
+Khrouchtchev explique les principes d’une coexistence pacifique avec les pays capitalistes; souhaite conquête du pouvoir par voies pacifiques (par partis communistes occidentaux).
+Déstalinisation: Khrouchtchev dénonce le culte de la personnalité sous Staline et les purges arbitraires (rapport secret, mais qui reste partiel).
+
 ### 1956: intervention sovitiXque à Budapest
+
+Octobre / novembre 1956: les troupes soviétiques interviennent à Budapest pour étouffer une vague de protestations, de révoltes contre le régime communiste hongrois et la tutelle de Moscou.
+L’armée soviétique écrase le mouvement (2500 Hongrois meurent, 200 000 fuient le pays vers l’Ouest), chasse un gouvernement de transition qui avait annoncé des élections libres et impose un nouveau gouvernement fidèle à Moscou.
+
 ### 1957: lancement de Spoutnik
+
+Octobre 1957: lancement du Spoutnik, premier satellite artificiel en orbite autour de la Terre.
+L’URSS gagne ainsi, par surprise, la course contre les Etats-Unis (elle est donc la première à accéder à l’espace).
+
 ### 1961: premier vol habité dans l’espace
+
+Avril 1961: Iouri Gagarine est le premier être humain à voler dans l’espace
+1963: Valentina Terechkova est la première femme à voler dans l’espace
+
 ### 1962: émeutes de Novotcherkassk
+
+Juin 1962: décision de PCUS d’augmenter de près de 30% les prix de denrées alimentaires (comme la viande et le beurre); annoncée par les journaux en URSS.
+Notamment dans la ville de Novotcherkassk (sud du pays), les ouvriers, dont le salaire vient d’être baissé, se révoltent contre le parti qui ne défend pas les intérêts des ouvriers.
+Insurrection, grève, occupation d’usines – envoi de l’armée par Moscou contre les ouvriers, Le mouvement est étouffé, avec quelques 150 morts et de
+nombreuses arrestations. L’informaXon sur l’insurrection est gardée secrète en URSS, grâce à la censure.
+
 ### Programme d’habitation sous Khrouchtchev
+
+Vaste programme de construction d’immeubles est lancé en URSS sous Khrouchtchev (construction de +80% en 10 ans).
+Idée: construire des habitations peu chères, selon des modèles préconçus, avec des éléments préfabriqués à monter sur place.
+Les « khrouchtchevki » changent la vie de très nombreux citoyens en URSS –
+et aussi l’aspect de toutes les villes du pays.
 
 10) L’URSS sous Léonid Brejnev (1964-1982)
 
 ### 1964: limogeage de Khrouchtchev
+
+Octobre 1964: Limogeage de Nikita Khrouchtchev qui, pour la ligne officielle du Parti, s’est trop rapproché de l’Ouest  rejet du « dégel » et de l’« aventurisme » de Khrouchtchev.
+Il est remplacé par une troïka (Brejnev, Kossyguine, Podgorny). Léonid Brejnev prend peu à peu l’ascendant - s’ouvre une période de clientélisme et parrainages au sein du Parti. 
+
 ### Une ère stable – et figée
+
+La planification de l’économie est renforcée. Développement de l’industrie lourde, exploitation des richesses de la Sibérie. Immobilisme du système et de l’économie. (Vladimir Sychev: Défilé sur la place Rouge à Moscou en 1970)
+
 ### 1968: intervention militaire en Tchécoslovaquie
-### 1968: traité de non-proliféraXon nucléaire
+
+21 août 1968: Intervention militaire de l’URSS en Tchécoslovaquie, écrasement du printemps de Prague.
+25 août: manifestation des dissidents russes sur la Place Rouge beaucoup sont arrêtés et condamnés à être « traités » dans un hôpital psychiatrique.
+
+### 1968: traité de non-prolifération nucléaire
+
+1er juillet 1968: traité de non-prolifération nucléaire signé par un grand nombre de pays de l’ONU, y compris par l’URSS et les Etats-Unis – signe d’une certaine détente en pleine guerre froide.
+
 ### Détente et croissance économique
+
+Certaine ouverture sur le reste du monde. De plus en plus d’échange commercial avec les pays capitalistes (p.ex. coopérations pour la construction
+d’automobiles, investissements allemands [ouest] dans la sidérurgie, importations depuis les Etats-Unis).
+En 1977, 37% des importations soviétiques en produits de haute technologie viennent de RFA (Allemagne de l’ouest). En 1979, exportations des USA vers l’URSS d’une valeur de 3,6 milliards de dollars (maximum historique).
+
 ### Stagnation
+
+Tensions intérieures persistent
+Mouvement dissident intérieur est victime de répression systématique depuis 1968: harcèlement par le KGB, poursuites judiciaires, assignation à résidence, enfermement psychiatrique.
+Cas des refuzniks: juifs soviétiques auxquels les autorités refusent de qui(er le pays pour émigrer en Israél. À partir du milieu des années 1970, économie officielle stagne en URSS.
+
+⇒Économie informelle se développe (« Ils font semblant de me payer, je fais semblant de travailler » devient une sorte de devise); échange de « services » (le blat) devient la règle
+⇒Affaiblit encore plus l’économie
+
 ### 1974: Expulsion de A. Soljenitsyne
+
+Février 1974: Alexandre Soljenitsyne, auteur de l’Archipel du Goulag, est expulsé de l’URSS. Soljenitsyne avait révélé la réalité des Goulag au monde.
+⇒Suite à son expulsion, l’image de l’URSS dans le monde se dégrade fortement.
+
 ### 1979: Début de la guerre en Afghanistan
+
+Décembre 1979: URSS intervient avec 100 000 soldats en Afghanistan pour soutenir un régime arrivé au pouvoir par un putsch peu avant; le conflit s’enlise rapidement, les derniers soldats soviétiques quitteront l’Afghanistan en 1989 [on considère l’Afghanistan comme le « Vietnam soviétique »].
+⇒Réactions internationales; 53 pays refusent de participer aux Jeux Olympiques de Moscou, en 1980
+
 ### Novembre 1982: mort de Brejnev
+
+En novembre 1982, Leonid Brejnev meurt – et laisse derrière lui une URSS fragilisée par une politique clientéliste et extrêmement conservatrice. 
+Crise économique et agricole 
+Succession rapide de dirigeants après la mort de Brejnev: 
+- Iouri Andropov (1914-1984), 14 mois au pouvoir
+- Konstantin Tchernenko (1911-1985), un an au pouvoir
+- 11 mars 1985: arrivée au pouvoir de Mikhaïl Gorbatchev
 
 11) Gorbatchev et la fin de l’URSS (1982-1991)
 
 ### 1985: Mikhaïl Gorbatchev accède au pouvoir
+
+Mars 1985: Mikhaïl Gorbatchev, 54 ans, devient secrétaire général du PCIS
+Mène d’abord une campagne anXalcoolique, très impopulaire et qui ne résout aucun problème. Il entreprend ensuite de revoir les structures du pays; initie la
+« pérestroïka », la reconstruction de l’URSS.
+Idée: libérer la production artisanale, le petit commerce et les services en
+autorisant des entreprises privées. Renforce l’autonomie des entreprises d’Etat par rapport au plan.
+
 ### Glasnost’
+
+Glasnost’ (la « visibilité » ou « transparence ») accompagne la pérestroïka au niveau politique.
+⇒ Clubs politiques informels ouvrent dans le pays
+⇒ Presse se libère de la censure, publie articles critiques
+⇒ Passé stalinien peut être débattu
+⇒ Naissance d’un certain pluralisme politique
+Réforme constitutionnelle en 1988: autorise le vote à bulletin secret et des candidatures multiples pour les élections des députés
+
 ### Politique extérieure
+
+Nouvelle diplomatie internationale dirigée par le ministre aux Affaires étrangères, Edouard Chevardnadzé. -> Politique de détente
+Traité de désarmement nucléaire (1987), retrait d’Afghanistan (1988), réduction des forces soviétiques d’Europe de l’Est et de Mongolie.
+Souveraineté rendue aux « démocraties populaires » d’Europe de l’Est... ce qui conduira vers l’effondrement du bloc socialiste en 1989.
+
 ### Tchernobyl
+
+Avril 1986: catastrophe nucléaire dans la centrale de Tchernobyl
+Souligne l’état de délabrement de la structure industrielle de l’URSS et illustre ravages écologiques du productivisme soviétique.
+=> Fragilise la confiance envers le pouvoir (qui reXtint des informations et peine à dire la vérité)
+
 ### 1989
+
+Les grèves se multiplient, notamment chez les mineurs. Contestations et violences nationales: eau Kazakhstan, en Arménie, en Estonie,en Azerbaïdjan...
+⇒Gorbatchev fragilisé
+- Novembre 1989: chute du Mur de Berlin
+- Mars 1990: la Lituanie déclare son indépendance
+- Juin 1990: la Russie elle-même déclare son indépendance
+
 ### 1991
+
+Août 1991: Gorbatchev victime d’une tentative ratée de coup d’Etat menée par des conservateurs, c’est Boris Eltsine (réformateur) qui en ressort gagnant.
+8 décembre 1991: Eltsine décide avec ses homologues ukrainiens et biélorusses de créer une Communauté des Etats indépendants appelée à se substituer à l’URSS.
+Le 25 décembre 1991, Mikhaïl Gorbatchev, président d’une URSS devenue vide, démissionne de son poste: c’est la fin définitive de l’URSS.
+
