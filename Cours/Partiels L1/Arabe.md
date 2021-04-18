@@ -1,7 +1,7 @@
 ## Langue 
 
-La langue arabe se lit et s'écrit de droite à gauche. Les lettres changent légèrement de forme selon leur position dans le mot = début / fin / milieu
-Certaines lettres ne sont pas fiables , ce sont les lettres : ا / ذ / د / ر / ز
+La langue arabe se lit et s'écrit de droite à gauche. Les lettres changent légèrement de forme selon leur position dans le mot = début / fin / milieu.
+Certaines lettres ne sont pas liables , ce sont les lettres : ا / ذ / د / ر / ز
 Le caractère et les signes voyelles peuvent être considérés comme des signes-phonèmes.
 
 ### L'alphabet 

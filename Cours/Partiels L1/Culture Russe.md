@@ -272,7 +272,7 @@ Exemples : Tchoukotka, Khantys-Mansis (oblast de Tioumen), Nénétsie (oblast d�
 
 Pour des buts statistiques, la Fédération russe est divisée en 12 régions économiques.
 
-<img src="cartea2etatseco.png" alt="carteetetats">
+<img src="cartea2etatseco.png" alt="carte etatseconomiques">
 
 3) Les institutions
 
