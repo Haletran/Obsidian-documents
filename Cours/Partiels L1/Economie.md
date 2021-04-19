@@ -275,21 +275,81 @@ Regrouper les agents et les opérations économiques dans des grandes catégorie
 
 5 secteurs institutionnels résidents + “le reste du monde” ( documents annexe sous forme de tableau représentant les 5 secteurs institutionnels ) / opérations sur biens et services / opérations de répartition / opérations financières / ( ex : le cours que l’on suit est un service ) 
 
-3) 
+3) Les operation economiques
+
+Tous ces agents économiques réalisent des opérations économiques quotidiennement toute l'année (faire ses courses / prendre le bus / ...
+Pour représenter tout cela, on va ventiler les opérations économiques en trois catégories homogènes :
+- Les opérations sur biens et services : faire ses courses / prendre le bus / etc....  Très nombreuses donc on va les diviser en agrégats = rubrique consommation, rubrique production, rubrique investissement, etc...
+   Ce sont ces opérations qui créent de la richesse en France. En produisant ce service cela dégage de la richesse car rémunération en échange.
+- Les opérations de répartition : Les richesses sont réparties (rémunération).
+   Exemple : le cours de Monsieur Corneau que l'on ne paye pas mais que l'Etat paye. Ces opérations sont divisées en deux : partitions primaires (salaire) et répartitions secondaires (redistribution par l'Etat de prestations sociales).
+- Les opérations financières : les créances et les dettes (non dev parle le prof)
+
 4)  Les marchés
 
-Économie de marché = biens et des consommations / biens et des productions/travail / changes / capitaux 
+Tous ces agents économiques réalisent des opérations économiques sur les marchés (lieu de rencontre virtuel ou physique entre les demandeurs et les offreurs).
+Économie de marché = plusieurs marchés : biens et des consommations / biens et des productions/ travail / changes / capitaux
+Nous sommes dans une économie de marché.
 
+5) Le circuit économique
+
+Representation / schema synthetique et chiffre de l'économie nationale
+A voir dans TD n*4 
+
+6) L'évaluation monétaire
+
+Évaluation des opérations qui apparaissent sur le circuit économique.
+La consommation  en France se calcule en euros et correspond a une valeur globale qui est égale à tout ce qui a été vendu (Quantité) que l'on va multiplier par les prix de ventes. VALEUR GLOBALE = Quantite x Prix
+C'est ce que l'on appelle chiffres d'affaires dans une entreprise.
+
+Cette valeur en euros (Prix courants [valeur nominale] / prix constants [valeur réelle]). A voir dans le TD n*5
+
+Définitions :
+
+-   Inflation : Situation ou phénomène caractérisé par une hausse généralisée et continue du niveau des prix 
+-   Désinflation : Ralentissement de l'inflation , baisse des prix   
+-   Déflation : Situation dans laquelle l'activité économique d'un pays est ralentie, caractérisée par une baisse des prix, des salaires, une réduction de la masse monétaire engendrant à leur tour une baisse de la demande, de la production, de l'emploi, etc.
+-   Stagflation : Situation économique où le ralentissement de la croissance, parfois la récession, s'accompagne d'une hausse des prix et des salaires.
+
+7) Le découpage du système productif
+
+Les différentes opérations économiques sont réalisées par des sociétés qui interviennent dans des secteurs différents. C'est un économiste du nom de *Colin Clarke* qui en 1947 a élaboré un classement en trois secteurs :
+- secteur primaire = toutes les entreprises qui produisent des matières premières (agricoles)
+- secteur secondaire = toutes les entreprise qui ont une activité industrielle donc activité de transformation des matières premières (construction/ BTP/...) matieres => produits
+- secteur tertiaire =  toutes les activités productrices de services, secteur très large (éducation/santé/loisirs/tourisme/banque/...).
+- Quatrième secteur récent dans lequel on pourrait y inscrire toutes les activités de services à haute valeur ajoutée, celles qui sont les plus créatrices de richesse (education /recherche /technologie de l'information)
+
+Cette classification est importante car c'est un indicateur très simple de développement d'un pays, car plus un pays est développé plus son secteur tertiaire et quaternaire est important.
+=> Tertiarisation (plus de 80% des Francais travaillent dans le secteur tertiaire)
+ 
 
 ### CHAPITRE 2 – LES OPÉRATIONS SUR BIENS ET SERVICES
 
-1)  La production 
+1)  La production Francaise
+
+La production est l'agrégat qui est à l'origine de tout le reste parce que la production  est destinée à être consommée. Pas de consommation sans production. La production permet de délivrer des revenus a ce qui participe à cette production c'est ce que l'on  appelle = Les facteurs de production (humain/capitale). Et ce sont ses revenus là qui vont permettre à chacun de pouvoir consommer.
 
 1 - La nature de la production     
    
+Il y a deux types de production :
+- production marchande = cela correspond à la production qui est vendue à un prix significatif / prix de vente, c'est un produit qui est vendu mais qui coûte plus cher que ce qu'il coûte à produire (Une marge) Ce sont des biens ou des services.
+- production non marchande = production qui est fournie gratuitement ou quasi-gratuitement. On peut la décliner en deux types de production :
+   production pour emploi final propre (exemple : une personne qui cultive ses propres légumes dans son potager - prix de base) et production de services non-marchands collectifs(services collectifs gratuits).
 
 2 -  La mesure de la production
--rattraper avec l’enregistrement vidéo du 09/03-       
+   
+Trois outils pour mesurer la production :
+- La valeur ajoutée = valeur qu'on ajoute au coût de production. Les consommations intermédiaires se transforment pour vendre un produit plus cher. Donc valeur qu'on  ajoute aux consommations intermédiaires.
+   (Chiffres d'affaires ou Prix de vente)
+- Le produit intérieur brut (PIB) = la même chose à l'échelle d'un pays, la somme de toutes les valeurs ajoutées des unités résidentes en France. C'est-à- dire tous les agents économiques qui produisent et résident dans le pays.
+- Le produit national brut (PNB) = c'est aussi la somme des valeurs ajoutées mais seulement des agents économiques nationaux, on ne raisonne plus par rapport au territoire mais par la nationalité.
+
+3 - La productivité
+
+Quantité de richesse mais produite par un facteur de production.
+On peut calculer la productivité par salarié / machines en valeur ou en volume. La productivité peut évoluer d'une année à l'autre car elle peut varier en fonction du rendement d'une personne ou autres. 
+
+<img src="shemapro.png" alt="schema productivite">
 
 2)  Les consommations finales        
                    
@@ -342,7 +402,7 @@ Les revenus primaires des ménages
 
 Découle directement de leurs activités c'est-à -dire s'en intervention de l’Etat . 
 Revenus d'activité ⇒ Revenus salariaux 
-             ⇒ Revenus mixtes
+             					⇒ Revenus mixtes
 
 -rattraper la fin du cours 23/03- 
 

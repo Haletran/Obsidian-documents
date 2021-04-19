@@ -19,3 +19,12 @@
 [Profguide.io](https://www.profguide.io/professions/manager_turizm.html)
 [Profitworks.com](https://profitworks.com.ua/professii/menedzhment/menedzher-po-turizmu)
 [DeepL](https://www.deepl.com/translator)
+
+## Russe 
+
+[Le lien du film](https://www.youtube.com/watch?v=TGRDYpCmMcM)
+[techniques plans](https://www.studiobinder.com/blog/5-film-techniques-you-can-learn-from-andrei-tarkovsky-right-now/)
+[Film wiki](https://fr.wikipedia.org/wiki/Stalker_(film,_1979))
+[Bio wiki](https://fr.wikipedia.org/wiki/Andre%C3%AF_Tarkovski)
+[critique yt](https://www.youtube.com/watch?v=G5I_gqd-J4E)
+[critique yt eu](https://www.youtube.com/watch?v=aNR1wZpybP0)
