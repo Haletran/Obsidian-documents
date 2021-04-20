@@ -61,9 +61,78 @@ But the two categories can overlap because a person may have multiple racial and
 
 ## The colonial period (1607-1776)
 
--To complete-
+- 1607 : first English colony in Jamestown, Virginia
+-  New England Puritans (=Pilgrims) : not really willing to welcome immigrants
+- Middle colonies : more eager to welcome new immigrants
+- 17th century : English, Scottish and German immigrants (in Pennsylvania), and forced migration of Africans (1619)
+- 18th century : European immigrants and continuation of African slavery
 
-<br>
+## The 'old' immigrants(1820-1890)
+
+An influx of immigrants from Northern and Western Europe (British, Irish, Germans...) + Central Europe.  They were farmers, artisans, skilled factory workers and perceived as 'good' immigrants : same culture, same values... They could easily adapt/assimilate to the WASP (White Anglo-Saxon Protestant) model = 'Ethnic' hierarchy
+
+## The 'new' immigrants (1890-1930)
+
+Many immigrants from Southern and Eastern Europe: Italians, Poles,
+Greeks, Jews, Hungarians... Because of industrialization, great need for factory workers but most jobs were unskilled and badly paid.
+Israel Zangwill's play The Melting Pot (1908) = the U.S. would mix all the
+different cultures to create a new American people
+-> 'Bad' immigrants
+-> Tensions and reactions of xenophobia
+
+## The Emergence of Nativism(19th-20th centuries)
+
+Nativism appeared in reaction to the arrival of immigrants whose culture was not part of the WASP culture. Nativism comes from the word 'Native' (=the descendants from the settlers of the 13 colonies). An anti-immigration feeling : nativists opposed immigration and feared for the purity of the white race.
+Nativist movements : the Know-Nothings (against Irish Catholics), the Immigration Restriction League, the anti-Asian movements (→ the Chinese Exclusion Act of 1882 banning Chinese immigration)
+->Restrictive immigration laws : Emergency Quota Act (1921)
+
+## The Americanization program(20th century)
+
+A majority of people were against Europeans immigrants but also many who want them to assimilate to the American mainstream through the American program. People were taught English, American history, government and American customs. The objective was to assimilate these people. 
+
+
+## The 4th wave of immigration : after 1965
+
+Immigration seriously decline but everything change with the 1965 Immigration and Nationality act also known as "The Hart Celler Act". That was an act which ended racial quotas. These laws implemented preferential categories based on Family relationship and job skills. These act mark a change for the American immigration policy. After 1970, Immigrants started coming from Asia(Corea/India) and also from Africa. 
+After 1980, there was a new tendency, people started to arrive from Latin America. So the population started to diversify a lot with the emergence of new community and new minority coming in
+
+<img src="immigrationcam.png" alt="camenbert">
+
+In 2017 : 1/5 of the world's immigrants lived in the U.S.
+
+<img src="campop.png" alt="camenbertpop">
+
+
+## Some definitions
+
+- Native-born : a U.S citizen at birth 
+- Foreign-born : NOT a U.S citizen at birth
+	- naturalized U.S citizens
+	- legal permanent residents (=green-card holders)
+	- temporary migrants
+	- humanitarian migrants (=asylum seekers)
+	- unauthorized migrants (=illegal/undocumented immigrants )
+
+
+## Legal / Illegal Immigrants
+
+<img src="https://www.pewresearch.org/wp-content/uploads/2020/08/ft_2020.08.20_immigrants_02.png?w=578" alt="immigrantsus" width="300">
+
+## Linguistic characteristics
+
+Half of the immigrants are proficient English speakers. Spanish is the most commonly spoken language among U.S immigrants (followed by English only, Chinese, Hindi, Filipino and French).
+
+## Hispanics
+
+Hispanic and Latino are ethnic categories, they are from Spain, Central and South America and the Dominican Republic. They have a unique cultural identity called "Hispanicness". the Mexican immigration is starting to decline because of the weakening of US job and construction markets; and new laws that reinforce the border between South America and deportations.
+
+## Asians Americans 
+
+Origins from East Asia, Southeast Asia and South Asia, The 6 largest Asian-American groups : Chinese, Filipinos, Indians, Vietnamese, Koreans and Japanese. Asians earn much more than the average American population. They're also the best educated group as we said there are also socially assimilated what does that mean it means that they are involved in mixed marriages or they live in mixed neighborhoods.
+
+## Americans' perception on immigration
+
+Americans perception on immigration overall again and according to some surveys and studies a majority of Americans have positive views on immigration they tend to say that immigration strengthens the country because of immigrants hard work because of their talent of course there are some differences of opinions depending on political affiliations the the perspective won't be the same if you are a Democrat or a Republican there are also different perceptions depending on the immigrant group generally speaking they are quiet positive views of Asians and Europeans and less positive views of African Latin American immigrants that's reality that's a fact and also Americans are very divided on future immigration levels almost half of Americans saying that immigrant immigration should be decreased while one third said immigration should be kept at present level and just 15% of them said that immigration should be fixed.
 
 # The United Kingdom 🇬🇧
 *(England, Scotland, Wales, Northern Ireland)*
