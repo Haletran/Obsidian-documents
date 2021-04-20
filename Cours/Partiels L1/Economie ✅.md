@@ -359,28 +359,43 @@ Les biens qui sont consommés sont détruits dans le moment de consommation . Tr
 3)  Les consommations intermédiaires 
 
 Il s’agit des consommations premières , donc des biens transformés ou détruits dans un processus de production utilisé pour créer un bien final. Donc toutes les matières premières = bois , électricité , métal ... 
+On achete des biens mais pas pour les consommes mais utiliser pour creer un bien final / un produit finit. 
 Attention à ne pas confondre consommation finale et consommation intermédiaire .
 
 4)  La formation Brute de Capital Fixe ( FBCF ) 
 
 Biens qui interviennent dans plusieurs cycles de production . Actifs corporels pour les investissements immobiliers pour un particulier donc l’achat d’une maison par exemple . Et l’actif incorporel avec tout ce qui est logiciels , recherches et développement dans une entreprise.
-Les entreprises investissent beaucoup , donc des investissements de types productifs puisqu’elles investissent pour produire un bien ou une service = investissements remplacements / de capacités et de productivité . 
+Les entreprises réalisent quasiment 60% des investissements.
+Les entreprises investissent beaucoup, elles réalisent des investissements productifs puisqu'elles investissent dans des biens et des services.
+Elles peuvent réaliser/employer trois moyens d'investissement :
+- investissement de remplacement = renouveler du matériel usagé ou en fin de vie / achat de nouvelles machines pour les remplacer
+- investissement de capacité = augmenter leurs capacités de production donc achat de machines pour augmenter la capacité de production et donc produire plus, source d'emplois supplémentaires
+- investissement de productivité = améliorer sa productivité / améliorer son rendement en achetant des machines pour remplacer des salariés
 
--compléter avec l'enregistrement vidéo du 16-02-2021-
+550 milliards d'euros investis en France par an par les entreprises, l'Etat et les ménages. Les économistes disent que les investissements produisent un effet multiplicateur car quand une entreprise investit c'est pour produire plus donc augmenter leurs offres et en faisant cela elles distribuent des revenues en plus aux salariés donc cela entraînera une hausse de la demande (cycle vertueux).
+investissement -> hausse de l'offre -> revenues supp -> hausse de la demande
+
+On mesure le taux d'investissement dans les pays. c'est-à- dire combien on  a investi par rapport au PIB. (24,5% en France en 2019)
+⚠️ Si on investit pas assez, on risque d'être confronté à *des goulots d'étranglements*, c'est à dire une saturation de la capacité.(le cas de pays pauvre)
 
 5)  La variation des stocks 
 
-6) Les exportations 
+D'un côté on produit et en face on consomme, donc on parle de stocks / d'entrée ou de sortie de produits en stocks. Si on a trop produits par rapport à la consommation, on entre les produits en stocks plutôt que d'en créer d'autres donc production réduite pour déstocker. L'INSEE a calculé cette variable.
 
+6) Les exportations et les importations
 
+Ce qu'on appelle exporation c'est la production que l'on va vendre a l'etranger donc consommer ailleurs. A l'inverse, les importations ce sont de produits qu'on consomme en France mais qui ete produits a l'etranger.
+(en 2019, on a importe 800 milliards d'euros de produits et exporte 771 milliards d'euros).
+
+Les deux parties doivent s'equilibrer, l'offre globale(production) doit etre egale a la demande globale (consommations).
 
 ### CHAPITRE 3 - LES OPÉRATIONS DE RÉPARTITION 
 
-1)  La répartition primaire 
+1)  La répartition primaire des revenues
 
 Cette répartition de la richesse en entreprise est la répartition des revenus issues directement des processus de production = valeur ajoutée.  
 
-Le partage de la valeur ajoutée
+1 - Le partage de la valeur ajoutée
 
 Répartie entre trois acteurs économiques : 
 L’Etat avec les impôts, les taxes, les cotisations sociales, etc...
@@ -392,25 +407,28 @@ Première source de conflit entre la partie salaire et l’EBE , parce que les s
 EBE va faire l’objet d’une distribution , 5 parts : 
 Amortissements - machines / matériels , on constate l’usure de ces choses là. Anticiper le jour ou il faudra changer ces machines. 
 Les intérêts - financiers sur les emprunts contractés pour l’entreprise donc une partie de la richesse d’une entreprise revient aux établissements bancaires.  
-Impôts sur les sociétés  (IS) (bénéfices)  qui revient à l'Etat 
-Dividendes 
-Autofinancement 
+Impôts sur les sociétés  (IS) (bénéfices)  qui revient à l'Etat.
+Dividendes - Autofinancement 
 
 Conflit par rapport à ce que l'entreprise va vouloir garder et les revenus des actionnaires . 
 
-Les revenus primaires des ménages 
+2 -Les revenus primaires des ménages 
 
-Découle directement de leurs activités c'est-à -dire s'en intervention de l’Etat . 
-Revenus d'activité ⇒ Revenus salariaux 
-             					⇒ Revenus mixtes
+revenus primaires = Les revenus des français venant de leurs activités sans intervention de l'Etat.
 
--rattraper la fin du cours 23/03- 
+Deux catégories de revenus :
+- revenus d'activité = les rémunérations qui découlent du travail mais deux types d'activités : les salariés (90%) et les indépendants (revenus mixtes)
+  -> les revenus salariaux, faire la différence entre le salaire NET et BRUT. Le SMIC (salaire Minimum Interprofessionnel de Croissance) qui est revalorisé tous les ans, en 2021, il est de **10,25 euros** par heure (1550 euros bruts). Les salaires ont une repartition inegale des salaires car elles varient selon le sexe, l'experience, la qualification, l'age, la nationalite et l'entreprise.
+  -> les revenus mixtes, travailleurs indépendants / à leurs comptes. Lies aux secteurs d'activites (secteur juridique les mieux payes).
+- revenus de la propriete = deux types de revenus : 
+-> les revenus immobiliers, patrimoine non-financier (loyers)
+-> les revenus mobiliers, patrimoine financier (interets, dividendes)
 
 2)  La redistribution des revenus 
 
-Transfert de revenus par l’Etat / intervention sociale plutôt forte 
+On va prelever d'un cote pour redistribuer de l'autre. 
 
-Les ressources de la redistribution 
+1 - Les ressources de la redistribution 
 
 Prélèvement obligatoire par les recettes fiscales via les impôts directs et indirects.Financer les dépenses qui profitent à tout le monde. 
 
@@ -422,22 +440,48 @@ capitulaires  ( forfaitaires )
 Les cotisations sociales ne sont payées que par les actifs,  mais financent les prestations sociales a ce qui ont financé ce système.Le jour ou la personne est malade elle sera indemnisé car cotisations sociales.   
 
 Vision libérale = contre le prélèvement social ( source de chômage ) 
+La France importe plus qu’elle exporte car moins compétitive sur la scène internationale.  Taux de prélèvements obligatoires = somme des prélèvements obligatoires / PIB
 
-La France importe plus qu’elle exporte car moins compétitive sur la scène internationale. 
+Vision keynésienne = "Etat providence" donc intervention dans la sphère sociale, moins d'inégalités donc moins de pauvreté.
 
-Taux de prélèvements obligatoires = somme des prélèvements obligatoires / PIB
+2 - Les dépenses de la redistribution
 
-Arthur Betz LAFFER 
+L'Etat français dépense beaucoup puisqu'il prélève beaucoup (dette nationale). Les dépenses peuvent être divisées en deux = les subventions donc des aides financières pour les entreprises et associations. Les prestations sociales sont versées par différents organismes (CAF / Pôle Emploi / AGIRC et ARRCO / les collectivités territoriales).
+Ils distribuent des prestations sociales diverses et variées. Deux types de redistribution :
+- redistribution horizontale destinée à couvrir les ménages selon les risques sociaux selon une logique d'assurance.(les cotisations sociales)
+- redistribution verticale = prélever sur les plus riches pour les prestations à ce qui en ont besoin. (reduire les inegalites)
 
--rattraper la fin du cours 30/03 - 
+On fait la somme des dépenses que l'on appelle le taux de redistribution sociale que l'on exprime en fonction du PIB. Somme des prestations sociales divisé par le PIB.
+
+Vision keynésienne = beaucoup de prestation sociale pour maintenir la croissance économique et préserver la cohésion sociale.
+
+Vision libérale = dépenser autant c'est des gaspillages car favorise la paresse et la surconsommation. "théorie de l'aléa moral" et "théorie du passager clandestin"
+
+Les dépenses publiques sont à la fois ce qui permet à l'Etat de fonctionner et qui permet d'assurer cette fonction de redistribution. 1/3 des dépenses publiques permettent le fonctionnement et 2/2 permettent la fonction de redistribution.
+
+** Otto von BISMARCK**
+=> logique bismarckienne
+=> assurances sociales
+
+**William Henry BEVERIDGE**
+=> logique beveridgienne
+=> unicité / universalité / uniformité
 
 
-Niveau de vie = Revenu disponible par les ménages  / Unités de consommation 
-⇒ niveau de vie mensuel médian = 1771 euros(2018)
+Le modele sociale francais coute cher mais est assez performant, avec des salaries tres productifs, une esperance de vie elevee et une pauvrete relativement faible. 
+
+3) Le revenu disponible 
+
+Le revenu disponible ce sont tous les revenus primaires moins les impôts directs plus les revenus de transferts. Ce qui reste aux ménages pour faire face à leur consommation.
+Le niveau de vie est le revenu disponible des français que l'on divise par les unités de consommation, donc il est pondéré en fonction du nombre de personnes qui composent le ménage. (1771 euros en 2018)
+
+C'est à partir de ce niveau de vie que l'on détermine le taux de pauvreté monétaire (UE), on considère qu' une personne est considérée comme pauvre financièrement si elle est en dessous de 60% du niveau de vie médian (1063 euros).
+-> 9,3 millions de Français pauvre(15% de francais en 2018)
+
+Les inégalités en France sont moins fortes qu'ailleurs car le SMIC est élevé donc pas d'inégalité de salaire, de l'investissement éducatif et un système social & fiscal redistributif.
 
 4)  Les comportements du consommateur et de l’epargnant
 
-La consommation
 
 Utiliser un bien ou un service à des fins individuels ou collectives
 Deux approches pour analyser la situation française : 
@@ -451,7 +495,5 @@ Thomas M. BROWN
 Coefficient budgétaire : 
 ⇒ coefficient budgétaire = Depenses consacrees a une catégories de biens ou service / consommation effective des ménages
 
-Le taux d'épargne 
 
-- rattraper le cours du 06/04 -
 
