@@ -140,10 +140,180 @@ Americans perception on immigration overall again and according to some surveys 
 ## Concept and definitions 
 
 - Culture : is the root of the word "multiculturalism", culture = practices and lifestyle shared by some human beings, always in progress not still, evolving. 
-- Britishness : 
+- Britishness : to be british, British nationhood came to be 'added on' to other identities, Scots, Welsh, English, or more purely local ones, rather than replacing them, or merging with them. Great Britain was 'an invented nation.' In this respect being British = multiple identities. national identity carrying the values of the UK
+- Multiculturalism : The Oxford English Dictionary offers a broad definition of multiculturalism as the "characteristics of a multicultural society" and "the policy or process whereby the distinctive identities of the cultural groups within such a society are maintained or supported". complex notion, multiple definitions but about people living together peacefully.
+- Assimilation : The images of the melting pot and salad bowl also apply to the UK, even though the expressions themselves are not used. The image of Salad Bowl and Melting pot. Propensity of immigrants to enter a mainstream identity, thus erasing parts of their original culture.
+   Assessed through different criteria such as the access to employment, how well immigrants do in education, if they marry and/or have children, with whom (intermarriages). At the local and national levels, cohesion (in neighbourhoods for example) is also considered.
+- Integration : Immigrants do not have to erase their original culture to enter a mainstream identity, a kind of tolerance needed.
 
--To complete-
+Immigrants, by not sharing some ancestral connections, will weaken a sense of British or national identity. 
+-> Fear of a dilution of national identity
+
+## Origins of the immigration in the UK 
+
+1) The British Empire: where the sun never sets
+
+- Started with the conquest of Ireland in the 1580s (Ulster Plantations)
+- Then colonies in North America and the West Indies (17th century)
+- The East India Company established trading posts in India and China (18th century)
+- Australia, Africa and many other colonies were also added to the Empire
+
+
+2) The British Empire: wealth in trade and people 
+
+-   Trade in products such as cotton, tea, spices, linen, indigo and slaves   
+-   Native populations were put to work or used as slaves in the case of the Africans.
+-   Some, like the Indians (of India), were enrolled in the British Army
+-   In India, the local population was used in civil services and education
+
+3) The British: a ruling people
+
+-   As a consequence of the hegemony of the British Empire, British people have constituted a large network of authority and influence
+-   Creation of the Commonwealth of Nations as a result of the fall of the Empire in the 20th century
+🡺 those nations were the first to send their people to the UK
+
+<img src="https://cdn.images.express.co.uk/img/dynamic/1/590x/secondary/British-Empire-world-Oxford-University-Nigel-Biggar-1162479.jpg" alt="commowealthnations" >
+
+There are 54 countries in the Commonwealth, in Africa, Asia, the Americas, Europe and the Pacific. Commonwealth countries are diverse – they are amongst the world’s biggest, smallest, richest and poorest countries.
+32 of our members are classified as small states. Small states are especially vulnerable to things like climate change or developmental challenges.
+
+Leaders of member countries shape Commonwealth policies and priorities. Every 2 years, they meet to discuss issues affecting the Commonwealth and the wider world at the Commonwealth Heads of Government Meeting (CHOGM). All members have an equal say regardless of size or wealth. This makes sure even the smallest countries have a voice in shaping the Commonwealth.
+
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.qs.com%2Fwp-content%2Fuploads%2F2014%2F04%2FFlags_of_the_CON.png&f=1&nofb=1" alt="commonwealthmembers" style : width = 500>
+  
+4) Post WWII immigration history 
+
+Different waves of immigration, mainly from former colonies and Legislation had to be implemented to regulate race relations.
+
+- 1950's : full employement, Caribbean immigration
+- 1960's : Caribbean and African
+- 1970's : Ugandan Asian (Leicester) and Asian (Bradford-Bangladesh)
+- 1980's : Legal immigration flow stopped
+- 1990's : illegal immigration becomes a problem
+- 2000's : economic immigration - temporary - from new eastern European countries
+
+5) London 
+
+City of London : 7700 people 
+Greater London : 8 817 300 people
+
+Ethnic groups : 
+- White British (44,9%)
+- Other White (14,9%)
+- Asian British (18,4%)
+- Black British (13,3%)
+- Arab British (1,3%)
+- Mixed (5%)
+- Others (2.2%)
+
+## The UK : Difficult race relations
+
+1) 1950s-1970s
+
+- From the outside, Commonwealth immigrants were welcome with open arms
+- However, discriminations already existed
+- What undermined this multicultural society = the disribution of wealth
+
+How did we get there ?
+From the 1980s onward, race relations coupled with difficult economic conditions have triggered social unrest, which translated into riots in the main British towns.
+
+2) RIOTS , 1980-2011
+
+April 1980 – Bristol
+April 1981 - Brixton, south London
+July 1981 - Toxteth, Liverpool
+October 1985 - Broadwater Farm, Tottenham, London
+March 1990 - Poll tax riots, London
+May-July 2001 - London May Day riot and violence in 
+northern England
+August 2011 - London, Manchester and other major cities
+
+Riots are the VISIBLE expression of the ill-being of British society. 
+Riots between 1980 and 2011 had common points :
+- about race
+- conflicting relation with the police
+- poverty
+
+
+3) Race and the police
+
+- Racial confrontation
+- Conflict with the police
+- A sense of injustice
+
+4) Poverty 
+
+- arson, looting and attacks on the police
+- Working-class  estates
+- High youth unemployment
+- Economic deprivation
+
+5) So what about multiculturalism ? 
+
+The strategy of multiculturalism has failed to create a common
+ core of values. Is multiculturalism leading to segregation ?
+Immigrants becoming citizens now have to pass a test on 
+language, culture, and history. 
+
+2002 : introduction of the « Life in the UK » test (British citizen test)
+
+## African -American Issues
+
+More than half the country’s 41.4 million African Americans lived in the South.
+<img src="blackpercent" alt="percentage">
+
+1) 21st century
+
+10 Southern states had black populations exceeding 1 million.
+African Americans were also concentrated in the largest cities, with more than 2 million living in New York City and more than 1 million in Chicago.
+Detroit, Philadelphia, and Houston each had a black population between 500,000 and 1 million.
+
+**   Different processes have led to today's situation of tense racial relations in the U.S. : **
+- The English Empire settling in Africa
+- Slavery
+- Segregation
+- Fight for equality
+- Racial discrimination
+
+2) Trading Outposts
+
+Until the 17th century, the English were mainly interested in African produces such as pepper, ivory or gold. So they had some sort Rivalry on the West coast of Africa.
+
+3) Slavery 
+
+- Lifelong status
+- Hereditary (for children born of enslaved women)
+- Based on race
+- Enslaved people were considered as property
+-> They could be sold, bequeathed, emancipated (freed) sometimes
+
+Slavery started in 1619 (for the English/British Empire). In the 17th century , that was the development of slavery in the American colonies. Slaves were preferred to indetured servants. And in the 18th century, most of the Southern States relied on slavery.
+
+4) The Abolition of Slavery 
+
+Civil war (1861-1865) between free states (the Union) and the slave states 
+(the Confederate states).    
+=> Emancipation Proclamation in 1863
+-> Abolition of slavery in 1865 with the 13th Amendment to the American Constitution (A.Lincoln)
+
+5) Segregation 
+
+Segregation : the action of setting someone aside, in this case, because of race. Even though ex-slaves were free (Abolition of slavery in 1865), they were not considered as equal to the whites. They did not have equal rights.
+The Jim Crow Laws (1876-1965) denied African-Americans social, economic and political rights : racial segregation.
+
+=> 1896 : Plessy vs Ferguson : racial segregation is constitutional 'Separate but equal ' doctrine. But Blacks were not granted equal treatment
+
+6) The fight for Equality 
+
+1909 : creation of the National Association for the Advancement of Colored People (NAACP) : a civil rights organization to end legal racial segregation
+1954 : Brown v. Board of Education : segregation.
+in public schools is banned. However, changing the thoughts and attitudes of people in the South was difficult.
+1964 : The Civil Rights Act : outlawed discrimination in jobs
+ and public places.
+ 
+Today, racial discrimination persists. 
 <br>
+
 # Immigration in Canada 🇨🇦
 ## Founding people
 

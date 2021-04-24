@@ -28,7 +28,7 @@ Andreï Tarkovsky (1932-1986) est reconnu comme **le meilleur réalisateur sovi�
 
 > Pour moi, Tarkovski est le plus grand réalisateur, celui qui a inventé un nouveau langage, fidèle à la nature du film, car il capture la vie comme une réflexion, la vie comme un rêve.
 
-\- Ingmar Bergman + [Persona Film](https://www.youtube.com/watch?v=6HNGeaqgpmI)
+\- Ingmar Bergman  [Persona Film](https://www.youtube.com/watch?v=6HNGeaqgpmI)
 
 ## Contexte (politique/historique)(2min)
 

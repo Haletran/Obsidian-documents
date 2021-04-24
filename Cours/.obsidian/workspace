@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partiels L1/📢  Oral Culture Russe.md",
-            "mode": "source"
+            "file": "Partiels L1/Diversite culturelle.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels L1/📢  Oral Culture Russe.md",
+                "file": "Partiels L1/Diversite culturelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "ac4160919475d1c2",
   "lastOpenFiles": [
+    "Partiels L1/Diversite culturelle.md",
+    "Partiels L1/📅 Dates.md",
     "Partiels L1/📢  Oral Culture Russe.md",
     "Untitled.md",
-    "Partiels L1/Diversite culturelle.md",
     "Partiels L1/Arabe ✅.md",
     "Partiels L1/Arabe.md",
     "Partiels L1/Culture Russe ✅.md",
     "Partiels L1/Economie ✅.md",
     "Partiels L1/Grammaire Anglaise ✅.md",
-    "📅 Dates.md",
-    "Partiels L1/📢 Oral Russe.md"
+    "📅 Dates.md"
   ]
 }
