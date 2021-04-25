@@ -5,22 +5,23 @@
 ## Présentation (1min)
 
 Stalker est un film russe réalisé par **Andrei Tarkovski**. Il est sorti en 1979.
-Et c'est une adaptation du roman *Roadside Picnic* écrit par **Arcadi et Boris Strougatski**. Il appartient au genre Science-fiction et fantastique et dure 163 minutes donc 2h43min.
+Et c'est une adaptation du roman éponyme écrit par **Arcadi et Boris Strougatski**. Il appartient au genre Science-fiction et fantastique et dure 163 minutes donc 2h43min.
 
-## Résumé  (1min)
+## Résumé  (1 min)
 
- Un Stalker qui est une sorte de guide,va accompagner un physicien et un écrivain dans la «zone», vaste no man's land où jadis est tombée une météorite. Ce territoire contient un secret: «la chambre des désirs», exauçant les vœux de ceux qui s'y rendent.
+L'Histoire se situe en pleine guerre froide, dans une URSS uchronique ou une zone c'est formé d'une manière qui nous sera inconnu tout au long du film comme le dit le premier carton du film, Je cite :
+> La zone est-elle le fruit d'une expérience radioactive ou d'une météorite venue du fin fond du cosmos ?
 
-## Acteurs (40secs)
-Les acteurs principaux : 
+Cette zone est un lieu mystérieux interdit d'accès où la nature a repris ses droits. Au centre de cette zone, se trouve une pièce nomme la *Chambre des désirs*, ce serait la pièce ou tous nos désirs les plus profonds y seront réalisés. Pour accéder à cette zone, il existe des stalkers, c'est-à- dire des passeurs clandestins qui font passer la zone a des gens dans le but d'atteindre la chambre des désirs. C'est une sorte de guide, il ne montre que le chemin et ne rentre pas dans cette pièce.
 
-* Alexandre Kaïdanovski = 
-* Anatoli Solonitsyne = 
-* Nikolaï Grinko = 
+Les acteurs principaux :
+* Alexandre Kaïdanovski = Stalker
+* Anatoli Solonitsyne = l'écrivain
+* Nikolaï Grinko = le professeur
 
-## Realisateur (2min)
+## Réalisateur (2min)
 
-Andreï Tarkovsky (1932-1986) est reconnu comme **le meilleur réalisateur soviétique de la période d’après guerre**. Et son influence s’est étendue bien au delà de l’Union Soviétique. Pour lui, la cinématographie n'était pas un divertissement, mais un art dans le meilleur sens du terme. Il était l'un des réalisateurs les plus instruits - il a étudié la musique et la peinture, il est né dans la famille d'un poète. Artiste polyvalent, il était capable de créer une synthèse des arts dans ses films. Pour lui, le cinéma n'était pas seulement un reflet de la réalité, mais plutôt un poème ou un rêve. Il voulait sculpter le temps et atteindre la vérité intérieure de notre existence. Tarkovsky, regardless of how one see his personal beliefs, tries to show us a world that is magical, supernatural, and ultimately beyond human comprehension.
+Andreï Tarkovski (1932-1986) est reconnu comme **le meilleur réalisateur soviétique de la période d’après guerre**. Son influence s’est étendue bien au-delà de l’Union Soviétique. Pour lui, la cinématographie n'était pas un divertissement, mais un art dans le meilleur sens du terme. Il était l'un des réalisateurs les plus instruits - il a étudié la musique et la peinture, il est né dans la famille d'un poète. Artiste polyvalent, il était capable de créer une synthèse des arts dans ses films. Pour lui, le cinéma n'était pas seulement un reflet de la réalité, mais plutôt un poème ou un rêve. Il voulait sculpter le temps et atteindre la vérité intérieure de notre existence. Tarkovsky, regardless of how one see his personal beliefs, tries to show us a world that is magical, supernatural, and ultimately beyond human comprehension.
 
 > L'image n'est pas une quelconque idée exprimée par le réalisateur, mais tout un monde miroité dans une goutte d'eau.
 
@@ -32,15 +33,32 @@ Andreï Tarkovsky (1932-1986) est reconnu comme **le meilleur réalisateur sovi�
 
 ## Contexte (politique/historique)(2min)
 
-Guerre Froide / Conquete de l'espace / nombreux conflits / La crise de Cuba / tension qui augmente en 1979 du a l'invasion de l'Afghanistan et Ronald Reagan / deux geants economiques et militaires 
+Guerre Froide / Conquête de l'espace / nombreux conflits / La crise de Cuba / tension qui augmente en 1979 dû à l'invasion de l'Afghanistan et Ronald Reagan / deux géants économiques et militaires
 
 ## Les plans (3min)
 
+Les films se découpent en trois parties :
+- L' Introduction qui nous présente le contexte, les personnages, la ville et le chemin pour aller jusqu'à la zone
+-  Le périple des personnages dans la zone pour aller dans la chambre
+-  Leur retour dans la ville
 
+Ces trois parties construisent une réflexion philosophique du désir et du besoin et amorcent une critique de l'URSS.
 
-## La cinematographie(les plans/colo) (2min)
+## L' Introduction
 
-L'atmosphère sombre, déprimante et sobre / SEPIA => COULEURS / chaque plans est une oeuvre d'art.
+Dans l'introduction, on observe des images évoquant l'oppression, c'est-à- dire un monde qui ne convient pas du tout au personnage principal, le Stalker.
+Le  SEPIA contrastes et desatures qui composent l'image permet de mettre en avant la misère dans laquelle vit le personnage principal. Il y a très peu de lumières, la seule que l'on peut apercevoir est à travers les fenêtres.
+
+La ville quand a elle, est extrêmement bouche c'est à dire que l'on remarque une industrialisation de celle ci avec un port et une voie ferrée. La fumée est omniprésente et étouffante de la ville qui illustre encore une fois ce mal être de la population. Elle peut aussi rappeler les films noirs américains des années cinquante qui critiquaient une ville en totale perdition où régnait la corruption et la peur.
+
+## Le périple
+
+On retrouve les personnages après un passage en couleur du film, ce qui pourrait être synonyme de libéralisation et de bonheur pour le personnage principal. On observe des vestiges d'une ville complètement délabrée, digne d'un décor post-apocalyptique. La nature y est omniprésente et belle.
+Et je ne vais pas m'étendre plus sur cette partie car cela serait gâcher votre visionnage du film.
+
+## Le retour
+
+Dès le retour des protagonistes dans la ville, tout le film repasse en SÉPIA, ce qui veut donc dire que le Stalker redevient mal à l'aise et malheureux dans sa vie.
 
 ## Ma scene favorite (2min)
 
@@ -48,7 +66,10 @@ L'atmosphère sombre, déprimante et sobre / SEPIA => COULEURS / chaque plans es
 
 ## Critique (3min)
 
-Duree / Suspens / la zone qui rajoute un effet stressant / certainement pas pour tout le monde / lenteur qui nous permet de reflechir sur les films actuels / plein de sens cache / des conversations philosophiques très profondes sur le sens de la vie, la création d'œuvres d'art en tant que but réel de l'existence ou sur le noyau inconnu de nous-mêmes / a regarder plusieurs fois pour comprendre 
+Si je devais ressortir une critique de ce film, je dirais que le film est très lent, ce qui n'est pas vraiment un argument contre le film. Mais il faut se demander pourquoi le rythme du film est-il si lent ? Je pense que cette lenteur permet en fait d'illustrer l'idée du but à atteindre par les trois hommes, cette conquête de la vérité. Et c'est grâce a ce rythme très lent et délibéré qu'il l'a trouvé.
+
+Ce film invite vraiment à se poser des cas de questions concernant le désir et le bonheur. Deux choses qui régissent en quelque sorte notre vie au quotidien, et c'est à travers ce film que l'on imagine bien ces deux aspects de la vie d'une personne.  
+
 
 ## Les Liens 
 
