@@ -1,18 +1,18 @@
-# ☢️ Stalker 
+# ☢️ Stalker (12min)
 
->"Stalker maybe can leave the zone, but the zone will never leave the Stalker"
+>"Stalker peut quitter la zone, mais la zone ne quittera jamais le Stalker "
 
 ## Présentation (1min)
 
 Stalker est un film russe réalisé par **Andrei Tarkovski**. Il est sorti en 1979.
-Et c'est une adaptation du roman éponyme écrit par **Arcadi et Boris Strougatski**. Il appartient au genre Science-fiction et fantastique et dure 163 minutes donc 2h43min.
+Et c'est une adaptation du roman éponyme écrit par **Arcadi et Boris Strougatski** qui a aussi inspire le jeux-video S.T.A.L.K.E.R . Il appartient au genre de la Science-fiction et du fantastique. Il dure 163 minutes donc 2h43min.
 
 ## Résumé  (1 min)
 
 L'Histoire se situe en pleine guerre froide, dans une URSS uchronique ou une zone c'est formé d'une manière qui nous sera inconnu tout au long du film comme le dit le premier carton du film, Je cite :
 > La zone est-elle le fruit d'une expérience radioactive ou d'une météorite venue du fin fond du cosmos ?
 
-Cette zone est un lieu mystérieux interdit d'accès où la nature a repris ses droits. Au centre de cette zone, se trouve une pièce nomme la *Chambre des désirs*, ce serait la pièce ou tous nos désirs les plus profonds y seront réalisés. Pour accéder à cette zone, il existe des stalkers, c'est-à- dire des passeurs clandestins qui font passer la zone a des gens dans le but d'atteindre la chambre des désirs. C'est une sorte de guide, il ne montre que le chemin et ne rentre pas dans cette pièce.
+Cette zone est un lieu mystérieux interdit d'accès où la nature a repris ses droits. Au centre de cette zone, se trouve une pièce nomme la *Chambre des désirs*, ce serait la pièce ou tous nos désirs les plus profonds y seront réalisés. Pour accéder à cette zone, il existe des stalkers, c'est-à- dire des passeurs clandestins qui font passer la zone a des gens dans le but d'atteindre la chambre des désirs si convoiter. C'est une sorte de guide, il ne montre que le chemin et ne rentre pas dans cette pièce.
 
 Les acteurs principaux :
 * Alexandre Kaïdanovski = Stalker
@@ -46,15 +46,15 @@ Ces trois parties construisent une réflexion philosophique du désir et du beso
 
 ## L' Introduction
 
-Dans l'introduction, on observe des images évoquant l'oppression, c'est-à- dire un monde qui ne convient pas du tout au personnage principal, le Stalker.
-Le  SEPIA contrastes et desatures qui composent l'image permet de mettre en avant la misère dans laquelle vit le personnage principal. Il y a très peu de lumières, la seule que l'on peut apercevoir est à travers les fenêtres.
+Dans l'introduction, on observe des images évoquant l'oppression, c'est-à- dire un monde qui ne convient pas du tout au personnage principal, le Stalker que l'on voit dans un lit avec sa fille atteinte d'une maladie et sa femme. 
+Le  SEPIA contrastes et desatures qui composent l'image permet de mettre cette misère dans laquelle vit le personnage principal. Il y a très peu de lumières, la seule que l'on peut apercevoir est à travers les fenêtres.
 
 La ville quand a elle, est extrêmement bouche c'est à dire que l'on remarque une industrialisation de celle ci avec un port et une voie ferrée. La fumée est omniprésente et étouffante de la ville qui illustre encore une fois ce mal être de la population. Elle peut aussi rappeler les films noirs américains des années cinquante qui critiquaient une ville en totale perdition où régnait la corruption et la peur.
 
 ## Le périple
 
 On retrouve les personnages après un passage en couleur du film, ce qui pourrait être synonyme de libéralisation et de bonheur pour le personnage principal. On observe des vestiges d'une ville complètement délabrée, digne d'un décor post-apocalyptique. La nature y est omniprésente et belle.
-Et je ne vais pas m'étendre plus sur cette partie car cela serait gâcher votre visionnage du film.
+On observera de nombreux decors ou les personnages effectueront leurs periples et on ne verra aucun autre signe de vie humaine et animale si ce n'est les trois protagosnistes.
 
 ## Le retour
 
@@ -62,11 +62,11 @@ Dès le retour des protagonistes dans la ville, tout le film repasse en SÉPIA, 
 
 ## Ma scene favorite (2min)
 
-
+Il y a enormement de tres bonne scene dans ce film, qui sont plus ou moins marquantes je dirais. Mais si je devais en garder une en particulier je prendrais une des dernieres scenes de la seconde partie, c'est a dire celle ou le staker avoue la verite a propos de la chambre et de ces motivations. Je trouve que c'est la scene la plus belle du film car on eprouve de la sympathie pour le stalker qui essaye comme chaque humain d'etre heureux, et c'est la zone qui lui apportais ce bonheur. Les acteurs font aussi une performance extraordinaire si bien que l'on oublierais que l'on regardons un film.
 
 ## Critique (3min)
 
-Si je devais ressortir une critique de ce film, je dirais que le film est très lent, ce qui n'est pas vraiment un argument contre le film. Mais il faut se demander pourquoi le rythme du film est-il si lent ? Je pense que cette lenteur permet en fait d'illustrer l'idée du but à atteindre par les trois hommes, cette conquête de la vérité. Et c'est grâce a ce rythme très lent et délibéré qu'il l'a trouvé.
+Si je devais ressortir une critique de ce film, je dirais que le film est très lent, ce qui n'est pas vraiment un argument contre le film. Mais il faut se demander pourquoi le rythme du film est-il si lent ? Je pense que cette lenteur permet en fait d'illustrer l'idée du but à atteindre par les trois hommes, cette conquête de la vérité. Et c'est grâce a ce rythme très lent et délibéré par Tarkovski, qui nous permet de vivre le voyage avec les personnages.
 
 Ce film invite vraiment à se poser des cas de questions concernant le désir et le bonheur. Deux choses qui régissent en quelque sorte notre vie au quotidien, et c'est à travers ce film que l'on imagine bien ces deux aspects de la vie d'une personne.  
 
