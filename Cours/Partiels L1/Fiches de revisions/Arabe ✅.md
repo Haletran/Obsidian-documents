@@ -7,7 +7,254 @@ Le caractère et les signes voyelles peuvent être considérés comme des signes
 ### L'alphabet 
 28 lettres avec la hamza
 
-![[alphabeta.png]]
+<table >
+<tr>
+<td><b>lettre</b></td>
+<td><b>nom</b></td>
+<td><b>fin</b></td>
+<td><b>milieu</b></td>
+<td><b>début</b></td>
+<td><b>phonétique</b></td>
+</tr>
+<tr>
+<td class="ha">&#65165;</td>
+<td class="un">alif</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65166;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65166;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65165;<span class="arb">&#1600;</span></td>
+<td class="fo">aː</td>
+</tr>
+<tr>
+<td class="ha">&#65167;</td>
+<td class="un">ba</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65168;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65170;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65169;<span class="arb">&#1600;</span></td>
+<td class="fo">b</td>
+</tr>
+<tr>
+<td class="ha">&#65173;</td>
+<td class="un">ta</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65174;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65176;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65175;<span class="arb">&#1600;</span></td>
+<td class="fo">t</td>
+</tr>
+<tr>
+<td class="ha">&#65177;</td>
+<td class="un">ṯa (tha)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65178;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65180;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65179;<span class="arb">&#1600;</span></td>
+<td class="fo">θ</td>
+</tr>
+<tr>
+<td class="ha">&#65181;</td>
+<td class="un">ǧim (jim)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65182;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65184;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65183;<span class="arb">&#1600;</span></td>
+<td class="fo">ʤ , ʒ , ɡ</td>
+</tr>
+<tr>
+<td class="ha">&#65185;</td>
+<td class="un">Ḥa</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65186;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65188;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65187;<span class="arb">&#1600;</span></td>
+<td class="fo">ħ</td>
+</tr>
+<tr>
+<td class="ha">&#65189;</td>
+<td class="un">ẖa (kha)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65190;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65192;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65191;<span class="arb">&#1600;</span></td>
+<td class="fo">x</td>
+</tr>
+<tr>
+<td class="ha">&#65193;</td>
+<td class="un">dal</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65194;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65194;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65193;<span class="arb">&#1600;</span></td>
+<td class="fo">d</td>
+</tr>
+<tr>
+<td class="ha">&#65195;</td>
+<td class="un">ḏal (dhal)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65196;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65196;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65195;<span class="arb">&#1600;</span></td>
+<td class="fo">ð</td>
+</tr>
+<tr>
+<td class="ha">&#65197;</td>
+<td class="un">ra</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65198;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65197;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65197;<span class="arb">&#1600;</span></td>
+<td class="fo">r</td>
+</tr>
+<tr>
+<td class="ha">&#65199;</td>
+<td class="un">zay</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65200;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65199;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65199;<span class="arb">&#1600;</span></td>
+<td class="fo">z</td>
+</tr>
+<tr>
+<td class="ha">&#65201;</td>
+<td class="un">sin</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65202;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65204;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65203;<span class="arb">&#1600;</span></td>
+<td class="fo">s</td>
+</tr>
+<tr>
+<td class="ha">&#65205;</td>
+<td class="un">šin (shin)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65206;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65208;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65207;<span class="arb">&#1600;</span></td>
+<td class="fo">ʃ</td>
+</tr>
+<tr>
+<td class="ha">&#65209;</td>
+<td class="un">Ṣad</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65210;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65212;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65211;<span class="arb">&#1600;</span></td>
+<td class="fo">sˁ</td>
+</tr>
+<tr>
+<td class="ha">&#65213;</td>
+<td class="un">Ḍad</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65214;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65216;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65215;<span class="arb">&#1600;</span></td>
+<td class="fo">dˁ , ðˤ</td>
+</tr>
+<tr>
+<td class="ha">&#65217;</td>
+<td class="un">Ṭa</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65218;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65220;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65219;<span class="arb">&#1600;</span></td>
+<td class="fo">tˁ</td>
+</tr>
+<tr>
+<td class="ha">&#65221;</td>
+<td class="un">Ẓa</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65222;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65224;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65223;<span class="arb">&#1600;</span></td>
+<td class="fo">zˁ , ðˁ</td>
+</tr>
+<tr>
+<td class="ha">&#65225;</td>
+<td class="un">ʿayn</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65226;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65228;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65227;<span class="arb">&#1600;</span></td>
+<td class="fo">ʔˤ</td>
+</tr>
+<tr>
+<td class="ha">&#65229;</td>
+<td class="un">ġayn (ghayn)</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65230;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65232;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65231;<span class="arb">&#1600;</span></td>
+<td class="fo">ɣ</td>
+</tr>
+<tr>
+<td class="ha">&#65233;</td>
+<td class="un">fa</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65234;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65236;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65235;<span class="arb">&#1600;</span></td>
+<td class="fo">f</td>
+</tr>
+<tr>
+<td class="ha">&#65237;</td>
+<td class="un">qaf</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65238;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65240;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65239;<span class="arb">&#1600;</span></td>
+<td class="fo">q</td>
+</tr>
+<tr>
+<td class="ha">&#65241;</td>
+<td class="un">kaf</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65242;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65244;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65243;<span class="arb">&#1600;</span></td>
+<td class="fo">k</td>
+</tr>
+<tr>
+<td class="ha">&#65245;</td>
+<td class="un">lam</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65246;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65248;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65247;<span class="arb">&#1600;</span></td>
+<td class="fo">l</td>
+</tr>
+<tr>
+<td class="ha">&#65249;</td>
+<td class="un">mim</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65250;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65252;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65251;<span class="arb">&#1600;</span></td>
+<td class="fo">m</td>
+</tr>
+<tr>
+<td class="ha">&#65253;</td>
+<td class="un">nun</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65254;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65256;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65255;<span class="arb">&#1600;</span></td>
+<td class="fo">n</td>
+</tr>
+<tr>
+<td class="ha">&#65257;</td>
+<td class="un">ha</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65258;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65260;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65259;<span class="arb">&#1600;</span></td>
+<td class="fo">h</td>
+</tr>
+<tr>
+<td class="ha">&#65261;</td>
+<td class="un">waw</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65262;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65261;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65261;<span class="arb">&#1600;</span></td>
+<td class="fo">w , uː</td>
+</tr>
+<tr>
+<td class="ha">&#65265;</td>
+<td class="un">ya</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65266;</td>
+<td class="ha"><span class="arb">&#1600;</span>&#65268;<span class="arb">&#1600;</span></td>
+<td class="ha">&#65267;<span class="arb">&#1600;</span></td>
+<td class="fo">j , iː</td>
+</tr>
+<tr>
+<td class="ha">&nbsp;</td>
+<td class="un">&nbsp;</td>
+<td class="ha">&nbsp;</td>
+<td class="ha">&nbsp;</td>
+<td class="ha">&nbsp;</td>
+<td class="fo">&nbsp;</td>
+</tr>
+<tr>
+<td class="ha">&#1569;</td>
+<td class="un">hamza</td>
+<td colspan="3" class="ha">&#1571; &nbsp; &#1572; &nbsp; &#1573; &nbsp; &#1574;</td>
+<td class="fo">ʔ</td>
+</tr>
+</table>
 
 ### Les voyelles 
 
