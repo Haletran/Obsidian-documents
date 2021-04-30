@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partiels L1/Fiches de revisions/Arabe ✅.md",
-            "mode": "preview"
+            "file": "Partiels L1/Oraux/📢  Oral Culture Russe.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204
+    "width": 204,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -68,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels L1/Fiches de revisions/Arabe ✅.md",
+                "file": "Partiels L1/Oraux/📢  Oral Culture Russe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,15 +89,15 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
-    "Partiels L1/Fiches de revisions/Arabe ✅.md",
     "Partiels L1/Oraux/📢  Oral Culture Russe.md",
-    "Partiels L1/Oraux/📢 Oral Russe.md",
+    "Partiels L1/Fiches de revisions/Diversite culturelle.md",
+    "Partiels L1/Fiches de revisions/Economie ✅.md",
+    "Partiels L1/Fiches de revisions/Grammaire Anglaise ✅.md",
     "Partiels L1/Fiches de revisions/Russe langue ✅.md",
-    "Partiels L1/📅 Dates.md",
-    "Partiels L1/Partiels/Devoir Civilisation Arabe - Baptiste PASQUIER.md",
+    "Partiels L1/Oraux/📢 Oral Russe.md",
+    "Partiels L1/Partiels/Diaporama.md",
+    "Partiels L1/Partiels/Reflective Exercise.md",
     "Partiels L1/Partiels/🔊 Oral comprehension 26-04  - Baptiste Pasquier.md",
-    "Partiels L1/🔊 Oral comprehension 26-04  - Baptiste Pasquier.md",
-    "Partiels L1/Devoir Civilisation Arabe - Baptiste PASQUIER.md",
     "Untitled.md"
   ]
 }
