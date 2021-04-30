@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Partiels L1/Oraux/📢  Oral Culture Russe.md",
+            "file": "Partiels L1/Oraux/🎥 Diaporama.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204,
-    "collapsed": true
+    "width": 204
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Partiels L1/Oraux/📢  Oral Culture Russe.md",
+                "file": "Partiels L1/Oraux/🎥 Diaporama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Partiels L1/Oraux/Diaporama.md",
     "Partiels L1/Oraux/📢  Oral Culture Russe.md",
     "Partiels L1/Fiches de revisions/Diversite culturelle.md",
     "Partiels L1/Fiches de revisions/Economie ✅.md",
@@ -97,7 +97,6 @@
     "Partiels L1/Oraux/📢 Oral Russe.md",
     "Partiels L1/Partiels/Diaporama.md",
     "Partiels L1/Partiels/Reflective Exercise.md",
-    "Partiels L1/Partiels/🔊 Oral comprehension 26-04  - Baptiste Pasquier.md",
-    "Untitled.md"
+    "Partiels L1/Partiels/🔊 Oral comprehension 26-04  - Baptiste Pasquier.md"
   ]
 }
