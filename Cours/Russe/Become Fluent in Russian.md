@@ -10,6 +10,8 @@
 -  отцы и дети (livre audio)
 -  [собачье  сердце](https://www.youtube.com/watch?v=aOE_3_Ws4y0) (film)
 -  Ekho Muskvy (radio)
+-  [russian dialogue 2H](https://www.youtube.com/watch?v=PEidRnRXA90)
+-  [100 russian phrases](https://www.youtube.com/watch?v=e9faloUNgKM)
 
 ## Alphabet 
 
@@ -36,10 +38,12 @@ Russe | Francais
 Неплохо | Comme ci comme ça
 Спасибо | Merci 
 Большое спасибо | Merci beaucoup 
-а тебя ? a вac ? | et toi ? et vous ? 
+пожалуйста | de rien / je vous en pris 
+а у тебя ? a у вac ? | et toi ? et vous ? 
 Ты говоришь по-французски ? | Est ce que vous parlez français ?
 Я плохо говорю по-русски | Je ne parle pas tres bien russe
 Я первый раз в России | C'est ma première fois en Russie
+Добро пожаловать | Bienvenue
 Что, простите? | Je suis désolé, quoi ?
 Я не понимаю | Je ne comprends pas
 Извините / Простите | pardon 
@@ -47,11 +51,13 @@ Russe | Francais
 Как тебя/вас зовут? | Comment tu/vous t'appelle ? 
 Меня зовут ... | Je m'appelle ...
 очень приятно | Enchanté 
+Приятно познакомиться | Enchanté de faire votre connaissance
 мне двадцать лет | J'ai vingt ans 
 Приятного аппетита! | Bon appétit !
 Чокнемся! | Sante ! (boisson)
 До свидания | Au revoir (formel)
 Пока | au revoir (informel)
+До встречи! | à plus tard
 Спокойной ночи | Bonne nuit
 
 ## Les nombres
