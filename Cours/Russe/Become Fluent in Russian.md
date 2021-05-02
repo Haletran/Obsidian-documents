@@ -9,7 +9,7 @@
 -  les films de Tarkovsky (Solaris / Stalker / Le rouleau compresseur et le violon, etc...)
 -  отцы и дети (livre audio)
 -  [собачье  сердце](https://www.youtube.com/watch?v=aOE_3_Ws4y0) (film)
--  Ekho Muskvy (radio)
+-  [Ekho Muskvy (radio)](https://echo.msk.ru/sounds/stream.html)
 -  [russian dialogue 2H](https://www.youtube.com/watch?v=PEidRnRXA90)
 -  [100 russian phrases](https://www.youtube.com/watch?v=e9faloUNgKM)
 
@@ -61,27 +61,36 @@ Russe | Francais
 Спокойной ночи | Bonne nuit
 
 ## Les nombres
+FR | Russe
+---| ---
+1 | один (odin)
+2 | двa (dva)
+3 | три (tri)
+4 | четыре (četyre)
+5 | пять (pâtʹ)
+6 |  шесть (šestʹ)
+7 |  семь (semʹ)
+8 | восемь (vosemʹ)
+9 | девять (devâtʹ)
+10 | десять (desâtʹ)
+11 | одиннадцать (odinnadcatʹ)
+12 | двенадцать (dvenadcatʹ)
+13 | тринадцать (trinadcatʹ)
+14 |  четырнадцать (četyrnadcatʹ)
+15 | пятнадцать (pâtnadcatʹ)
+16 | шестнадцать (šestnadcatʹ)
+17 | семнадцать (semnadcatʹ)
+18 | восемнадцать (vosemnadcatʹ)
+19 | девятнадцать (devâtnadcatʹ)
+20 | двадцать (dvadcatʹ)
 
-1 = один (odin)
-2 = двa (dva)
-3 = три (tri)
-4 = четыре (četyre)
-5 = пять (pâtʹ)
-6 = шесть (šestʹ)
-7 = семь (semʹ)
-8 = восемь (vosemʹ)
-9 = девять (devâtʹ)
-10 = десять (desâtʹ)
-11 = одиннадцать (odinnadcatʹ)
-12 = двенадцать (dvenadcatʹ)
-13 = тринадцать (trinadcatʹ)
-14 = четырнадцать (četyrnadcatʹ)
-15 = пятнадцать (pâtnadcatʹ)
-16 = шестнадцать (šestnadcatʹ)
-17 = семнадцать (semnadcatʹ)
-18 = восемнадцать (vosemnadcatʹ)
-19 = девятнадцать (devâtnadcatʹ)
-20 = двадцать (dvadcatʹ)
+## Les plats typiques
+
+пелмени (raviolis russes) sont un plat russe originaire de l'Oural. Il s'agit traditionnellement de pâte fine cuite farcie de viande hachée ou de poisson. 
+
+Borscht : est un potage préparé dans plusieurs pays slaves. Il contient habituellement de la betterave, crue et non précuite, qui lui donne une forte couleur rouge bordeaux. D'autres ingrédients supplémentaires habituels, selon la préparation, sont les légumes (chou, carottes, pommes de terre, oignons, ail ou tomates) qu’on cuit le plus souvent séparément de la betterave. On y ajoute très souvent de la viande, généralement du porc ou du bœuf, plus rarement du poulet. Dans certaines régions, les pays baltes notamment, on ajoute souvent des champignons. 
 
 
-![[Checkboxes]]
+
+
+## Les gros mots 
