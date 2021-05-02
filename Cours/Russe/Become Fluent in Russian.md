@@ -1,6 +1,7 @@
 # La langue Russe
 <br>
 
+![[Checkboxes]]
 
 ## Contenu Russe
 - The Kreuster Sonata - Leo Tolstoy (livre audio)
