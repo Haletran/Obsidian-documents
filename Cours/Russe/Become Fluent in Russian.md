@@ -15,7 +15,126 @@
 
 ## Alphabet 
 
-<img src="https://lh5.googleusercontent.com/7rWCjqgryBL916Mo7zX8b7tcijrLKK5AvRJ0xku8PRQ0vWr58OvzlNi0MIpPPJYjOFAJ7dBZJO7tBxX5S4IGVAIjI1dq9cOdnmgwd2P8JwfuLlKEGzsyJHk7BMRerFSIMkdoIm9p" alt="alphabet">
+<table>
+<tr>
+<td style="color: #F08080">А</td>
+<td style="color: #F08080">Б</td>
+<td style="color: #F08080">В</td>
+<td style="color: #F08080">Г</td>
+<td style="color: #F08080">Д</td>
+<td style="color: #F08080">Е</td>
+<td style="color: #F08080">Ё</td>
+<td style="color: #F08080">Ж</td>
+<td style="color: #F08080">З</td>
+<td style="color: #F08080">И</td>
+<td style="color: #F08080">Й</td>
+<td style="color: #F08080">К</td>
+<td style="color: #F08080">Л</td>
+<td style="color: #F08080">М</td>
+<td style="color: #F08080">Н</td>
+<td style="color: #F08080">О</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="color: #F08080">а</td>
+<td style="color: #F08080">б</td>
+<td style="color: #F08080">в</td>
+<td style="color: #F08080">г</td>
+<td style="color: #F08080">д</td>
+<td style="color: #F08080">е</td>
+<td style="color: #F08080">ё</td>
+<td style="color: #F08080">ж</td>
+<td style="color: #F08080">з</td>
+<td style="color: #F08080">и</td>
+<td style="color: #F08080">й</td>
+<td style="color: #F08080">к</td>
+<td style="color: #F08080">л</td>
+<td style="color: #F08080">м</td>
+<td style="color: #F08080">н</td>
+<td style="color: #F08080">о</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td style="color: #96ABFF">a</td>
+<td style="color: #96ABFF">b</td>
+<td style="color: #96ABFF">v</td>
+<td style="color: #96ABFF">g</td>
+<td style="color: #96ABFF">d</td>
+<td style="color: #96ABFF">e</td>
+<td style="color: #96ABFF">ë</td>
+<td style="color: #96ABFF">ž</td>
+<td style="color: #96ABFF">z</td>
+<td style="color: #96ABFF">i</td>
+<td style="color: #96ABFF">j</td>
+<td style="color: #96ABFF">k</td>
+<td style="color: #96ABFF">l</td>
+<td style="color: #96ABFF">m</td>
+<td style="color: #96ABFF">n</td>
+<td style="color: #96ABFF">o</td>
+<td >&nbsp;</td>
+</tr>
+<tr>
+<td colspan="17">&nbsp;</td>
+</tr>
+<tr>
+<td style="color: #F08080">П</td>
+<td style="color: #F08080">Р</td>
+<td style="color: #F08080">С</td>
+<td style="color: #F08080">Т</td>
+<td style="color: #F08080">У</td>
+<td style="color: #F08080">Ф</td>
+<td style="color: #F08080">Х</td>
+<td style="color: #F08080">Ц</td>
+<td style="color: #F08080">Ч</td>
+<td style="color: #F08080">Ш</td>
+<td style="color: #F08080">Щ</td>
+<td style="color: #F08080">Ъ</td>
+<td style="color: #F08080">Ы</td>
+<td style="color: #F08080">Ь</td>
+<td style="color: #F08080">Э</td>
+<td style="color: #F08080">Ю</td>
+<td style="color: #F08080">Я</td>
+</tr>
+<tr>
+<td style="color: #F08080">п</td>
+<td style="color: #F08080">р</td>
+<td style="color: #F08080">с</td>
+<td style="color: #F08080">т</td>
+<td style="color: #F08080">у</td>
+<td style="color: #F08080">ф</td>
+<td style="color: #F08080">х</td>
+<td style="color: #F08080">ц</td>
+<td style="color: #F08080">ч</td>
+<td style="color: #F08080">ш</td>
+<td style="color: #F08080">щ</td>
+<td style="color: #F08080">ъ</td>
+<td style="color: #F08080">ы</td>
+<td style="color: #F08080">ь</td>
+<td style="color: #F08080">э</td>
+<td style="color: #F08080">ю</td>
+<td style="color: #F08080">я</td>
+</tr>
+<tr>
+<td style="color: #96ABFF">p</td>
+<td style="color: #96ABFF">r</td>
+<td style="color: #96ABFF">s</td>
+<td style="color: #96ABFF">t</td>
+<td style="color: #96ABFF">u</td>
+<td style="color: #96ABFF">f</td>
+<td style="color: #96ABFF">x</td>
+<td style="color: #96ABFF">c</td>
+<td style="color: #96ABFF">č</td>
+<td style="color: #96ABFF">š</td>
+<td style="color: #96ABFF">šč</td>
+<td style="color: #96ABFF">''</td>
+<td style="color: #96ABFF">y</td>
+<td style="color: #96ABFF">'</td>
+<td style="color: #96ABFF">è</td>
+<td style="color: #96ABFF">ju</td>
+<td style="color: #96ABFF">ja</td>
+</tr>
+</table>
+
 
 ## Les bases
 
