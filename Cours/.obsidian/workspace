@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Russe/Become Fluent in Russian.md",
-            "mode": "preview"
+            "file": "Russe/Сергей Никитин - Со мною вот что происходит.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russe/Become Fluent in Russian.md",
+                "file": "Russe/Сергей Никитин - Со мною вот что происходит.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Russe/Сергей Никитин - Со мною вот что происходит.md",
     "Russe/Become Fluent in Russian.md",
-    "Russe/Contenu Russe.md",
     "Russe/Checkboxes.md",
-    "Contenu Russe.md",
+    "Russe/Contenu Russe.md",
     "Untitled.md",
+    "Contenu Russe.md",
     "L1/Cheatsheet Md-HTML.md",
     "Partiels L1/Oraux/📢 Oral Russe.md",
     "Partiels L1/Oraux/📢  Oral Culture Russe.md",
-    "Partiels L1/Oraux/🎥 Diaporama.md",
-    "Partiels L1/Oraux/Diaporama.md"
+    "Partiels L1/Oraux/🎥 Diaporama.md"
   ]
 }
