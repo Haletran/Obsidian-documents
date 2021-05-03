@@ -19,6 +19,7 @@
 - [Russian litterature](https://russianenthusiast.com/russian-culture/russian-literature/)
 - [Russian books](http://flibusta.is/b)
 - [Another russian books](https://read2read.net/)
+- [Audio books](http://mds-club.ru/cgi-bin/index.cgi?r=84&lang=rus&sbr=1&posits=0&filter=0&article=0&sortby=20&search=&searchbutton.x=0&searchbutton.y=0)
 
 <u>Radio</u>
 -  [Ekho Muskvy](https://echo.msk.ru/sounds/stream.html)
