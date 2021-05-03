@@ -3,16 +3,9 @@
 
 ![[Checkboxes]]
 
-## Contenu Russe
-- The Kreuster Sonata - Leo Tolstoy (livre audio)
-- [Ирония судьбы](https://www.youtube.com/watch?v=lVpmZnRIMKs)
--  Олигарх (2002 - film)
--  les films de Tarkovsky (Solaris / Stalker / Le rouleau compresseur et le violon, etc...)
--  отцы и дети (livre audio)
--  [собачье  сердце](https://www.youtube.com/watch?v=aOE_3_Ws4y0) (film)
--  [Ekho Muskvy (radio)](https://echo.msk.ru/sounds/stream.html)
--  [russian dialogue 2H](https://www.youtube.com/watch?v=PEidRnRXA90)
--  [100 russian phrases](https://www.youtube.com/watch?v=e9faloUNgKM)
+![[Contenu Russe]]
+
+<br>
 
 ## Alphabet 
 
@@ -136,6 +129,7 @@
 </tr>
 </table>
 
+<br>
 
 ## Les bases
 
@@ -180,7 +174,10 @@ Russe | Francais
 До встречи! | à plus tard
 Спокойной ночи | Bonne nuit
 
+<br>
+	
 ## Les nombres
+
 FR | Russe
 ---| ---
 1 | один (odin)
@@ -203,6 +200,8 @@ FR | Russe
 18 | восемнадцать (vosemnadcatʹ)
 19 | девятнадцать (devâtnadcatʹ)
 20 | двадцать (dvadcatʹ)
+
+<br>
 
 ## Les plats typiques
 
@@ -227,5 +226,12 @@ FR | Russe
 
 **квас** : est une boisson fermentée et pétillante, légèrement alcoolisée, populaire en Russie, en Ukraine, en Biélorussie, au Kazakhstan, en Moldavie et dans d'autres pays d'Europe centrale et d'Europe de l'Est. En Russie, il est aussi appelé khlebnoïe pivo, c'est-à-dire « bière de pain ». Au Moyen Âge, c'était une boisson très courante dans toute l'Europe.[recette](https://practicalselfreliance.com/kvass-recipe/)
 
+<br>
 
 ## Les gros mots 
+
+## La grammaire 
+
+## Les verbes
+
+## Le vocbulaire
