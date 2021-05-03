@@ -234,4 +234,4 @@ FR | Russe
 
 ## Les verbes
 
-## Le vocbulaire
+## Le vocabulaire
