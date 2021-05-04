@@ -5,6 +5,9 @@
 
 ![[Contenu Russe]]
 
+![[Dictionnary]]
+
+
 <br>
 
 ## Alphabet 
@@ -235,3 +238,4 @@ FR | Russe
 ## Les verbes
 
 ## Le vocabulaire
+
