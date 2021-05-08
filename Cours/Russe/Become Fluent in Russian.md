@@ -231,11 +231,12 @@ FR | Russe
 
 <br>
 
-## Les gros mots 
+## Les adjectifs
 
 ## La grammaire 
 
 ## Les verbes
 
-## Le vocabulaire
+## La conjugaison
 
+## 
