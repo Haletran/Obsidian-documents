@@ -233,10 +233,119 @@ FR | Russe
 
 ## Les adjectifs
 
+RU | FR | Phrases
+-----|-----|-----
+страшный | effrayant | Этот фильм очень страшный
+большой | grand | Принеси мне эту большую корзину
+быстрый | rapide/vite | Беги так быстро, как только можешь
+медленный | lent | Почему ты такой медленный?
+простой | simple | Всё не так просто
+высокий | haut | Ты такой высокий! / Жираф такой высокий!
+главный | principal | Кто здесь главный?
+сильны | fort | Я не очень сильная / У этой певицы очень сильный голос
+длинный | long | Мой нос очень длинный / У него довольно длинные волосы
+добрый | gentil | Он был очень добр ко мне
+злой | méchant | Она такая злая / Она очень злая
+горячий  | chaud | Она горячая! / Ой! Этот чай горячий!
+холодный | froid | Русские зимы очень холодные
+первый | premier | Уйди, я пришел первый / Первый раз я посмотрел это кино
+плохой | mauvais/mal | Не плохо / Очень плохо
+известный | connu | Она мечтает быть известной
+последний | dernier | В последний раз, когда я тебя видел, это было зимой
+короткий | court  | У меня короткие волосы / Мои выходные были очень короткие
+красивый | beau/belle | Эта фотография такая красивая!
+сложный  | compliqué/difficile | Это задание очень сложное / Это очень сложно
+лёгкий | facile / léger | Этот компьютер очень лёгкий
+хороший | bien | Этот фильм был очень хороший
+отдаленный(adjectif) / далеко (adverbe)| loin | Этот магазин отдалёт от моего дома
+маленький | petit | Наш мир очень маленький.
+Скучный / нудный | ennuyeux | Эта речь очень скучная / Он такой нудный
+ленивый | fainéant | Не ленись!
+благодарный | reconnaissant | Я очень благодарный / Я очень тебе благодарен
+
+<br>
+
 ## La grammaire 
+
+**1) Le genitif**
+
+Le génitif est un des six cas (ou déclinaisons) de la langue russe. Chaque cas sert à marquer la fonction du mot ou du groupe nominal dans la phrase.
+Concrètement, la fonction des mots dans la phrase en français est surtout marquée par la syntaxe (leur ordre) alors qu’en russe la fonction des mots va être marquée par les cas.
+Un mot, ou un groupe nominal (pronom, adjectif + nom) va se modifier au niveau de la terminaison s’il est au génitif. Le génitif sert la plupart du temps à montrer la possession.
+
+<u> la possession </u>
+у + gén :  (‘avoir’)
+у меня (< я) есть машина 
+у женщины есть машина 
+
+<u>ne pas avoir (l’absence de qch)</u>
+у меня нет машины
+
+<u>C.du nom ( ‘de qn’)</u>
+это машина моей (< моя) мамы      c’est la voiture de ma mère
+- Откуда Вы ? Откуда ты ? 
+- Я из + gén.
+
+
+Le génitif du masculin se forme en ajoutant « а » ou « я » à la fin du mot.Le génitif du féminin se forme en remplaçant le « а » ou le « я » à la fin par « и » ou « ы », le génitif du neutre, se forme comme le génitif du masculin.
+
+exemple : musée - музея  |  fille - девушки |  fenêtre - окна
+
+
+**2) Les possessifs**
+
+les pronoms possessifs comprennent les pronoms: **мой** (mon), **твой** (ton), **наш** (notre), **ваш** (votre, "de politesse"), **свой**. Les pronoms possessifs indiquent que les objets appartiennent à quelqu'un ou quelque chose d'autre. Ainsi vous allez entendre un pronom possessif ou autre si vous posez une question: **Чей? Чья? Чьё?** ou **Чьи**?
+
+**3) Le locatif**
+
+Le locatif est un des six cas (ou déclinaisons) de la langue russe. Chaque cas sert à marquer la fonction du mot ou du groupe nominal dans la phrase.
+
+Concrètement, la fonction des mots dans la phrase en français est surtout marqué par la syntaxe (leur ordre) alors qu’en russe la fonction des mots va être marquée par les cas.
+
+Le locatif s’utilise sur le groupe nominal qui définit la position d’un objet. Par exemple : « Je suis dans la cuisine », « Il habite en France« . Attention, si il y a une notion de mouvement vers un endroit, par exemple: « Je vais dans la cuisine » on utilisera plutôt l’accusatif.
+Typiquement, le locatif est précédé par les prépositions « в » et « на » que l’on peut traduire grossièrement par « dans » et « sur ».
+
+On l'utilise : 
+- apres les prepositions « в » et « на » pour exprimer la localistaion 
+exemple : Il vit dans un village = Он живет в деревн**е**.
+- Après la préposition "о " pour exprimer l’objet d’une conversation ou d’une pensée
+exemple  : Il parle de physique = Он говорит о физик**е**.
+- pour exprimer le temps 
+exemple  : Elle part la semaine prochaine = Она уезжает на следующ**ей** недел**е**.
+
+
+**4) Le datif** 
+
+Au datif, pour les mots masculins se terminant par une consonne, on ajoutera « у », si le mot se termine par le sign mou « ь » ou par « й », on le remplacera par « ю ».
+Les mots feminins se terminant par « а » ou « я », se termineront par « е ». Les mots se terminant par « ия » se termineront par « ий ». le « о » devient « у », et le « е » devient « ю ».
+
+exemple : musée	- музею |  sœur - сестре | fenêtre - окну
+
+
+**5) L'accusatif**
+
+A l’accusatif, les masculins ne changent pas par rapport au nominatif, sauf s’il s’agit d’une personne. Pour les personnes, on ajoute un « а » à la fin pour les mots se terminant par une consonne, si le mot se termine par le signe mou « ь » ou par « й », on remplace cette lettre par « я ».
+Les mots feminins « a » devient « у » et « я » devient « ю ».  le neutre ne change pas.
+
+exemple :  maison - дом | fille - девушку  | mer - море
+
+<br>
 
 ## Les verbes
 
-## La conjugaison
+[video verbe](https://www.youtube.com/watch?v=4bVc2AWUwSc)
 
-## 
+<br>
+
+## La conjugaison
+<br>
+
+## Les démonstratifs  
+
+Un pronom démonstratif est un pronom utilisé pour désigner quelque chose de spécifique. Ces pronoms peuvent indiquer des éléments dans l’espace ou dans le temps.
+En russe, les pronoms démonstratifs dépendent du genre et du nombre du sujet.
+
+э́тот [é-tat] – masculin - этот фильм
+э́та [é-ta] – féminin - эта семья
+э́то [é-ta] – neutre - это время
+э́ти [é-ti] – pluriel - эти секреты

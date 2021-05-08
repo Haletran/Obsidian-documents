@@ -33,6 +33,7 @@
 -  [Russian with Anastasya](https://www.youtube.com/channel/UCtZ7CepLxk_dSbsbRFgPaFw)
 -  [Easy russian = interviews](https://www.youtube.com/playlist?list=PLA5UIoabheFNOmTYF_LDqbO42p8Ng0LLa)
 -  [Be Fluent in Russian](https://www.youtube.com/channel/UCtMqRKjQcFJoq4TOIdHDiew)
+-  [Learn Russian with RussianPod101](https://www.youtube.com/channel/UCUg_JDaHFAPEiFGDMddoIzA)
 -  [Bald and Bankrupt](https://www.youtube.com/channel/UCxDZs_ltFFvn0FDHT6kmoXA)
 -  [NFKRZ](https://www.youtube.com/channel/UC19xLluI7dG093Gmw57BhHw)
 
