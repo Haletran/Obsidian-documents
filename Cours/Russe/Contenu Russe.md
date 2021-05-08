@@ -48,3 +48,11 @@
 -  [Animes](https://video.animespirit.ru/)
 -  [TV series](https://russianfilmhub.com/tvshows/)
 -  [TV en direct](https://wwitv.com/television/174.htm)
+
+<u>Dessins animés</u>
+- [Ну, погоди 1](https://www.youtube.com/watch?v=TUjvOjlqVrE)
+- [Ну, погоди 2](https://www.youtube.com/watch?v=_ASgfPn7Ap4)
+- [крокодил гена и его друзья](https://www.youtube.com/watch?v=aMHFMdAaBTQ)
+- [винни пух](https://www.youtube.com/watch?v=7G_fYgW5Tys)
+- [мама для мамонтенка]()
+- []()
