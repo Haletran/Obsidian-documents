@@ -1,7 +1,6 @@
 
 ### [r/russian](https://www.reddit.com/r/russian/wiki/full_course)
 
-
 <u>Films </u>
 - [Ирония судьбы](https://www.youtube.com/watch?v=lVpmZnRIMKs)
 -  les films de Tarkovsky (Solaris / Stalker / Le rouleau compresseur et le violon, etc...)
