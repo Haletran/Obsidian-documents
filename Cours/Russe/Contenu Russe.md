@@ -63,3 +63,6 @@
 - [алеша попович и тугарин змей](https://www.youtube.com/watch?v=8vPQKM5UOJU)
 - [филм филм филм ](https://www.youtube.com/watch?v=Ma3Wgbx7kQk)
 - [Rusalochka](https://www.youtube.com/watch?v=6O331YUr2gI)
+
+<u> Manuels</u>
+[manuel cours](https://drive.google.com/drive/folders/1ZWN90uFcGasrRqwRN2fIRvzugAmoKaMx?usp=sharing)

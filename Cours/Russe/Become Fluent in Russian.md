@@ -338,6 +338,7 @@ exemple :  maison - дом | fille - девушку  | mer - море
 ## Les verbes
 
 [video verbe](https://www.youtube.com/watch?v=4bVc2AWUwSc)
+[google docs](https://docs.google.com/document/d/1MthjS4vx4IE0HQ2_n8t__pHfP_m2gb_sWOGzz9qQfSk/edit)
 
 <br>
 
