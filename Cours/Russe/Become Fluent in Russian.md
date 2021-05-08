@@ -177,9 +177,11 @@ Russe | Francais
 До встречи! | à plus tard
 Спокойной ночи | Bonne nuit
 
-<br>
+	
+	
 	
 ## Les nombres
+
 
 FR | Russe
 ---| ---
@@ -203,6 +205,8 @@ FR | Russe
 18 | восемнадцать (vosemnadcatʹ)
 19 | девятнадцать (devâtnadcatʹ)
 20 | двадцать (dvadcatʹ)
+	
+	
 
 <br>
 
