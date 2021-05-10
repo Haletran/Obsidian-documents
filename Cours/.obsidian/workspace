@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Some stuffs to buy.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -88,6 +88,7 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Some stuffs to buy.md",
     "Untitled.md",
     "Russe/Become Fluent in Russian.md",
     "Russe/Checkboxes.md",
@@ -96,7 +97,6 @@
     "Russe/Dictionnary.md",
     "Russe/tablocpro.png",
     "IMAGES/tablocpro.png",
-    "Partiels L1/Fiches de revisions/Russe langue ✅.md",
-    "Partiels L1/Fiches de revisions/Grammaire Anglaise ✅.md"
+    "Partiels L1/Fiches de revisions/Russe langue ✅.md"
   ]
 }
