@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Russe/Become Fluent in Russian.md",
+            "file": "Some stuffs to buy.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Russe/Become Fluent in Russian.md",
+                "file": "Some stuffs to buy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Untitled.md",
     "Russe/Become Fluent in Russian.md",
     "Russe/Checkboxes.md",
     "Russe/Contenu Russe.md",
@@ -96,7 +97,6 @@
     "Russe/tablocpro.png",
     "IMAGES/tablocpro.png",
     "Partiels L1/Fiches de revisions/Russe langue ✅.md",
-    "Partiels L1/Fiches de revisions/Grammaire Anglaise ✅.md",
-    "Partiels L1/Fiches de revisions/Diversite culturelle.md"
+    "Partiels L1/Fiches de revisions/Grammaire Anglaise ✅.md"
   ]
 }
