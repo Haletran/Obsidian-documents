@@ -10,3 +10,4 @@ AOC Écran (second) | 169,99 € | https://www.amazon.fr/AOC-24G2U5-BK-%C3%A9cr
 Double Support Moniteur | 42,99 € | https://www.amazon.fr/1home-Support-Ecran-Moniteur-Ordinateur/dp/B01MR397OH
 Pâte pour Interface Thermique | 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidisseur-Dissipateur/dp/B07LDRFCMS
 Keychron K6 | $99.00 | https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
+Keychron Keyboard Wooden Palm Rest |$25.00 | https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest
