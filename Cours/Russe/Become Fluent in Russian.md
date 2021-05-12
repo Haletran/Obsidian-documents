@@ -431,4 +431,4 @@ En russe, les pronoms démonstratifs dépendent du genre et du nombre du sujet.
 Masculin | Feminin | Neutre
 Se termine par une consonne ou le signe mou ь | Les terminaisons en -a / - я , le signe mou | les terminaisons -o/-e
 ex : дом  : maison  диван : canapé  словарь : dictionnaire | ex :  мама : maman тётя́  : tante ночь : nuit | ex : окио письмо : lettre море : mer
-Exceptions :  папа : papa  дедушка : Grand pere дядя : oncle  мужчина : homme | // | Exceptions : такси : taxi время : temps имя : prenom
+Exceptions :  папа : papa кофе : cafe  дедушка : Grand pere дядя : oncle  мужчина : homme | // | Exceptions : такси : taxi время : temps имя : prenom
