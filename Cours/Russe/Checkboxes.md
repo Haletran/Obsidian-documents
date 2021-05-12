@@ -1,4 +1,4 @@
-- [x] 01/05/2021 - deux heure 
+- [x] 01/05/2021 - deux heures
 - [x] 02/05/2021 - une heure
 - [x] 03/05/2021 - une heure
 - [x] 04/05/2021 - une heure
