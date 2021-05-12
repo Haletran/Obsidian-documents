@@ -335,15 +335,82 @@ exemple :  maison - дом | fille - девушку  | mer - море
 
 <br>
 
+## La conjugaison
+
+e- type ( 1 groupe ) | и-type (2gr)
+----| ----
+*Terminaisons :* | *Terminaisons :* 
+я + ю | я + ю
+ты + ешь | ты + ишь
+он + ет | он + ит
+мы + ем | мы + им
+вы + ете | вы + ите
+они + ют | они + ят
+
+<br>
+
+
 ## Les verbes
 
-[video verbe](https://www.youtube.com/watch?v=4bVc2AWUwSc)
-[google docs](https://docs.google.com/document/d/1MthjS4vx4IE0HQ2_n8t__pHfP_m2gb_sWOGzz9qQfSk/edit)
+RU | FR | Exemples
+---| --- | ---
+быть | être | я могу быть через пятнадцать минут.
+сказать | dire | я хочу сказать...
+мочь | être capable / pouvoir | я могу тебе помочь
+говорить | parler | не говори, когда я говорю
+знать | connaître / savoir | я знаю что ты знаешь
+стать | devenir | я хотела бы стать дизайнером
+есть | il y a / il existe / manger | я есть
+хотеть | vouloir | ты хочешь ?
+видеть | voir | я вижу собаку
+идти | aller | мы можем пойти в зоопарк
+стоять | se tenir debout | мне пришлось стоять в поезде два часа.
+думать | penser | я не думаю, что это хорошая идея
+спросить | demander | могу я спросить...?
+жить | vivre / habiter | я живу в Москве 
+смотреть | voir  / regarder | Я смотрю на тебя / Я смотрю много фильмов
+сидеть | être assis | Я не люблю сидеть
+кушать | manger | Что ты любишь кушать? 
+иметь | avoir / posseder | Я имею три собаки
+делать | faire | Я могу эта сделать / Я делаю домашнее задание
+взять | prendre | Я могу тебя взять с собой
+понимать | comprendre | Я понимаю, я тебя так понимаю
+казаться | sembler / paraître / penser | Кажется, завтра будет дождь
+давать | donner | Дай мне, пожалуйста / Я хочу дать тебе совет
+ходить | marcher | Я люблю ходить 
+спать | dormir | Я не хочу сейчас спать
+лежать | être couché / allonger | я лежу нa диване
+спрашивать | demander | отвечать я спрашиваю тебя ты отвечаешь мне
+потерять | perdre | я потеряла ключи
+искать | chercher | я ищу ключ 
+найти | trouver | найти я нашла ключ 
+боятся | craindre / effrayer | я боюсь высоты 
+просыпаться | se réveiller | код не хочет просыпаться
+любить | aimer | я люблю цветы
+ненавидеть | detester | ненавижу их отсутствие
+ждать | attendre | я жду лифт 
+приехать  | venir | я только приехал
+выйти | sortir | Я выхожу из лифта
+убирать | nettoyer | я убираю квартиру
+работать | travailler | Я работаю каждый день
+отдыхать | se reposer | Я отдыхаю сегодня вечером
+запуталась | s'embrouiller (reflexion) | но я запуталась
+включать | allumer | Я включаю свет
+выключать | eteindre | Я выключаю свет
+помнить | se souvenir | Я помню этот дом
+забыть | oublier | Я забыл свои ключи
+пить | boire | Я пью чай
+читать | lire | я читаю книгу
+писать | ecrire | я пишу письмо
+гулять | se promener | Я гуляю в парке
+изучать | apprendre / étudier | я изучаю русский язык
+фотографировать | prendre des photos | 
+путешествовать | voyager | я много путешествую
+курить  | fumer | Я курю сигареты 
 
 <br>
 
-## La conjugaison
-<br>
+
 
 ## Les démonstratifs  
 
@@ -354,3 +421,14 @@ En russe, les pronoms démonstratifs dépendent du genre et du nombre du sujet.
 э́та [é-ta] – féminin - эта семья
 э́то [é-ta] – neutre - это время
 э́ти [é-ti] – pluriel - эти секреты
+
+<br>
+
+## Le genre 
+
+Он | Она | Оно
+--| --| --
+Masculin | Feminin | Neutre
+Se termine par une consonne ou le signe mou ь | Les terminaisons en -a / - я , le signe mou | les terminaisons -o/-e
+ex : дом  : maison  диван : canapé  словарь : dictionnaire | ex :  мама : maman тётя́  : tante ночь : nuit | ex : окио письмо : lettre море : mer
+Exceptions :  папа : papa  дедушка : Grand pere дядя : oncle  мужчина : homme | // | Exceptions : такси : taxi время : temps имя : prenom
