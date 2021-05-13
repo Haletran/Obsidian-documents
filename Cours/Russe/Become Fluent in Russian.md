@@ -432,3 +432,30 @@ Masculin | Feminin | Neutre
 Se termine par une consonne ou le signe mou ь | Les terminaisons en -a / - я , le signe mou | les terminaisons -o/-e
 ex : дом  : maison  диван : canapé  словарь : dictionnaire | ex :  мама : maman тётя́  : tante ночь : nuit | ex : окио письмо : lettre море : mer
 Exceptions :  папа : papa кофе : cafe  дедушка : Grand pere дядя : oncle  мужчина : homme | // | Exceptions : такси : taxi время : temps имя : prenom
+
+<br>
+
+## Mots Parasites
+
+RU | FR 
+---| ---
+ну | mais 
+a  | ex : A, кто? 
+вот | cet / celle / ceux / voici ex : и вот собственно 30 лет
+так что / поэтому | donc (so)
+то есть | c'est à dire 
+в плане | en terme de
+так сказать | pour ainsi dire 
+смысле | je veux dire...
+короче | en bref
+проще говоря | tout simplement
+в конце концов | finalement / en fin de compte
+
+<br>
+
+## Les prepositions 
+
+
+
+
+

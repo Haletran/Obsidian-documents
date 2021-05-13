@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Some stuffs to buy.md",
+            "file": "Russe/Become Fluent in Russian.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some stuffs to buy.md",
+                "file": "Russe/Become Fluent in Russian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Russe/Become Fluent in Russian.md",
+    "Russe/Contenu Russe.md",
     "Some stuffs to buy.md",
     "Russe/Dictionnary.md",
-    "Russe/Contenu Russe.md",
-    "Russe/Become Fluent in Russian.md",
     "Russe/Checkboxes.md",
     "Untitled.md",
     "Russe/Сергей Никитин - Со мною вот что происходит.md",
