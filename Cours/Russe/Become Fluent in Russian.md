@@ -453,9 +453,19 @@ a  | ex : A, кто?
 
 <br>
 
-## Les prepositions 
+## Les Prépositions
+
+Il y a 42 prépositions russes qui sont fréquemment employées.
+
+в : en / dans / à
+
+на : sur 
+
+c : avec 
+
+к : vers
+
+o : de 
 
 
-
-
-
+<br>
