@@ -9,7 +9,7 @@ Sabrent SSD NVMe PCIe M.2 (1TB) | 139,99 € | https://www.amazon.fr/Sabrent-in
 AOC Écran (second) | 169,99 € | https://www.amazon.fr/AOC-24G2U5-BK-%C3%A9cran-Pixels/dp/B07YN79RJG
 Double Support Moniteur | 42,99 € | https://www.amazon.fr/1home-Support-Ecran-Moniteur-Ordinateur/dp/B01MR397OH
 Pâte Thermique | 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidisseur-Dissipateur/dp/B07LDRFCMS
-Keychron K6 | $99.00 | https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
+Keychron K6 |$79.00| https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
 Keychron Keyboard Wooden Palm Rest |$25.00 | https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest
 Kindle (no ads) | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-eclairage-frontal-integre-avec-offres-speciales-noir/dp/B07FQ4XCR1
 Bose QuietComfort 35 II | 249,99 € | https://www.amazon.fr/Casque-r%C3%A9duction-Bose-QuietComfort-int%C3%A9gr%C3%A9/dp/B0756GB78C
