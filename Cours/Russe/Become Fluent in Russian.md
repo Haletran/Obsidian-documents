@@ -455,17 +455,45 @@ a  | ex : A, кто?
 
 ## Les Prépositions
 
-Il y a 42 prépositions russes qui sont fréquemment employées.
+Les prépositions sont des outils qui relient les noms, les pronoms et des expressions à d'autres mots dans une phrase. Le mot ou l'expression que la préposition introduit est appelé l'objet de la préposition.
 
-в : en / dans / à
-
-на : sur 
-
-c : avec 
-
-к : vers
-
-o : de 
-
+En Francais | En Russe 
+-----| -----
+sur | **о**
+au-dessus | **выше**
+à travers | **через**
+après | **после**
+contre | **против**
+entre | **между**
+autour de | **около**
+comme | **как**
+à / dans / pour | **в**
+avant / jusqu'à| **до**
+derrière | **за**
+en dessous | **ниже**
+sous | **под**
+à côté de | **рядом с**
+au-delà | **вне**
+mais | **но**
+par / sur | **по**
+malgré | **несмотря на**
+vers le bas | **вниз**
+au cours de | **во время**
+sauf | **за исключением**
+pour | **для**
+à partir de |  **от**
+à l'intérieur | **внутри**
+près de | **около**
+prochain | **следующий**
+de / dehors / | **из**
+opposé | **напротив**
+à l'extérieur | **за пределами** 
+plus | **плюс**
+autour de | **раунд**
+depuis | **с**
+que | **чем**
+vers / à | **к**
+contrairement à | **в отличие от**
+sans | **без**
 
 <br>
