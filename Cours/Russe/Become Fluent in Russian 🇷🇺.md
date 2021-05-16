@@ -499,3 +499,51 @@ sans | **без**
 <br>
 
 
+## Le pluriel 
+
+À quelques exceptions près, tous les noms pluriels en russe prennent l’une des quatre terminaisons possibles: -И, -Ы, -А ou -Я.
+
+1. Tous les mots qui se terminent par К, Г, Х, Ш, Щ, Ж, Ч, Ь, Й ou par l’une de ces lettres + une voyelle (sauf les noms neutres) – perdent cette dernière voyelle ou -Ь s’il existe, et ajoutent -И.
+
+Exemples:
+нож – ножи́ (les couteaux)
+ключ – ключи́ (les clefs)
+нога́ – но́ги (les jambes)
+рука́ – ру́ки (les mains)
+ночь – но́чи (les nuits)
+очко́ – очки́ (points)
+
+2. Les noms masculins se terminant par une consonne ajoutent -Ы:
+нос – носы́ (les nez)
+телефо́н – телефо́ны (les téléphones)
+стол – столы́ (les tables)
+
+3. Pour les noms neutres:
+– si le mot se termine par -Е – remplacez-le par -Я
+– si le nom se termine par -Ш/Щ/Ж/Ч/Ц + Е – remplacer -E par -A
+– si le mot se termine par -O – remplacez-le par -А
+зда́ние – зда́ния (les immeubles)
+ведро́ – вёдра (seaux)
+со́лнце – со́лнца (soleils)
+
+4. Pour les noms féminins:
+– remplacez la terminaison -А par -Ы
+– remplacez la terminaison -Я par -И
+голова́ – го́ловы (les têtes)
+стена́ – сте́ны (les murs)
+ста́нция – ста́нции (station)
+ба́ня – ба́ни (bains)
+
+Beaucoup de mots dans la langue russe perdent une voyelle dans leur racine lorsqu’ils sont rendus pluriels ou modifiés dans les cas grammaticaux (que nous couvrirons plus tard).
+
+Exemples : 
+день – дни (jours)
+ры́нок – ры́нки (marchés)
+пода́рок – пода́рки (cadeaux)
+сон – сны (rêves)
+замо́к – замки́ (serrures)
+оте́ц – отцы́ (pères)
+
+
+
+
