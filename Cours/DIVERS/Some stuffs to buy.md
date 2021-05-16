@@ -16,3 +16,5 @@ Bose QuietComfort 35 II | 249,99 € | https://www.amazon.fr/Casque-r%C3%A9du
 JBL GO 2 | 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille | 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
  
+ 
+[PcPartPicker](https://pcpartpicker.com/list/)
