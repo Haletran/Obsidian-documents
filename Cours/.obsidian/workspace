@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Some stuffs to buy.md",
-            "mode": "source"
+            "file": "Russe/Become Fluent in Russian 🇷🇺.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some stuffs to buy.md",
+                "file": "Russe/Become Fluent in Russian 🇷🇺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,8 +78,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "e375a932fbabb4c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,14 +97,14 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
-    "Some stuffs to buy.md",
     "Russe/Become Fluent in Russian 🇷🇺.md",
-    "Russe/Become Fluent in Russian.md",
-    "Russe/Checkboxes.md",
-    "Russe/Contenu Russe.md",
-    "Russe/Dictionnary.md",
-    "Untitled.md",
     "Russe/Сергей Никитин - Со мною вот что происходит.md",
+    "Russe/Dictionnary.md",
+    "Russe/Contenu Russe.md",
+    "Russe/Checkboxes.md",
+    "Some stuffs to buy.md",
+    "Russe/Become Fluent in Russian.md",
+    "Untitled.md",
     "Russe/tablocpro.png",
     "IMAGES/tablocpro.png"
   ]
