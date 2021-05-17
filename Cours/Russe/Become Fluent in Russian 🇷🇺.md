@@ -177,7 +177,7 @@ Russe | Francais
 До встречи! | à plus tard
 Спокойной ночи | Bonne nuit
 
-	
+
 	
 	
 ## Les nombres
@@ -411,7 +411,6 @@ RU | FR | Exemples
 <br>
 
 
-
 ## Les démonstratifs  
 
 Un pronom démonstratif est un pronom utilisé pour désigner quelque chose de spécifique. Ces pronoms peuvent indiquer des éléments dans l’espace ou dans le temps.
@@ -544,6 +543,24 @@ Exemples :
 замо́к – замки́ (serrures)
 оте́ц – отцы́ (pères)
 
+<br>
+
+## Les verbes irréguliers
+
+| Russe      | Francais            |
+| ---------- | ------------------- |
+| видеть     | voir                |
+| вертеть    | tournoyer           |
+| обидеть    | blesser             |
+| зависеть   | dépendre            |
+| ненавидеть | haïr / détester     |
+| терпеть    | tolérer             |
+| смотреть   | regarder            |
+| слышать    | écouter             |
+| дышать     | respirer            |
+| держать    | aller bien / garder |
+| Гнать      | chasser             | 
 
 
+<br> 
 
