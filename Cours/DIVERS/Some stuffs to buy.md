@@ -18,4 +18,4 @@ Portefeuille | 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Mon
 NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
 
  
-[PcPartPicker](https://pcpartpicker.com/list/)
+[Family PC](https://pcpartpicker.com/list/)
