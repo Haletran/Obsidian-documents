@@ -15,6 +15,7 @@ Kindle (no ads) | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-e
 Bose QuietComfort 35 II | 249,99 € | https://www.amazon.fr/Casque-r%C3%A9duction-Bose-QuietComfort-int%C3%A9gr%C3%A9/dp/B0756GB78C
 JBL GO 2 | 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille | 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
- 
+NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
+
  
 [PcPartPicker](https://pcpartpicker.com/list/)
