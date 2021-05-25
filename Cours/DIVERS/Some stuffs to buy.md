@@ -18,4 +18,4 @@ Portefeuille | 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Mon
 NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
 TP-Link CPL 600 Mbps | 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethernet-Prise-Int%C3%A9gr%C3%A9e/dp/B00BUL8762
  
-[Family PC[]()](https://pcpartpicker.com/list/BpmfBc)
+[Family PC](https://pcpartpicker.com/list/BpmfBc)
