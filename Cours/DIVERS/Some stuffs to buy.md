@@ -17,5 +17,5 @@ JBL GO 2 👀 | 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portab
 Portefeuille 👀| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
 NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
 TP-Link CPL 600 Mbps 👀| 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethernet-Prise-Int%C3%A9gr%C3%A9e/dp/B00BUL8762
- 
+FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK)
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
