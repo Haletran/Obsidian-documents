@@ -29,9 +29,10 @@ IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/tool
 | Poco M3 (slow phone)          | 139€90   |
 | Pixel 4a (slow phone)         | 329€00   |
 | Poco X3  (thats okay)         | 197,00 € |
-| OnePlus Nord (thats okay)     | 345,05 € |
-| Poco F3  (very good)          | 314,95 € |
+| OnePlus Nord 5G (thats okay)  | 345,05 € |
+| Poco F3 5G (very good)        | 314,95 € |
 | Redmi Note 10 Pro (very good) | 299,00€  |
+| OPPO FIND X3 LITE 5G (good)   | 379,90 € |
 |                               |          |
 
 
