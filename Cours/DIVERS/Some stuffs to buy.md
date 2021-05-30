@@ -33,6 +33,7 @@ IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/tool
 | Poco F3 5G (very good)        | 314,95 € |
 | Redmi Note 10 Pro (very good) | 299,00€  |
 | OPPO FIND X3 LITE 5G (good)   | 379,90 € |
+| IphoneSE                      | 489 €    |
 |                               |          |
 
 
