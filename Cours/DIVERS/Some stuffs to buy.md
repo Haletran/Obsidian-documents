@@ -20,3 +20,18 @@ TP-Link CPL 600 Mbps 👀| 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethern
 FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
 IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
+
+
+<u>Smartphones for Grandma : </u>
+
+| Produit                   | Prix     |
+| ------------------------- | -------- |
+| Poco M3 (slow phone)      | 139€90   |
+| Pixel 4a (slow phone)     | 329€00   |
+| Poco X3  (thats okay)     | 197,00 € |
+| OnePlus Nord (thats okay) | 345,05 € |
+| Poco F3  (very good)      | 314,95 € |
+| Redmi Note 10 Pro (very good)  | 299,00€  |
+
+
+	
