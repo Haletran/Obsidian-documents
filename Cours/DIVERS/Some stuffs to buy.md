@@ -35,6 +35,7 @@ IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/tool
 | OPPO FIND X3 LITE 5G (good)   | 379,90 €                |
 | IphoneSE                      | 489 €                   |
 | Samsung Galaxy A52            | 329,00 €  (+100 for 5G) |
+| Apple iPhone 11 64Go          | 499,00 €                |
 |                               |                         |
 
 
