@@ -18,6 +18,7 @@ Portefeuille ✅| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-
 NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
 TP-Link CPL 600 Mbps 👀| 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethernet-Prise-Int%C3%A9gr%C3%A9e/dp/B00BUL8762
 FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
+Fender SQ Strat Pack SSS BLK GB | 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
 IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
 
@@ -39,3 +40,4 @@ IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/tool
 |                               |                         |
 
 
+👍
