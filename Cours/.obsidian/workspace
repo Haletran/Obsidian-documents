@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 191
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -98,6 +99,7 @@
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
     "DIVERS/Some stuffs to buy.md",
+    "L1/📢 Presentation Oral.md",
     "Russe/Become Fluent in Russian 🇷🇺.md",
     "Russe/Checkboxes.md",
     "Some stuffs to buy.md",
@@ -105,7 +107,6 @@
     "Russe/Dictionnary.md",
     "Russe/Contenu Russe.md",
     "Russe/Become Fluent in Russian.md",
-    "Untitled.md",
-    "Russe/tablocpro.png"
+    "Untitled.md"
   ]
 }

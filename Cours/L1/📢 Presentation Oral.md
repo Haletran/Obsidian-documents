@@ -34,7 +34,7 @@ This caught up fast with the developer community. Contributions started pouring 
 In 1996, The Linux mascot *Tux* was born. TUX stands for Torvald's UNIX. And was inspired by a childhood experience of Linus with a penguin in Australia. ( image of the childhood memory)
 
 
- In  1990's and beyond was the age of  Linux Distributions (or Distros for short), there were three influential and early Linux distros : SLS which stand for *Soft Landing Linux System* and it was the first comprehensive Linux distro with the Linux kernel and the new license. And the second one was LGX , the first plug and play Linux distro which automatically configured itself for the hardware that you installed it on. And the last but least , Debian which believed that Linux should be auto updated and maintained from a single package manager ( d-package).
+ In 1990's and beyond was the age of  Linux Distributions (or Distros for short), there were three influential and early Linux distros : SLS which stand for *Soft Landing Linux System* and it was the first comprehensive Linux distro with the Linux kernel and the new license. And the second one was LGX , the first plug and play Linux distro which automatically configured itself for the hardware that you installed it on. And the last but least , Debian which believed that Linux should be auto updated and maintained from a single package manager ( d-package).
 
 > Distribution OR Distros : is an operating system composed of the Linux Kernel, GNU tools, additional software and a package manager.I may also include display server and desktop environment (KDE, GNOME, XFCE, etc...) to be used as a regular desktop operating system.
 
