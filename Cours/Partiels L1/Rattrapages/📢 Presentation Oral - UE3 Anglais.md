@@ -1,4 +1,4 @@
-## Consigne
+# Consigne
 
 Préparez une présentation powerpoint en anglais de 10 minutes expliquant quelles ont été les contributions majeures de cet/cette économiste à la pensée économique.
 
@@ -8,7 +8,7 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 
 # Mariana Mazzucato 
 
-<u>Content :</u>
+##  Sources
 
 [TED talk](https://www.youtube.com/watch?v=uXrCeiQxWyc)
 [L'ECHO](https://i.ytimg.com/vi/nnR5i6qhpdQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW5NMkx-pwDCDpt5t_S6zfEyrwJg)
