@@ -18,4 +18,5 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 [Mazzucato lecture](https://www.youtube.com/watch?v=iqoBuoqIiYk)
 [Her website](https://marianamazzucato.com/)
 [Wikipedia page](https://fr.wikipedia.org/wiki/Mariana_Mazzucato)
+[Her youtube channel](https://www.youtube.com/user/MarianaMazzucato)
 
