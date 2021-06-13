@@ -11,7 +11,7 @@ Double Support Moniteur | 42,99 € | https://www.amazon.fr/1home-Support-Ecran
 Pâte Thermique | 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidisseur-Dissipateur/dp/B07LDRFCMS
 Keychron K6  👀|$79.00| https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
 Keychron Keyboard Wooden Palm Rest 👀 |$25.00 | https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest
-Kindle (no ads) 👀 | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-eclairage-frontal-integre-avec-offres-speciales-noir/dp/B07FQ4XCR1
+Kindle (no ads) ✅ | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-eclairage-frontal-integre-avec-offres-speciales-noir/dp/B07FQ4XCR1
 Bose QuietComfort 35 II | 249,99 € | https://www.amazon.fr/Casque-r%C3%A9duction-Bose-QuietComfort-int%C3%A9gr%C3%A9/dp/B0756GB78C
 JBL GO 2 👀 ✅| 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille ✅| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
