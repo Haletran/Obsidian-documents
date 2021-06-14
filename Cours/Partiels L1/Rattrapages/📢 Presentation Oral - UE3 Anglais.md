@@ -24,7 +24,7 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 [What does Capitalism value ?](https://www.youtube.com/watch?v=XndsyYUjMv8)
 
 ## Introduction 
-Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself and her economic thought.
+Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself , her economic thought and how she influence the economic world.
 
 ## Biography 
 She was born in Rome, Italy in June 1968. According to her resume, she got a PhD of Economics in New York in 1999, Masters in Economics in 1994 and a Bachelor of Arts/ History / International Relations in Boston. 
@@ -38,6 +38,8 @@ She wrote three famous books in the economic world :
 
 She has had many awards, six to be precise. So she is a very famous and influential economist of the twenty-one century. 
 
+(2min)
+
 ## Capitalism 
 
 ## Entrepreneurial State
@@ -47,6 +49,8 @@ She has had many awards, six to be precise. So she is a very famous and influent
 ## Economic Gestion
 
 ## The Value of Everything
+
+This book explains a great deal this is otherwise opaque, and shows why the propaganda we are fed about value, GDP and the like, is propaganda, that blinds us to the reality of our economy.
 
 > " Value and prices are not the same thing, they never will"
 
