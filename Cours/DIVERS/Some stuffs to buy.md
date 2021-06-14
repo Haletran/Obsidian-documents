@@ -20,6 +20,7 @@ TP-Link CPL 600 Mbps 👀| 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethern
 FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
 Fender SQ Strat Pack SSS BLK GB | 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
 IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
+Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
 
 
