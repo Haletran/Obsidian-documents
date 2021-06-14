@@ -21,6 +21,7 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 [Her youtube channel](https://www.youtube.com/user/MarianaMazzucato)
 [Her Resume](https://cms.marianamazzucato.com/wp-content/uploads/2021/05/CV-Mazzucato-2021-May.docx.pdf)
 [Press Kit](https://cms.marianamazzucato.com/wp-content/uploads/2021/04/presskit_april2021.pdf)
+[What does Capitalism value ?](https://www.youtube.com/watch?v=XndsyYUjMv8)
 
 ## Introduction 
 Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself and her economic thought.
@@ -37,19 +38,15 @@ She wrote three famous books in the economic world :
 
 She has had many awards, six to be precise. So she is a very famous and influential economist of the twenty-one century. 
 
-## Her Thought 
-
 ## Capitalism 
 
-## L'État entrepreneur
-
-## Climate Change
+## Entrepreneurial State
 
 ## Liberalism 
 
 ## Economic Gestion
 
-## The Meaning of  Value
+## The Value of Everything
 
 > " Value and prices are not the same thing, they never will"
 
