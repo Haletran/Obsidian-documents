@@ -20,3 +20,29 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 [Wikipedia page](https://fr.wikipedia.org/wiki/Mariana_Mazzucato)
 [Her youtube channel](https://www.youtube.com/user/MarianaMazzucato)
 
+## Introduction 
+Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself and her economic thought.
+
+## Biography 
+She was born in Rome, Italy in June 1968. According to her resume, she got a PhD of Economics in New York in 1999, Masters in Economics in 1994 and a Bachelor of Arts/ History / International Relations in Boston. 
+
+Acoording to her website , Marianna MAZZUCATO is now a professor in the Economics of Innovation and Public Value at University College London (UCL) and also the founding director of IIPP : the Institute for Innovation and Public Purpose. 
+
+She wrote three famous books in the economic world : 
+- _The Entrepreneurial State: Debunking Public vs. Private Sector Myths_ (2013)
+- _The Value of Everything: Making and Taking in the Global Economy_ (2018)
+- _Mission Economy: A Moonshot Guide to Changing Capitalism_ (2021)
+
+She has had many awards, six to be precise. So she is a very famous and influential economist of the twenty-one century. 
+
+## Her Thought 
+
+## Capitalism 
+
+## L'État entrepreneur
+
+## Liberalism 
+
+## Technology 
+
+## Conclusion
