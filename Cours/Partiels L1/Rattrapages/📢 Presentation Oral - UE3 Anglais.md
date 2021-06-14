@@ -19,6 +19,8 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 [Her website](https://marianamazzucato.com/)
 [Wikipedia page](https://fr.wikipedia.org/wiki/Mariana_Mazzucato)
 [Her youtube channel](https://www.youtube.com/user/MarianaMazzucato)
+[Her Resume](https://cms.marianamazzucato.com/wp-content/uploads/2021/05/CV-Mazzucato-2021-May.docx.pdf)
+[Press Kit](https://cms.marianamazzucato.com/wp-content/uploads/2021/04/presskit_april2021.pdf)
 
 ## Introduction 
 Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself and her economic thought.
