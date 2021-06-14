@@ -11,7 +11,7 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 ##  Sources
 
 [TED talk](https://www.youtube.com/watch?v=uXrCeiQxWyc)
-[L'ECHO](https://i.ytimg.com/vi/nnR5i6qhpdQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW5NMkx-pwDCDpt5t_S6zfEyrwJg)
+[L'ECHO](https://www.youtube.com/watch?v=nnR5i6qhpdQ)
 [COVID TED talk](https://www.youtube.com/watch?v=u3BZDx2dnSE)
 [CAPITALISM interview](https://www.youtube.com/watch?v=zptr-wzH94M&pp=ugMICgJmchABGAE%3D)
 [Repenser le capitalisme](https://www.youtube.com/watch?v=6DhZIaJYBa0&pp=ugMICgJmchABGAE%3D)
@@ -45,8 +45,14 @@ She has had many awards, six to be precise. So she is a very famous and influent
 
 ## Liberalism 
 
-## The MEaning of  Value
+## Economic Gestion
+
+## The Meaning of  Value
+
+> " Value and prices are not the same thing, they never will"
 
 ## Technology 
+
+## COVID-19
 
 ## Conclusion
