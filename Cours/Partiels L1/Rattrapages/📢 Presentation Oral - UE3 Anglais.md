@@ -7,6 +7,7 @@ Votre présentation ne doit comporter que les informations les plus pertinentes 
 Vous devrez vous **filmer** lors de la présentation et télécharger **la vidéo ET la présentation Powerpoint** sur la page Updago dédiée, à laquelle nous vous inscrirons. Pensez à écrire votre nom complet sur les fichiers et assurez-vous de vous identifier avant de commencer à parler.  **Vous devez déposer votre devoir sur la page UPDAGO jusqu'au 16 juin minuit**
 
 [Page UPDAGO pour rendre le travail](https://updago.univ-poitiers.fr/course/view.php?id=37468)
+[Page UPDAGO pour UE3 Francais](https://updago.univ-poitiers.fr/mod/quiz/view.php?id=827336)
 
 # Mariana Mazzucato 
 
