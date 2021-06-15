@@ -36,6 +36,7 @@ Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana M
 She was born in Rome, Italy in June 1968. According to her resume, she got a PhD of Economics in New York in 1999, Masters in Economics in 1994 and a Bachelor of Arts/ History / International Relations in Boston. 
 
 Acoording to her website , Marianna MAZZUCATO is now a professor in the Economics of Innovation and Public Value at University College London (UCL) and also the founding director of IIPP : the Institute for Innovation and Public Purpose. 
+Her work is mostly focused on the economics of innovation; finance and economic growth; and the role of the State in modern capitalism. She advises policy makers around the world on innovation-led growth
 
 She wrote three famous books in the economic world : 
 - _The Entrepreneurial State: Debunking Public vs. Private Sector Myths_ (2013)
@@ -48,6 +49,7 @@ She has had many awards, six to be precise. So she is a very famous and influent
 
 ## Capitalism 
 
+She believe in a rethinking of Capitalism, which is the actual economic system. She thinks in a way of innovation in the economic system. This is what she talk about in her book _The Value of Everything: Making and Taking in the Global Economy_ . 
 (completer...)
 
 ## Entrepreneurial State
@@ -102,3 +104,59 @@ In a column for The Economist, it was argued that she is "too hard on business" 
 ## Conclusion
 
 (completer...)
+
+
+
+
+# David Ricardo 
+
+## Sources
+[Presentation](https://www.youtube.com/watch?v=OkaCn7QO4YA)
+[Britannica](https://www.britannica.com/biography/David-Ricardo)
+[Biography video](https://www.youtube.com/watch?v=RV0jJ26PJac)
+[One Minute Economist](https://www.youtube.com/watch?v=rHOPH4vH4kk)
+[Ricardian Model](https://www.youtube.com/watch?v=tPcBIlSj0zg)
+
+
+## Introduction 
+
+Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself , her economic thought and how she influence the economic world.
+
+## PRE
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JRlO_JHQ8rxibZiWDXxXwAHaLH%26pid%3DApi&f=1)
+
+David Ricardo was born on 18 April 1772 in the City of London, where his family lived before moving to Bow in the East End in 1792. The third son of devout Sephardic Jewish parents. When he was young he actually don't go to school instead he worked in his father's investment busisiness. It is well established that ‘Ricardo’s interest in political economy was first awakened by his taking up a copy of the Wealth of Nations by chance while on a visit to Bath in 1799 At 22, he start making his own money by creating his own businesss with a capital base of 800 pounds (930 euros), 20 years he retired with over 1 million pounds (1161190.00 euros). 
+
+## His Works
+
+The life work of David Ricardo as a political economist presents the dual aspect of theoretical contribution and prac-tical service.A brilliant critic of the Ricardian economics has said that "Among all the delusions which prevail as to the history of English political economy there is none greater than the belief that the economics of the Ricardian school and period were of an almost wholly abstract and unpractical chararacter".
+
+Most known works : 
+
+_The High Price of Bullion , a proof of the depreciation of banknotes_  published in 1810 = argue that there was a link between the increasing volume of banknotes and price levels  
+_Principles of Political Economy and Taxation_ written in 1817 = Labor Theory of Value / Theory of Comparative Advantage/ Population growth => what we are going to work on 
+
+(4min)
+
+## Labor Theory of Value
+
+> "The Value of a commodity, or the quantity of any other commodity for which it will excahnge, depends on the relative quantity of labour which os necesaary for it's production, and not on the greater or less compensation which is paid for that labour"
+
+Ricardo believe the value of a certain good depends on the labor required to produce it , The labor includes of course the raw materials used and the equipment being utilized along the process. The sum of it all would be the value of a certain good or service. Thus, David Ricardo believed that the value or price of a good in the market determined the amount of labor needed to produce the same.
+
+Ricardo also said that not all the good work the same way , he said for exemple that Art in general (Statues / Painting / etc..)
+is independent of the quantity of the labour originally necessary to produce them and they can vary. 
+
+## Theory of Comparative Advantage
+
+## Theory of Wages
+
+
+## Ricardian Model
+
+
+## Legacy 
+
+The work of David Ricardo has influenced many generations of economists and while he did end up being proven wrong by reality in certain cases,  some well known classical economists such as John Stuart / Alfred Marshall / Karl Marx were influenced by his economic work exactly like he was with Adam Smith.
+
