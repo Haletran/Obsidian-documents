@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Partiels L1/Rattrapages/📢 Presentation Oral - UE3 Anglais.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -98,14 +99,14 @@
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
     "Partiels L1/Rattrapages/📢 Presentation Oral - UE3 Anglais.md",
+    "L1/Cheatsheet Md-HTML.md",
+    "DIVERS/Some stuffs to buy.md",
+    "Partiels L1/Fiches de revisions/Economie ✅.md",
     "Partiels L1/Fiches de revisions/Russe langue ✅.md",
     "Partiels L1/Oraux/📢  Oral Culture Russe.md",
     "Partiels L1/Oraux/📢 Oral Russe.md",
     "Partiels L1/Oraux/🎥 Diaporama.md",
-    "DIVERS/Some stuffs to buy.md",
     "Partiels L1/Rattrapages/Presentation Oral - UE3 Anglais.md",
-    "Partiels L1/Rattrapages/Sans titre.md",
-    "L1/📢 Presentation Oral.md",
-    "Russe/Become Fluent in Russian 🇷🇺.md"
+    "Partiels L1/Rattrapages/Sans titre.md"
   ]
 }
