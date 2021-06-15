@@ -120,13 +120,13 @@ In a column for The Economist, it was argued that she is "too hard on business" 
 
 ## Introduction 
 
-Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself , her economic thought and how she influence the economic world.
+Hello My name is Baptiste PASQUIER , my presentation is going to be on David Ricardo , on hiself , his economic thought and how he influenced the economic world.
 
 ## PRE
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JRlO_JHQ8rxibZiWDXxXwAHaLH%26pid%3DApi&f=1)
 
-David Ricardo was born on 18 April 1772 in the City of London, where his family lived before moving to Bow in the East End in 1792. The third son of devout Sephardic Jewish parents. When he was young he actually don't go to school instead he worked in his father's investment busisiness. It is well established that ‘Ricardo’s interest in political economy was first awakened by his taking up a copy of the Wealth of Nations by chance while on a visit to Bath in 1799 At 22, he start making his own money by creating his own businesss with a capital base of 800 pounds (930 euros), 20 years he retired with over 1 million pounds (1161190.00 euros). 
+David Ricardo was born on 18 April 1772 in the City of London, where his family lived before moving to Bow in the East End in 1792. The third son of devout Sephardic Jewish parents. It is well established that ‘Ricardo’s interest in political economy was first awakened by his taking up a copy of the Wealth of Nations by chance while on a visit to Bath in 1799 At 22, he start making his own money by creating his own businesss with a capital base of 800 pounds (930 euros), 20 years he retired with over 1 million pounds (1161190.00 euros). 
 
 ## His Works
 
@@ -155,8 +155,10 @@ is independent of the quantity of the labour originally necessary to produce the
 
 ## Ricardian Model
 
+Trade
 
 ## Legacy 
 
 The work of David Ricardo has influenced many generations of economists and while he did end up being proven wrong by reality in certain cases,  some well known classical economists such as John Stuart / Alfred Marshall / Karl Marx were influenced by his economic work exactly like he was with Adam Smith.
 
+(5min)
