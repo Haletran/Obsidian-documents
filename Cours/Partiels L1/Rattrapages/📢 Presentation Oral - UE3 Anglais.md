@@ -48,7 +48,9 @@ She has had many awards, six to be precise. So she is a very famous and influent
 
 ## Liberalism 
 
-## Economic Gestion
+## Market Shaping
+
+Since 2014, Mazzucato has developed her critique of "market failure theory" and her concept of the state's role in the economy as one of "creating and shaping new markets" rather than just fixing them.Her work with Carlota Perez has considered how such a view can enable a new understanding of ‘green’ as a redirection of the entire economy.Her work with Caetano Penna has focussed on the way in which a mission oriented market shaping framework can provide a new understanding of the role of state investment banks
 
 ## The Value of Everything
 
@@ -56,8 +58,33 @@ This book explains a great deal this is otherwise opaque, and shows why the prop
 
 > " Value and prices are not the same thing, they never will"
 
-## Technology 
+She focused on inequality in her work with William Lazonick. Their 2013 joint article, "The Risk-Reward Nexus: Who takes the risks? Who gets the rewards?" describes the tension between how value is created and how value is extracted in modern-day capitalism. The authors argue that there is a disproportionate balance between the 'collective' distribution of risk taking in the innovation process, and the increasingly narrow distribution of the rewards.
+
+In a paper for the think tank Policy Network called "Rebalancing What?", Mazzucato argues that the problem is not only one of short-termism, it is also about the way in which financial activities focused on value extraction have been rewarded above activities focused on value creation – often leading to value destruction Her book The Value of Everything: making and taking in the global economy, published in 2018, describes how financial companies act as rent-seekers rather than creating value themselves, and that current legislation encourages that type of behaviour
+
+## Innovation (Technology)
+
+Mazzucato's research focuses on the relationship between financial markets, innovation and economic growth – at the company, industry and national level. She works within the Schumpeterian framework of evolutionary economics, studying the origin and evolution of persistent differences between firms and how these differences vary across sectors and over the industry life-cycle.
+
+Her empirical studies have focused on the automobile, PC, biotech and pharma industries. She has analysed the co-evolution of technological change and stock market bubbles. In this, she argues that stock price volatility tends to be highest, at the firm and industry level, when technological innovation is the most "radical".
+
+In 2013 Mazzucato published The Entrepreneurial State: debunking public vs. private sector myths.[39] The book argues that the idea of the state as a static bureaucratic organisation only needed to ‘fix’ market failures, leaving dynamic entrepreneurship and innovation to the private sector, is wrong. She outlines a number of case studies across different sectors, including biotech, pharmaceuticals and clean technology, to show that the high-risk investments are being made by the state before the private sector gets involved. In a chapter examining the iPhone, she outlines how the technologies that make it ‘smart’ – the internet, GPS, its touchscreen display and the voice-activated Siri – were all government-funded.
+
+Two chapters in the book are dedicated to the emerging ‘green technology’ revolution. She details the public funds that she argues are laying the groundwork for this revolution in a similar way that the state invested in the most high-risk areas of biotech and nanotech. The book concludes with the contention that in all these examples, the risks were socialized while the rewards were privatized, and considers different ways to change this dynamic to produce more ‘inclusive growth’
 
 ## COVID-19
+
+## Her Influence
+
+Jayati Ghosh, writing for Nature, wrote that Mission Economy is a "timely and optimistic vision" of solving major problems through directed private and public investment. She argued that Mazzucato's arguments seem simple and obvious, but are in fact revolutionary, implying a new role for governments.
+
+John Kay wrote in the Financial Times that Mission Economy's proposals would lead to powerful governments driving and co-ordinated every stage of innovation to solve issues from cancer to climate change. Kay argues that such projects tend to be failures, because political direction of innovation would have led to absence of objective feedback, whereas efficient progress tends to require very competitive markets with incremental innovation and power decentralized to individual entrepreneurs with their independent visions.
+
+Pope Francis said, when talking about The Value of Everything, "I believe [her vision] can help to think about the future." US Senator Marco Rubio credited Mazzucato's work on value in one of his economic proposals.
+
+Martin Wolf wrote in the Financial Times that The Entrepreneurial State offers "a controversial thesis," but "it is basically right," and warns that the "failure to recognise the role of the government in driving innovation may well be the greatest threat to rising prosperity."Robert Atkinson stated that "it is one thing to legitimize the state as a driver of innovation and give credit where credit is due – something [Mazzucato's] book does masterfully", but "it is another thing altogether to craft effective innovation policy that deals with risk in a politically acceptable way."
+
+In a column for The Economist, it was argued that she is "too hard on business" but that Mazzucato was right about the state's "central role in producing game-changing breakthroughs", and that its "contribution to the success of technology-based businesses should not be underestimated."Tim Worstall, research fellow at the neoliberal think thank Adam Smith Institute, argues that Mazzucato offers a confused definition of public goods, which is a "crucial point," since "the non-rivalrous and non-excludable nature [of public goods] make them difficult to profit from," and thus the private sector would not be interested in them
+
 
 ## Conclusion
