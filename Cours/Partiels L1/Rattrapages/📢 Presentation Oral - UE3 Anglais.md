@@ -29,6 +29,8 @@ Vous devrez vous **filmer** lors de la présentation et télécharger **la vidé
 Hello My name is Baptiste PASQUIER , my presentation is going to be on Mariana MAZZUCATO , on herself , her economic thought and how she influence the economic world.
 
 ## Biography 
+
+<img  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Faspenideasfestival.imgix.net%2F81677f86-0f74-43f0-b732-59dc72935e3c%2FMazzucato_Mariana_AIH2019.jpg%3Fauto%3Dcompress%252Cformat%26fit%3Dmin%26fm%3Djpg%26q%3D80%26rect%3D0%252C0%252C800%252C800&f=1&nofb=1">
 She was born in Rome, Italy in June 1968. According to her resume, she got a PhD of Economics in New York in 1999, Masters in Economics in 1994 and a Bachelor of Arts/ History / International Relations in Boston. 
 
 Acoording to her website , Marianna MAZZUCATO is now a professor in the Economics of Innovation and Public Value at University College London (UCL) and also the founding director of IIPP : the Institute for Innovation and Public Purpose. 
@@ -44,9 +46,15 @@ She has had many awards, six to be precise. So she is a very famous and influent
 
 ## Capitalism 
 
+(completer...)
+
 ## Entrepreneurial State
 
+(completer...)
+
 ## Liberalism 
+
+(completer...)
 
 ## Market Shaping
 
@@ -74,6 +82,8 @@ Two chapters in the book are dedicated to the emerging ‘green technology’ re
 
 ## COVID-19
 
+(completer...)
+
 ## Her Influence
 
 Jayati Ghosh, writing for Nature, wrote that Mission Economy is a "timely and optimistic vision" of solving major problems through directed private and public investment. She argued that Mazzucato's arguments seem simple and obvious, but are in fact revolutionary, implying a new role for governments.
@@ -88,3 +98,5 @@ In a column for The Economist, it was argued that she is "too hard on business" 
 
 
 ## Conclusion
+
+(completer...)
