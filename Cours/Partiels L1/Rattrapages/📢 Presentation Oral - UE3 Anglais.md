@@ -111,7 +111,7 @@ In a column for The Economist, it was argued that she is "too hard on business" 
 # David Ricardo 
 
 ## Sources
-[Presentation](https://www.youtube.com/watch?v=OkaCn7QO4YA)
+[Presentation Youtube](https://www.youtube.com/watch?v=OkaCn7QO4YA)
 [Britannica](https://www.britannica.com/biography/David-Ricardo)
 [Biography video](https://www.youtube.com/watch?v=RV0jJ26PJac)
 [One Minute Economist](https://www.youtube.com/watch?v=rHOPH4vH4kk)
@@ -167,7 +167,9 @@ The wage-fund theory held that wages depended on the relative amounts of capital
 
 ## Ricardian Model
 
-The Ricardian Model describes a world in which goods are competitively produced from a single factor of production, labor, using constant-returns-to-scale technologies that differ across countries and goods.
+The Ricardian Model us using concepts of opportunity cost abd comparative advantage as we saw beofre, and can provide the simplest settings to illustraste comparative advantage and the gains from trade in  agenral equilibrium setting. 
+It also explains differnces in productivity of labor between countries which is a consequence of differnces in Technology.
+
 
 ## Legacy 
 
