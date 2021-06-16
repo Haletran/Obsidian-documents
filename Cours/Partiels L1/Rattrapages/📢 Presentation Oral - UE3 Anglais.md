@@ -116,7 +116,8 @@ In a column for The Economist, it was argued that she is "too hard on business" 
 [Biography video](https://www.youtube.com/watch?v=RV0jJ26PJac)
 [One Minute Economist](https://www.youtube.com/watch?v=rHOPH4vH4kk)
 [Ricardian Model](https://www.youtube.com/watch?v=tPcBIlSj0zg)
-
+[MIchigan Ricardian Model](http://www-personal.umich.edu/~alandear/courses/441/handouts/Deardorff-RicardianModel.pdf)
+[Principles of Political Economy and Taxation](https://www.econlib.org/library/Ricardo/ricP.html)
 
 ## Introduction 
 
@@ -126,7 +127,7 @@ Hello My name is Baptiste PASQUIER , my presentation is going to be on David Ric
 
 ![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.JRlO_JHQ8rxibZiWDXxXwAHaLH%26pid%3DApi&f=1)
 
-David Ricardo was born on 18 April 1772 in the City of London, where his family lived before moving to Bow in the East End in 1792. The third son of devout Sephardic Jewish parents. It is well established that ‘Ricardo’s interest in political economy was first awakened by his taking up a copy of the Wealth of Nations by chance while on a visit to Bath in 1799 At 22, he start making his own money by creating his own businesss with a capital base of 800 pounds (930 euros), 20 years he retired with over 1 million pounds (1161190.00 euros). 
+David Ricardo was born on 18 April 1772 in the City of London, where his family lived before moving to Bow in the East End in 1792. The third son of devout Sephardic Jewish parents. It is well established that ‘Ricardo’s interest in political economy was first awakened by his taking up a copy of the Wealth of Nations by chance while on a visit to Bath in 1799 At 22, he start making his own money by creating his own businesss with a capital base of 800 pounds (930 euros), 20 years he retired with over 1 million pounds (1161190.00 euros).  And he was also a politician who served in the Parliament of the United Kingdom and Ireland.
 
 ## His Works
 
@@ -134,8 +135,9 @@ The life work of David Ricardo as a political economist presents the dual aspect
 
 Most known works : 
 
-_The High Price of Bullion , a proof of the depreciation of banknotes_  published in 1810 = argue that there was a link between the increasing volume of banknotes and price levels  
-_Principles of Political Economy and Taxation_ written in 1817 = Labor Theory of Value / Theory of Comparative Advantage/ Population growth => what we are going to work on 
+- _The High Price of Bullion , a proof of the depreciation of banknotes_  published in 1810 = argue that there was a link between the increasing volume of banknotes and price levels  
+- _Essay on the Influence of a Low Price of Corn on the Profits of Stock_ (1815), which argued that repealing the Corn laws would distribute more wealth to the productive members of society.
+- _Principles of Political Economy and Taxation_ written in 1817 = Labor Theory of Value / Theory of Comparative Advantage/ Population growth => what we are going to work on 
 
 (4min)
 
@@ -150,15 +152,29 @@ is independent of the quantity of the labour originally necessary to produce the
 
 ## Theory of Comparative Advantage
 
+The theory of comparative advantage is perhaps the most important concept in international trade theory.
+
+Ricardo showed that the specialization good in each country should be that good in which the country had a comparative advantage in production. To identify a country’s comparative advantage good requires a comparison of production costs across countries. However, one does not compare the monetary costs of production or even the resource costs (labor needed per unit of output) of production. Instead, one must compare theopportunitycosts of producing goods across countries
+In his example, Ricardo imagined two countries, England and Portugal, producing two goods, cloth and wine, using labor as the sole input in production. He assumed that the productivity of labor (i.e., the quantity of output produced per worker) varied between industries and across countries. However, instead of assuming, as Adam Smith did, that England is more productive in producing one good and Portugal is more productive in the other, Ricardo assumed that Portugal was more productive in both goods.
+Based on Smith’s intuition, then, it would seem that trade could not be advantageous, at least for England.However, Ricardo demonstrated numerically that if England specialized in producing one of the two goods and if Portugal produced the other, then total world output of both goods could rise!
+
 ## Theory of Wages
+
+It was based on the population theory of Thomas Malthus. It held that the market price of labour would always tend toward the minimum required for subsistence. If the supply of labour increased, wages  would fall, eventually causing a decrease in the labour supply. If the wage rose above the subsistence level, population would increase until the larger labour force would again force wages down.
+
+The wage-fund theory held that wages depended on the relative amounts of capital available for the payment of workers and the size of the labour force. Wages increase only with an increase in capital or a decrease in the number of workers. Although the size of the wage fund could change over time, at any given moment it was fixed. Thus, legislation to raise wages would be unsuccessful, since there was only a fixed fund to draw on.
 
 
 ## Ricardian Model
 
-Trade
+The Ricardian Model describes a world in which goods are competitively produced from a single factor of production, labor, using constant-returns-to-scale technologies that differ across countries and goods.
 
 ## Legacy 
 
 The work of David Ricardo has influenced many generations of economists and while he did end up being proven wrong by reality in certain cases,  some well known classical economists such as John Stuart / Alfred Marshall / Karl Marx were influenced by his economic work exactly like he was with Adam Smith.
 
+
+## Conclusion 
+
+Ricardo was and is still a very famous economist that influence his century along with some others classical economists such as Adam Smith and James Mill. And his ideas are still relevant in these days. 
 (5min)
