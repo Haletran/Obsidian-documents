@@ -496,4 +496,15 @@ Coefficient budgétaire :
 ⇒ coefficient budgétaire = Depenses consacrees a une catégories de biens ou service / consommation effective des ménages
 
 
+# ANNEXE 
+
+[Lexique de demographie economique](https://updago.univ-poitiers.fr/mod/resource/view.php?id=24470)
+[Les secteurs institutionnels](https://updago.univ-poitiers.fr/pluginfile.php/241787/mod_resource/content/1/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0Les%20secteurs%20institutionnels%C2%A0%C2%BB.pdf)
+[Le partage de la valeur ajoutee](https://updago.univ-poitiers.fr/pluginfile.php/241796/mod_resource/content/3/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0Le%20partage%20de%20la%20valeur%20ajout%C3%A9e%C2%A0%C2%BB.pdf)
+[Evolution SMIC](https://updago.univ-poitiers.fr/pluginfile.php/2767593/mod_resource/content/5/S4%20DROIT%20-%20CM%20annexe%20SMIC.pdf)
+[La Fraude FIscale](https://updago.univ-poitiers.fr/pluginfile.php/1755051/mod_resource/content/6/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0La%20fraude%20sociale%C2%A0%C2%BB.pdf)
+[Le RUA](https://updago.univ-poitiers.fr/pluginfile.php/241799/mod_resource/content/4/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0Le%20Revenu%20Universel%20d%E2%80%99Activit%C3%A9%C2%A0%28RUA%29%C2%A0%C2%BB.pdf)
+[La redistribution des revenus](https://updago.univ-poitiers.fr/pluginfile.php/241802/mod_resource/content/4/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0La%20redistribution%20des%20revenus%C2%A0%C2%BB.pdf)
+[Le revenu disponible](https://updago.univ-poitiers.fr/pluginfile.php/241805/mod_resource/content/4/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0Le%20revenu%20disponible%C2%A0%C2%BB.pdf)
+[L'epargne](https://updago.univ-poitiers.fr/pluginfile.php/2671376/mod_resource/content/6/ANNEXE%20%E2%80%93%20%C2%AB%C2%A0L%C3%A9pargne%C2%A0%C2%BB.pdf)
 
