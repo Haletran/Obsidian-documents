@@ -1,3 +1,6 @@
+
+## Technology
+
 Produit | Prix | Lien 
 ---|---|---
 POCO F3 ✅ | 399€ | https://www.amazon.fr/POCO-F3-Smartphone-Snapdragon-4520mAh/dp/B08ZNCXLDY
@@ -24,7 +27,7 @@ Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
 
 
-<u>Smartphones for Grandma : </u>
+## Smartphones
 
 | Produit                         | Prix                    |
 | ------------------------------- | ----------------------- |
@@ -41,3 +44,4 @@ Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
 |                                 |                         |
 
 
+## Les Montres
