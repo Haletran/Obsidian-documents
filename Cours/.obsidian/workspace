@@ -7,11 +7,8 @@
         "id": "2831d9e8c11ef8ca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DIVERS/Some stuffs to buy.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175,
-    "collapsed": true
+    "width": 175
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIVERS/Some stuffs to buy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +93,15 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Pasted image 20210628144559.png",
+    "Pasted image 20210628144632.png",
+    "Pasted image 20210628144546.png",
+    "Pasted image 20210627222319.png",
+    "Pasted image 20210627163423.png",
+    "Pasted image 20210629112140.png",
     "DIVERS/Some stuffs to buy.md",
     "Partiels L1/Fiches de revisions/Economie ✅.md",
     "Partiels L1/Rattrapages/📢 Presentation Oral - UE3 Anglais.md",
-    "L1/Cheatsheet Md-HTML.md",
-    "Partiels L1/Fiches de revisions/Russe langue ✅.md",
-    "Partiels L1/Oraux/📢  Oral Culture Russe.md",
-    "Partiels L1/Oraux/📢 Oral Russe.md",
-    "Partiels L1/Oraux/🎥 Diaporama.md",
-    "Partiels L1/Rattrapages/Presentation Oral - UE3 Anglais.md",
-    "Partiels L1/Rattrapages/Sans titre.md"
+    "L1/Cheatsheet Md-HTML.md"
   ]
 }
