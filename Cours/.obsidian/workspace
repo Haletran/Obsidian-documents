@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DIVERS/Some stuffs to buy.md",
+            "file": "DIVERS/PC.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIVERS/Some stuffs to buy.md",
+                "file": "DIVERS/PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Sans titre.md",
     "DIVERS/Some stuffs to buy.md",
     "Pasted image 20210628144559.png",
     "Pasted image 20210628144632.png",
@@ -105,7 +106,6 @@
     "Pasted image 20210627163423.png",
     "Pasted image 20210629112140.png",
     "Partiels L1/Fiches de revisions/Economie ✅.md",
-    "Partiels L1/Rattrapages/📢 Presentation Oral - UE3 Anglais.md",
-    "L1/Cheatsheet Md-HTML.md"
+    "Partiels L1/Rattrapages/📢 Presentation Oral - UE3 Anglais.md"
   ]
 }
