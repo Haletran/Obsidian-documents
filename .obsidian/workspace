@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "016938b6ff8beee5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2831d9e8c11ef8ca",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0af675bb4432447d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0927cc0dd08cc7d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f5a1808e0edf30a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b59d87f1664ba72",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175
+  },
+  "right": {
+    "id": "a5930f152dd8b5f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a1c1740fb69ed9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b6ecb519bbecaf8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e375a932fbabb4c2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2831d9e8c11ef8ca",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Cours/DIVERS/Сергей Никитин - Со мною вот что происходит.md",
+    "Cours/DIVERS/Some stuffs to buy.md",
+    "Cours/DIVERS/PC.md",
+    "Sans titre.md",
+    "DIVERS/Some stuffs to buy.md",
+    "Pasted image 20210628144559.png",
+    "Pasted image 20210628144632.png",
+    "Pasted image 20210628144546.png",
+    "Pasted image 20210627222319.png"
+  ]
+}
