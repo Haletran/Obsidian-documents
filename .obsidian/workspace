@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/DIVERS/Some stuffs to buy.md",
+            "file": "Thinkpad.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/DIVERS/Some stuffs to buy.md",
+                "file": "Thinkpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Untitled.md",
     "Cours/DIVERS/Some stuffs to buy.md",
     "Cours/DIVERS/PC.md",
-    "Untitled.md",
     "Cours/DIVERS/Сергей Никитин - Со мною вот что происходит.md",
     "Sans titre.md",
     "DIVERS/Some stuffs to buy.md",
