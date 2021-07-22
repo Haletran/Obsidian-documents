@@ -9,7 +9,7 @@ NZXT Kraken X53 240mm ✅ | 140,99 €  | https://www.amazon.fr/NZXT-Kraken-X53
 NZXT H510 ✅| 83,90 € | https://www.amazon.fr/NZXT-H510-Bo%C3%AEtier-Compatible-Refroidissement/dp/B07SGWLD2C
 Corsair RM850x (Modulaire Complet, 850 Watt, 80 PLUS Gold) | 152,83 €  |https://www.amazon.fr/Corsair-RM850x-Alimentation-Enti%C3%A9rement-Modulaire/dp/B079QCFB1M
 Sabrent SSD NVMe PCIe M.2 (1TB) ✅ | 139,99 € | https://www.amazon.fr/Sabrent-interne-Rocket-performance-SB-ROCKET-1TB/dp/B07LGF54XR
-AOC Écran (second) | 169,99 € | https://www.amazon.fr/AOC-24G2U5-BK-%C3%A9cran-Pixels/dp/B07YN79RJG
+AOC Écran | 199,96 €	| https://www.amazon.fr/AOC-C24G1-Ecran-1920-Pixels/dp/B07DTN4BM8
 Double Support Moniteur | 42,99 € | https://www.amazon.fr/1home-Support-Ecran-Moniteur-Ordinateur/dp/B01MR397OH
 Pâte Thermique ✅| 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidisseur-Dissipateur/dp/B07LDRFCMS
 Keychron K6  👀|$79.00| https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
