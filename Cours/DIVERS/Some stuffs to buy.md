@@ -15,15 +15,15 @@ Pâte Thermique ✅| 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidi
 Keychron K6  👀|$79.00| https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
 Keychron Keyboard Wooden Palm Rest 👀 |$25.00 | https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest
 Kindle (no ads) ✅ | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-eclairage-frontal-integre-avec-offres-speciales-noir/dp/B07FQ4XCR1
-Bose QuietComfort 35 II | 249,99 € | https://www.amazon.fr/Casque-r%C3%A9duction-Bose-QuietComfort-int%C3%A9gr%C3%A9/dp/B0756GB78C
 JBL GO 2 👀 ✅| 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille ✅| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
-NEO QLED 50QN90A 2021, SERIE 9 | 1 699,00 € |https://www.samsung.com/fr/tvs/qled-tv/qn90a-50-inch-neo-qled-4k-smart-tv-qe50qn90aatxxc/#benefits
-TP-Link CPL 600 Mbps 👀| 36,99 € |https://www.amazon.fr/TP-Link-Mbps-Ethernet-Prise-Int%C3%A9gr%C3%A9e/dp/B00BUL8762
 FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
 Fender SQ Strat Pack SSS BLK GB | 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
 IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
 Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
+MSI B550 Tomahawk | 137,50 € |https://www.amazon.fr/Carte-Mere-MSI-B550-Tomahawk/dp/B08B4V583Q
+Ryzen 5 5600X | 295,00 € |https://www.amazon.fr/AMD-Ryzen-5-5600X-RyzenTM/dp/B08166SLDF/257-4528589-8228414?psc=1
+
 [Family PC](https://pcpartpicker.com/list/BpmfBc) 
 
 
