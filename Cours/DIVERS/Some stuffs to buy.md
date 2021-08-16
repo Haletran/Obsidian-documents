@@ -9,8 +9,8 @@ NZXT Kraken X53 240mm ✅ | 140,99 €  | https://www.amazon.fr/NZXT-Kraken-X53
 NZXT H510 ✅| 83,90 € | https://www.amazon.fr/NZXT-H510-Bo%C3%AEtier-Compatible-Refroidissement/dp/B07SGWLD2C
 Corsair RM850x (Modulaire Complet, 850 Watt, 80 PLUS Gold) | 152,83 €  |https://www.amazon.fr/Corsair-RM850x-Alimentation-Enti%C3%A9rement-Modulaire/dp/B079QCFB1M
 Sabrent SSD NVMe PCIe M.2 (1TB) ✅ | 139,99 € | https://www.amazon.fr/Sabrent-interne-Rocket-performance-SB-ROCKET-1TB/dp/B07LGF54XR
-AOC Écran 👀| 199,96 €	| https://www.amazon.fr/AOC-C24G1-Ecran-1920-Pixels/dp/B07DTN4BM8
-Double Support Moniteur | 42,99 € | https://www.amazon.fr/1home-Support-Ecran-Moniteur-Ordinateur/dp/B01MR397OH
+AOC Écran ✅| 199,96 €	| https://www.amazon.fr/AOC-C24G1-Ecran-1920-Pixels/dp/B07DTN4BM8
+Double Support Moniteur ✅ | 42,99 € | https://www.amazon.fr/1home-Support-Ecran-Moniteur-Ordinateur/dp/B01MR397OH
 Pâte Thermique ✅| 5,15 € | https://www.amazon.fr/ARCTIC-MX-2-2019-Refroidisseur-Dissipateur/dp/B07LDRFCMS
 Keychron K6  👀|$79.00| https://www.keychron.com/collections/keyboard/products/keychron-k6-wireless-mechanical-keyboard?variant=31441079730265
 Keychron Keyboard Wooden Palm Rest 👀 |$25.00 | https://www.keychron.com/products/keychron-keyboard-wooden-palm-rest
@@ -18,8 +18,8 @@ Kindle (no ads) ✅ | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-
 JBL GO 2 👀 ✅| 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille ✅| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
 FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
-Fender SQ Strat Pack SSS BLK GB | 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
-IFIXIT Pro thech Toolkit | €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
+Fender SQ Strat Pack SSS BLK GB ✅| 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
+IFIXIT Pro thech Toolkit ✅| €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
 Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
 MSI B550 Tomahawk | 137,50 € |https://www.amazon.fr/Carte-Mere-MSI-B550-Tomahawk/dp/B08B4V583Q
 Ryzen 5 5600X | 295,00 € |https://www.amazon.fr/AMD-Ryzen-5-5600X-RyzenTM/dp/B08166SLDF/257-4528589-8228414?psc=1
