@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/DIVERS/Some stuffs to buy.md",
+            "file": "DIVERS/Some stuffs to buy.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175,
-    "collapsed": true
+    "width": 175
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/DIVERS/Some stuffs to buy.md",
+                "file": "DIVERS/Some stuffs to buy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

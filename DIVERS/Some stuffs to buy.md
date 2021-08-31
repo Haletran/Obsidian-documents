@@ -17,7 +17,7 @@ Keychron Keyboard Wooden Palm Rest 👀 |$25.00 | https://www.keychron.com/produ
 Kindle (no ads) ✅ | 89,99 € | https://www.amazon.fr/kindle-maintenant-avec-un-eclairage-frontal-integre-avec-offres-speciales-noir/dp/B07FQ4XCR1
 JBL GO 2 👀 ✅| 27,90 € | https://www.amazon.fr/JBL-JBLGO2BLK-Enceinte-portable-Bluetooth/dp/B07B88KQZ8
 Portefeuille ✅| 19,99 € | https://www.amazon.fr/Vemingo-Portefeuille-Porte-Monnaie-Porte-Carte-2Compartiments/dp/B085VQM5WZ?c=ts&ts_id=11961844031
-FiiO BTR5 |119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
+FiiO BTR5 | 119,00 € | https://www.amazon.fr/FiiO-BTR5-Noir-Portable-Bluetooth/dp/B07ZK3M6XK
 Fender SQ Strat Pack SSS BLK GB ✅| 225€ |https://www.thomann.de/fr/fender_sq_strat_pack_sss_blk_gb.htm
 IFIXIT Pro thech Toolkit ✅| €69,99 |https://eustore.ifixit.com/collections/toolkits/products/pro-tech-toolkit#productReviews
 Logitech G920 | 257,74 € |https://www.amazon.fr/dp/B015CXCRVE?psc=1
