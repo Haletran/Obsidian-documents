@@ -11,8 +11,7 @@ First, we need to define what's a AI, AI stands for artificial intelligence so t
  - Deepfake [ Morgan Freeman ? ](https://www.youtube.com/watch?v=F4G6GNFz0O8) |[ Tom Cruise ? ](https://www.youtube.com/watch?v=iyiOVUbsPcM)
 
 ## Deep Learning 
-
-
+🧑‍🎓
 	
 	
 

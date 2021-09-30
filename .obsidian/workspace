@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 198
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -98,6 +97,8 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Cours/L2/Expression Orale/📢 Presentation AI (debate).md",
+    "Cours/L1/📢 Presentation Oral.md",
     "Cours/L2/Expression Orale/Expose AI.md",
     "Cours/L2/Expression Orale/Untitled.md",
     "Cours/L1/Partiels L1/Fiches de revisions/Arabe ✅.md",
@@ -105,8 +106,6 @@
     "Cours/DIVERS/Some stuffs to buy.md",
     "Cours/DIVERS/Сергей Никитин - Со мною вот что происходит.md",
     "Untitled.md",
-    "Cours/DIVERS/PC.md",
-    "Sans titre.md",
-    "Pasted image 20210628144559.png"
+    "Cours/DIVERS/PC.md"
   ]
 }
