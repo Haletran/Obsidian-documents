@@ -1,4 +1,4 @@
-# The Development of artificial intelligence (AI) will help humanity
+# 🤖 The Development of artificial intelligence (AI) will help humanity
 
 <h2 style="color:green"> FOR</h2>
 
@@ -15,7 +15,7 @@ First, we need to define what's a AI, AI stands for artificial intelligence so t
 
 	
 	
-	
+
 	
 	
 	
