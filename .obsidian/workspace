@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DIVERS/Some stuffs to buy.md",
+            "file": "Cours/L2/Expression Orale/Expose AI.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DIVERS/Some stuffs to buy.md",
+                "file": "Cours/L2/Expression Orale/Expose AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
+    "Cours/L2/Expression Orale/Expose AI.md",
+    "Cours/L2/Expression Orale/Untitled.md",
+    "Cours/L1/Partiels L1/Fiches de revisions/Arabe ✅.md",
+    "DIVERS/Some stuffs to buy.md",
     "Cours/DIVERS/Some stuffs to buy.md",
     "Cours/DIVERS/Сергей Никитин - Со мною вот что происходит.md",
     "Untitled.md",
     "Cours/DIVERS/PC.md",
     "Sans titre.md",
-    "DIVERS/Some stuffs to buy.md",
-    "Pasted image 20210628144559.png",
-    "Pasted image 20210628144632.png",
-    "Pasted image 20210628144546.png",
-    "Pasted image 20210627222319.png"
+    "Pasted image 20210628144559.png"
   ]
 }
