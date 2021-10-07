@@ -33,13 +33,4 @@ You probably already know this AI because his one ofthe famous and also the cree
 A humanoid robot that use vehicule AI to remove boring human tasks."Its intended to be friendly "Imitate humain to learn through them how to do things ( cleaning / trash / etc...).
 
 	
-	
-
-	
-	
-	
-	
-	
-	
-	
 <h2 style="color:green">AGAINST</h2>
