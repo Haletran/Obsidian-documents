@@ -14,7 +14,9 @@ Irish History
 ## Exercise 
 # Listen to those Rebel Irish Songs to understand Irish History  
 
-## Songs of rebellion tell the story of Ireland’s troubled history with its more powerful neighbor, Britain, and capture and support the political dreams of the generations who sought an independent nation.The songs that we are dealing with here are just some of those that were sung during the time leading up to, and including, the Rebellion of 1916, the War of Independence and the Civil War.
+## Songs of rebellion tell the story of Ireland’s troubled history with its more powerful neighbor, Britain, and capture and support the political dreams of the generations who sought an independent nation.
+
+The songs that we are dealing with here are just some of those that were sung during the time leading up to, and including, the Rebellion of 1916, the War of Independence and the Civil War.
 
 ### *Amhrán na bhFiann* by Peadar Kearney
 
@@ -56,7 +58,7 @@ His execution inflamed nationalist public opinion in Ireland, largely because of
 
 <a href="https://www.youtube.com/watch?v=IiTrGDyGgOw">Music Video</a>
 
-## Links 
+## Sources of Information
 
 https://military.wikia.org/wiki/Kevin_Barry
 https://en.wikipedia.org/wiki/Foggy_Dew_(Irish_ballad)
