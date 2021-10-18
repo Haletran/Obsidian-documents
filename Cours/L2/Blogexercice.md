@@ -26,15 +26,21 @@ Liam Ring (Ó Rinn) was responsible for its first translation into Irish in late
 
 All three men responsible for the national anthem, Peadar Kearney, Patrick Heeney and Liam Ring (Ó Rinn), were from Dublin’s north inner city and lived wit
 
+<a href="https://www.youtube.com/watch?v=yTxlCR7B518">Music Video</a>
+
 ### *Easter Rising* by Peadar Kearney
 
 Kearney was a close friend of Michael Collins. When the Easter Rising of 1916 broke out, he was touring with the Abbey Theatre company in England. He returned to Dublin, and fought at Jacob’s biscuit factory. He escaped capture.
 
 After Michael Collins death in an ambush in 1922, he was disillusioned and never took part in politics again. He returned to his old job as house painter.
 
+<a href="https://www.youtube.com/watch?v=nvl-SEoB3Rs">Music Video</a>
+
 ### *The Foggy Dew* by Sinead O’Connor
 
 Could have went either way for the runners-up medal, but The Foggy Dew takes the spot. It is both a haunting and uplifting tune, which calls for Irishmen to fight for Ireland’s cause in 1916 rather than for the British Empire. Sang by the legend that is Luke Kelly, it is also beautifully played by Sinead O’Connor. 
+
+<a href="https://www.youtube.com/watch?v=7y-s9AiLp7Q">Music Video</a>
 
 ### "Song about the execution of Kevin Barry" by Paul Robeson
 
@@ -42,10 +48,13 @@ Kevin Gerard Barry (20 January 1902 – 1 November 1920) was an Irish republican
 
 His execution inflamed nationalist public opinion in Ireland, largely because of his age. The timing of the execution, only days after the death by hunger strike of Terence MacSwiney, the republican Lord Mayor of Cork, brought public opinion to a fever-pitch. His death attracted international attention, and attempts were made by U.S. and Vatican officials to secure a reprieve. His execution and MacSwiney's death precipitated an escalation in violence as the Irish War of Independence entered its bloodiest phase, and Barry became an Irish republican martyr. 
 
+<a href="https://www.youtube.com/watch?v=dfFopsFofz4">Music Video</a>
+
 ### *Take It Down From the Mast* by The Dubliners 
 
 "Take it Down from the Mast" is an Irish republican song originally written in 1923 by James Ryan, and published in Leslie Daiken's collection Good-Bye, Twilight: Songs of Struggle in Ireland in 1936, entitled "Lines Written by an Irish Soldier in 1923".Its lyrics refer to the Irish Civil War (1922–23).
 
+<a href="https://www.youtube.com/watch?v=IiTrGDyGgOw">Music Video</a>
 
 ## Links 
 
