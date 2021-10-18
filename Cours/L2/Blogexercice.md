@@ -6,22 +6,25 @@ BBC - History - 1916 Easter Rising - Rebel Songs
 ## Text Summary 
 
 Rebel Songs in Ireland 
+<br>
 Names :  like Frank Harte | Asquith and John Redmond | Charles O'Connell | Paul Robeson 
 | Michael Collins | Eamon De Valera
 Irish History 
-
-<hr>
 
 ## Exercise 
 # Listen to those Rebel Irish Songs to understand Irish History  
 
 ## Songs of rebellion tell the story of Ireland’s troubled history with its more powerful neighbor, Britain, and capture and support the political dreams of the generations who sought an independent nation.The songs that we are dealing with here are just some of those that were sung during the time leading up to, and including, the Rebellion of 1916, the War of Independence and the Civil War.
 
-<hr>
-
 ### *Amhrán na bhFiann* by Peadar Kearney
 
-The song was first published in Irish Freedom in 1912 and quickly became the most popular of the Irish Volunteer’s marching songs. In 1926 Amhrán na bhFiann / The Soldier’s Song was adopted as the National Anthem of Ireland, replacing the unofficial “God Save Ireland”.
+The national anthem, called ‘The Soldier's Song’/‘Amhrán na bhFiann’, was written by Peadar Kearney either early in 1910 or late in 1909 (according to an affidavit signed by him in 1926).
+
+The music, by Patrick Heeney, is understood to have been composed around the same time. The original English text of ‘The Soldier’s Song’ was first published in Bulmer Hobson’s Irish Freedom newspaper in 1912. ‘The Soldier's Song’ was not widely known until it was sung at the GPO during the Easter Rising of 1916.
+
+Liam Ring (Ó Rinn) was responsible for its first translation into Irish in late 1916 and it was published in the Army magazine, An tÓglach, on 3 November, 1923. On 12 July, 1926, the executive council of the Irish Free State decided to adopt the music of ‘The Soldier's Song’/‘Amhrán na bhFiann’ as the official national anthem.
+
+All three men responsible for the national anthem, Peadar Kearney, Patrick Heeney and Liam Ring (Ó Rinn), were from Dublin’s north inner city and lived wit
 
 ### *Easter Rising* by Peadar Kearney
 
@@ -51,3 +54,4 @@ https://en.wikipedia.org/wiki/Foggy_Dew_(Irish_ballad)
 https://en.wikipedia.org/wiki/Take_It_Down_from_the_Mast
 https://en.wikipedia.org/wiki/Amhr%C3%A1n_na_bhFiann
 https://www.meanwhileinireland.com/the-10-best-irish-rebel-songs-ranked/
+https://www.gov.ie/en/publication/52a628-the-national-anthem/
