@@ -2,7 +2,6 @@
 
 Transform this text text into a blog post
 BBC - History - 1916 Easter Rising - Rebel Songs 
-
 ## Text Summary 
 
 Rebel Songs in Ireland 
@@ -12,7 +11,7 @@ Names :  like Frank Harte | Asquith and John Redmond | Charles O'Connell | Paul 
 Irish History 
 
 <hr>
-
+         
 ## Exercise 
 # Listen to those Rebel Irish Songs to understand Irish History  
 
