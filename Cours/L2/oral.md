@@ -76,5 +76,62 @@ happy, apart from dockers
 
 ## Develop a will on their own  
 
+## Video 
 
+*How AI is transforming the creative industries | The Economist*
+- More creative as human again 
+- portraits imagine and created by AI (neural networks)
+- Numerous creative field
+- "take over your job" - low risk to lost your profession
+- change or new jobs with these new tools 
+- negative consequence - music (OpenAI) (Holly Herndon) 
+(Jay Z raps Shakespeare)
+- Independent identity that is creative
+- Reach a state of creativity much faster than we are as human
 
+*How humans and AI can work together to create better businesses | Sylvain Duranton*
+- Human Zero Mindset 
+- 19% companies are pioneering AI
+- They need help | Can't be alone  (Amazon tweet)
+- Living with AI (70%)
+- Create better businesses 
+
+*How we can build AI to help humans, not hurt us | Margaret Mitchell* 
+- computer vision 
+- helping computers how it's like to be humans
+- generate human like story with images
+- bias 
+- Stephen Hawking | Elon Musk warns us about AI 
+- The beneficial and the problematic
+- Smartphones | Digital Assistant | Roumba
+- Self driving car
+- Helps disable people
+- Analyze our face to determine if we are a terrorist or not
+- Fits well with humans
+- Helps and assists Human to make life equal for everyone
+- We choose what the AI fo the future will be
+
+*The danger of AI is weirder than you think | Janelle Shane*
+- New ice cream flavour (examples)
+- earthworm compare to us
+- doesn't have the context of what it is 
+- Figure out by himself / reach the goal 
+- take the shorter way instead of the logical way
+- 2016 example = Tesla autopilot crash 
+- really destructive (Youtube)
+
+*The Impact of AI - How humanity can use AI for it's own growth | Daniel Hulme | TEDxKaunas* 
+- Most hyped technology 
+- getting computers to do task instead of human beings
+- adaptive behavior 
+- micro-analysis framework
+- generate images / audio / movies / etc...
+- simulate political leader
+- social media platform 
+- challenge our own dogmatic view 
+- automates the majority of humans jobs
+- tech tycoon
+- Monitor a health (Neuralink)
+- AI smarter than ourselves (End of the world ?)
+
+  
