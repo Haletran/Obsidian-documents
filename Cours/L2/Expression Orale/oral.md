@@ -56,7 +56,7 @@ Rotterdam is building the most automated port
 in the world.
 Rotterdam is betting big on self-driving ships,
 smart containers and autonomous cranes. Everyone's
-happy, apart from dockers
+happy, apart rom dockers
 
 ## Automation 
 

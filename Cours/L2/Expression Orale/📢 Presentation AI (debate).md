@@ -2,10 +2,6 @@
 
 <h2 style="color:green"> FOR</h2>
 
-## Introduction
-
-
-
 
 ## Definition
 
