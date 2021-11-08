@@ -3,9 +3,9 @@
 Hello everyone, we are going to present you a little literary tour of Dublin that 
 we made, that will retrace the life of James Joyce and his books.
 
-<!--Who is James Joyce ?James Augustine Aloysius Joyce was an Irish novelist, short story writer, poet and literary critic. 
+<p style="color: #BBD0FF;">James Augustine Aloysius Joyce was an Irish novelist, short story writer, poet and literary critic. 
 He contributed to the modernist avant-garde movement and is regarded as one of the most influential 
-and important writers of the 20th century.-->
+and important writers of the 20th century.</p>
 
 First of all, you absolutely need to visit *The James Joyce Centre*. Situated in a
 Georgian Townhouse, this place is dedicated to promoting and understanding the life 
