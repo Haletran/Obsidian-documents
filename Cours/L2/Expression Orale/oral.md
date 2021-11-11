@@ -109,7 +109,7 @@ happy, apart rom dockers
 - Analyze our face to determine if we are a terrorist or not
 - Fits well with humans
 - Helps and assists Human to make life equal for everyone
-- We choose what the AI fo the future will be
+- We choose what the AI for the future will be
 
 *The danger of AI is weirder than you think | Janelle Shane*
 - New ice cream flavour (examples)
