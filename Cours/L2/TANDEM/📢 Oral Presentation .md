@@ -9,7 +9,7 @@ Good Morning Everyone, what I'm going to talk about today is artificial intellig
 I believe that everyone here knows already what artificial intelligence means because it's one of the most hyped technology
 of our century, and it represents 19% of companies pioneering.
 But in case you don't know, it's just computers doing things that 
-us human can do but significantly faster. They can mimic, perform and improve.
+us as human can do but significantly faster. They can mimic, perform and improve.
 
 Now that we've a definition in mind, you probably thinking 
 " Well I already know what that meant, I've seen movies." Yes,
@@ -24,7 +24,7 @@ During the Pandemic, many healthcare establishment decided to initiate the use o
 serves as an extension of the team, augmenting the capabilities of experts to be more efficient. The AI does not replace human expertise, as human feedback is a necessary part of the AI
 relationship. So it's one of the examples of the growing relationship between AI and humans as a way of becoming more efficient and save much more lives.
 A good example of this is the project *Neuralink* made by Elon Musk.
-It's basically a chipset that will be surgically inserted into your brain so that he can analyze every brain cells and potentially save people with paralysis for example because it can make new neural connection to a bionic implant. That can also monitor our health.
+It's basically a chipset that will be surgically inserted into your brain so that he can analyze every brain cells and potentially save people with paralysis for example because it can make new neural connection to a bionic implant. It can also monitor our health.
 
 AI can also be useful as a way to automate boring stuff as I said earlier, so for example in the harbours. In Rotterdam in the Netherlands, everything is autonomous. They are battery powered vehicules that are carrying and identifying containers then they will transport those containers from quayside to the container yard so that they can be deliver. They are still humans checking via cameras if everything is still working. 
 
@@ -45,7 +45,7 @@ Many Scientists and well know people, like *Elon Musk* (CEO / Engineer) or *Step
 
 ## Conclusion 
 
-To conclude, I will say that AI shows what humans are capable of creating, and I believe that this technology is the next big step of our evolution, the technology of tomorrow that will live in a relationship with us. And the future of AI is inspiring and promising. Well that's it for me, Thank you for your attention and if you have any questions, I'll gladly answers them ! 
+To conclude, I will say that AI shows what humans are capable of creating, and I believe that this technology is the next big step of our evolution, the technology of tomorrow that will live in a relationship with us. And the future of AI is inspiring and promising for our next generation. Well that's it for me, Thank you for your attention and if you have any questions, I'll gladly answers them ! 
 
 
 
