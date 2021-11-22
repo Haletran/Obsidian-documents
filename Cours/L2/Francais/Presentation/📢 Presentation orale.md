@@ -19,3 +19,9 @@ Pour commencer il faut deja définir ce qu'ai la surveillance généralisé :
   
 "Par rapport au passé, le système actuel de surveillance numérique des populations  a une particularité : celle de ne pas être une surveillance directe mais participative. Par  cette  formule  nous  désignons  une  surveillance  mutuelle  et  horizontale basée sur le dévoilement volontaire et agonistique des données personnelles par les utilisateurs eux-mêmes des services numériques, applications mobiles, plateformes Web. Elle s’accompagne d’une perte de contrôle sur les conditions d’usage des plateformes et services web sur lesquels les données personnelles 
 sont sauvegardées et mises en circulation. La surveillance est participative dans la mesure où elle est mutuelle, passant par une généralisation des mécanismes de modération par le bas et d’application communautaire de normes en vigueur sur les plateformes sociales. "
+
+
+<br>
+<br>
+
+**Copyright © 2021 Baptiste PASQUIER. All rights reserved**
