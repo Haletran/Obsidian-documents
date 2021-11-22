@@ -1,4 +1,4 @@
-# Blog Post 
+# 🇮🇪 Blog Post 
 
 Using the documents provided below and personal research, write a blog post, a newspaper article or a travel guide article about the Great Famine, focusing on artistic points of view (The Great Famine in literature, in art, in movies, in songs...). Three students will be asked to read aloud one of their articles each time and explain their structure.
 
@@ -12,14 +12,12 @@ Using the documents provided below and personal research, write a blog post, a n
 
 <hr>
 
-
 ## Listen to those songs to understand the Great Irish Famine
 
 
-### Introduction / sous-titre
-
 The Great Irish Famine represents one of the most terrible event in 
 Ireland History. Through those songs representing this era, you're gonna learn more about this irish period. 
+
 
 ### Historical Context
 
