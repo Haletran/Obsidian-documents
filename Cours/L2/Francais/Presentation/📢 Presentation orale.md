@@ -1,6 +1,6 @@
 # La Surveillance Généralisé en France
 ## Problématique : 
-- La surveillance généralisé signe t-elle la fin de la vie prive en France ? 
+- La surveillance généralisé signe t-elle la fin de la vie prive en France et dans le monde ? 
 ## PLAN
 
 1 - La presence omnisciente de la surveillance généralisé dans le monde
@@ -9,7 +9,7 @@
 
 ## Introduction 
 
-Bonjour a tous, le sujet de mon expose est la surveillance généralisé ou surveillance de masse dans un contexte francais. Mon expose est compose de 3 parties, d'abord je vous parlerai de la presence omnisciente de la surveillance généralisé dans le monde ensuite on se demandera que fait la France pour et contre celle-ci et finalement sa representation dans les medias francais. 
+Bonjour a tous, le sujet de mon expose est la surveillance généralisé ou surveillance de masse dans un contexte francais. Mon expose est compose de 3 parties, d'abord je vous parlerai de la presence omnisciente de la surveillance généralisé dans le monde ensuite on se demandera que fait la France pour et contre celle-ci et finalement comment elle est représenté dans les medias francais. 
 
 ## La presence omnisciente de la surveillance généralisé en France
 
@@ -28,9 +28,9 @@ Cette presence omnisciente, "Big brother" comme le disait Georges Orwell dans 19
 ## Que fait la France pour et contre cela ?
 
 
+## Sa representation dans les medias francais
 
 
-
-
+## Conclusion
 
 
