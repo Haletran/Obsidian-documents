@@ -10,7 +10,7 @@
 
 ## La presence omnisciente de la surveillance généralisé en France
 
-Pour commencer il faut deja définir ce qu'ai la surveillance généralisé : 
+Pour commencer il faut deja définir ce qu'est la surveillance généralisé : 
 - La surveillance généralisé ou la surveillance de masse, c'est l’espionnage des communications, des actions ou des déplacements d’une personne par un gouvernement, une entreprise, un groupe ou un particulier. Elle est parfois non cible c'est a dire quelle espionne les communications électroniques et téléphoniques d’un grand nombre de personne ou parfois d'un pays entier. Et si elle est cible, c'est quelle est fondée sur des soupçons plausibles d’actes répréhensibles, et autorisée par une autorité strictement indépendante, comme un juge par exemple.
 
 - NSA / GCHQ / Edward Snowden / GAFA / Droits Humains / "Cinq yeux"/ "rien a cacher" 
