@@ -51,12 +51,11 @@ Elle a aussi ete évoquer suite aux votes de la loi dont j'ai parle plus tôt, l
 
 -> Le sujet est donc traiter dans les medias de manière a alerter la population des potentielles problèmes que cette surveillance peut causer. 
 
-
 ## Conclusion
 
 Pour conclure ma presentation, je dirais que dans une époque comme la notre, donc avec l'avènement des reseaux sociaux et d'internet en general, la vie prive est de moins en moins un problème pour les gens, il ne la considère plus et ressorte l'argument du "je n'ai rien a cacher". Meme si les consciences commencent a évoluer, cette surveillance généralisé, est, je pense ce qui nous attends dans les prochaines années, car les gouvernements ont de plus en plus conscience du pouvoir qu'ils peuvent avoir pour contrôler une population et tout savoir sur nous. On a qu'a regarder le système chinois actuel, ou la surveillance des ces habitants est au coeur du système avec notamment des cameras a reconnaissance faciale et le système de points attribuer en fonction de tes actions. 
 
-Si vous êtes intéressé pas ces notions de surveillance de masse ou de vie prive, je peux vous conseiller le documentaire *Nothing to Hide* qui traite de la surveillance et de son acceptation par le grand public a travers l'argument "je n'ai rien a cacher" que j'ai évoqué tout a l'heure. Ou de la video de la chaine Youtube *Kurzgesagt* *Sain et sauf que..." qui parle plus de l'aspect surveillance dans le cadre du terrorisme. 
+Si vous êtes intéressé pas ces notions de surveillance de masse ou de vie prive, je peux vous conseiller le documentaire *Nothing to Hide* qui traite de la surveillance et de son acceptation par le grand public a travers l'argument "je n'ai rien a cacher" que j'ai évoqué tout a l'heure. Ou de la video de la chaine Youtube *Kurzgesagt* *Sain et sauf que..." qui parle plus de l'aspect surveillance dans le cadre du terrorisme et ces aspects. 
 
 "Yeah, and when you go to the toilet, you still lock the fucking door, don't you?"
 
