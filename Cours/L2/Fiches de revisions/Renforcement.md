@@ -1,5 +1,26 @@
 # Civilisation Renforcement
 
+
+## Cours
+
+History of African Americans began when 20 Africans were dropped in the English colony of Virginia in 1619. They worked as indentured servants who were bound to an employer for a limited number of years. The blacks were documented into slavery in Virginia in 1661 and in all the English colonies by 1750. During that time, they were considered an inferior race with heathen culture. They were forced to work in the farmlands of the New World. They were sold as merchandise by European traders on slave ships across the Atlantic Ocean to the West Indies. At least one-sixth of them died during the journey due to shock, disease and suicide.
+
+During the period of the 17th and 18th centuries, Africans and African Americans were forced to work as slaves on tobacco, rice, and indigo plantations of the southern coast. Legislation was passed by President Thomas Jefferson in 1807 to end the slave trade in America. However, it did nothing but boosted the domestic slave trade in the country. Meanwhile, there were still free black people making up one tenth of the entire African American population. But while in the South, they were subject to restrictions imposed on slaves, in the North, they were not allowed to vote, own any property and travel freely.
+
+Abolitionists in Britain and the United States in the 1840-1860 period developed large, complex propaganda campaigns against slavery. Among the free blacks in the North were emerging African American leaders in many states such as Philadelphia, Boston, and New York City. They initially held national and state conventions in early 1830. However, these people share different opinions on how to deal with slavery and discrimination. Thus, African Americans founded  Liberia in West Africa, which foreshadowed the development of Pan-African nationalism.
+According to the Missouri Compromise of 1820, there must be an equal number of slave and free states. But this was abrogated, leading to slavery in all American territory. In 1860, Abraham Lincoln was elected president of America on the antislavery platform of the new Republican party. At the beginning of 1861, a movement, known as the Civil War, was launched in an attempt to liberate all the country's slaves. In September 1862 he issued the Emancipation Proclamation, stating that all slaves were to be free.
+After the Civil War, nearly four million slaves were freed, gained their citizenship and the right to vote by the Thirteenth, Fourteenth and Fifteenth Amendments respectively. However, all of these new provisions were ignored, especially in the South. 
+During reconstruction, with leadership from educated African Americans from the North and abroad, they gradually wield political power in the South. However, it didn’t last long due to economic pressure and violent antiblack activities such as ones from Ku Klux Klan. The white supremacy once again dominated, leading to racial separation all over the Southern states. In the post-Reconstruction years, both African Americans in the South and the North struggled to find a job, so many of them decided to migrate westward.
+
+In 1900, nearly 8 million African Americans still lived in the South, however, due to economic depression, more African Americans moved Northwards and were then embroiled in WWI. During the war thousands of black officers were commissioned and many served abroad in labour battalions and service regiments.
+
+Due to the Great Depression of the 1930s, a large number of African Americans lost their jobs amidst inherent discrimination. African Americans were aided with low cost public housing, education and more jobs.
+
+The Civil Rights Movement was the persistent and deliberate step of African Americans in the 1940s and 1950s. The culmination of the Civil Rights Movement was in 1963 when King addressed the crowd of about 250,000 demonstrators gathered on the Mall from Lincoln Memorial. The march aided in securing the passage of the Civil Rights Act of 1964, which banned discrimination in voting, public accommodations, and employment.
+
+The dramatic political breakthrough came in the 2008 election, with the election of Barack Obama, the son of a black Kenyan father and a white American mother. 
+The post-civil rights era is notable for the New Great Migration, in which millions of African Americans have returned to the South, often to pursue increased economic opportunities in now-desegregated southern cities.
+
 ## Dates 
 
 <br>
