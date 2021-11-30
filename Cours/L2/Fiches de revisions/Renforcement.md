@@ -21,9 +21,32 @@ The Civil Rights Movement was the persistent and deliberate step of African Amer
 The dramatic political breakthrough came in the 2008 election, with the election of Barack Obama, the son of a black Kenyan father and a white American mother. 
 The post-civil rights era is notable for the New Great Migration, in which millions of African Americans have returned to the South, often to pursue increased economic opportunities in now-desegregated southern cities.
 
+
+#
+
+In 1963, Abraham Lincoln signed the Emancipation Proclamation which ended slavery in the United States. 
+The end of the Civil war in 1865 further reinforced the abolition of slavery. The 13th and 13th amendments to the United States Constitution signed in 1865 and 1868, guarantee equal rights for all American citizens regardless of their skin color.
+
+But even though the laws were clear that didn't change everyon's opinion of slavery and African Americans. So many white southerners have been taught from infancy that black Americans were not as smart or important than Whites Americans. 
+
+In 1866, a few white Southerners dressed in white sheets and pretended to be the ghosts of dead Confederate soldiers broke up a meeting of freed blacks.
+But what started out as a joke turned into a terrorist organization called the Ku Klux Klan the Klan became violent and went about
+intimidating whipping and killing blacks and white supporters of black equality. The Ku Klux Klan became popular with those who felt the white race was superior. They and other secret groups have reportedly killed 20,000 men women and children in the southern states African Americans were segregated. Meaning they were separated because of race even though the 13th and 14th amendments were clear on civil rights
+
+The southern states got around of the constitutional laws by passing the Jim Crow laws these laws and customs stated that it was
+Constitutional to give blacks separate but equal treatment the Jim Crow laws.
+
+Specified that African Americans were only allowed to sit in the back of buses blacks were not allowed to eat in all the same
+Restaurants as whites blacks had to use separate bathrooms
+Drinking fountains white and black children could not attend the same schools and compared to white schools black schools were underfunded
+
+
+Jim Crow laws = were a collection of state and local statutes that legalized racial segregation. Named after a Black minstrel show character, the laws—which existed for about 100 years, from the post-Civil War era until 1968—were meant to marginalize African Americans by denying them the right to vote, hold jobs, get an education or other opportunities. Those who attempted to defy Jim Crow laws often faced arrest, fines, jail sentences, violence and death.
 ## Dates 
 
 <br>
+
+**1865** = Abraham Lincoln | Passed by Congress on January 31, 1865, and ratified on December 6, 1865, the 13th amendment abolished slavery in the United States and provides that "Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.".
 
 **1909** = The NAACP or National Association for the Advancement of Colored People was established in 1909 and is America’s oldest and largest civil rights organization. It was formed in New York City by white and Black activists, partially in response to the ongoing violence against African Americans around the country.
 
