@@ -50,7 +50,7 @@ Ces Films :
 
 ### Mesures anti-corruption
 
-Pour la corruption e bas niveau : la politique d'une seule fenetre( les gens ont affaire avec un seul fonctionnaire); la transparence (publication des declarations des revenus)
+Pour la corruption de bas niveau : la politique d'une seule fenetre( les gens ont affaire avec un seul fonctionnaire); la transparence (publication des declarations des revenus)
 
 Depuis 2002, l'immunité parlementaire est moins protectrice avec une mise en place de campagnes anti-corruption. Augmentation des salaires de la police et  recherche de cadre qualifies. \
 => Beaucoup d'arrêts de fonctionnaires de haut niveau ( 25000 cas en 2006).
@@ -61,6 +61,49 @@ La corruption permet de faire fonctionner les systèmes politiques car  elle est
 - informations compromettantes sont utilises
 
 ## 2 - Droits d’hommes. La sécurité dans le système politique d’aujourd’hui
+
+La Russie adopte la convention européen des droits de l'Homme en 1998. Mais position contradictoire avec notamment 236 prisonniers politiques. 
+Qui sont ces prisonniers politiques : 
+- Activiste politiques; écologistes; journalistes; défenseur des droits de l'Homme; artistes; prêtres; scientifiques
+- Les raisons : organisations de manifestations non-autorisées; offenses des sentiments religieux; propagande de l'homosexualité auprès des mineurs' séparatisme; lois " d'agents étrangers"
+
+### Rapport de la societe memorial en 2019
+
+Adresses aux autorités européennes pour arrêter les expulsions des citoyens russes qui demandent l'asile politique. 
+Les deux groups qui ont beaucoup de problèmes sont les habitants de Tchétchénie et les témoins de Jehovah.
+
+La Tchétchénie : 
+- République complexe avec histoire complexe
+- Le regime de Ramzan Kadyrov : arrestations; tortures; executions
+- Des homosexuels : une centaine est évacué par les activistes LGBT
+- Les femmes : des mariages forces, pas le droit de propriété, d'hériter, restrictions de déplacements, des meurtres d'honneur, prostitution.
+
+En 2017, 27 personnes sont executes sans jugement et une centaine de personnes tortures tous les ans.
+
+Les témoins de Jehovah : 
+- en 2017 : interdiction comme une organisation extrémiste
+- "134" témoins sont emprisonnes
+
+**Ramzan Kadirov** : Ramzan Akhmadovitch Kadyrov, né le 5 octobre 1976, à Tsenteroï, est un homme d'État russe. Membre du parti Russie unie, il est Premier ministre de Tchétchénie par intérim du 17 novembre 2005 au 28 février 2006, après l'accident de voiture de son prédécesseur, Sergueï 
+
+### Les organismes de Sécurité de la Russie
+
+9 organismes de sécurité : 
+- СВР : services de renseignements 
+- ФСБ : service federal de sécurité
+- ГРУ : direction centrale de renseignement
+- МВД : ministère des affaires intérieurs
+- ФАПКИ : agence fédérale de com et de contrôle
+- ФСО : service fédérale de protection
+- ОСИН : service federal de gestion pénitentiaire
+- Ministère de la defense 
+- МУС : ministère des situations d'urgences
+
+### La place de Siloviki dans le système politique
+
+Plusieurs agents de services spéciaux. Leur influence est importante. Et leur role a augmente a l'époque de Poutine.
+Système de balance entre groupe d'influences = Siloviki
+
 
 ## 3 - Pouvoirs exécutifs et législatifs (Président, gouvernement, Parlement et système des partis)
  
@@ -228,13 +271,181 @@ Les armoiries de la Russie Les deux têtes de l'aigle représentent le territoir
 L’hymne : A. Aleksandrov et S. Mikhalkov
 
 
-## 4- Construction de l’identité nationale et ses difficultés. 
 
 ## 5- Crise démographique. Structure sociale. Place de la classe moyenne. La pauvreté.
 
-## 6 - Migrations et ses types en Russie contemporaine.
+<br>
+
+### Crise démographique en Russie 
+
+Pertes de populations importante, baisse de 1 millions de personnes
+Conscience de ce problème donc de 2013 a 2015 la population augmente.
+
+En 2019, perte de 200 000 personnes.
+La mortalité infantile est en baisse de 8% par ans donc les systèmes de santé évolue. Les migrations sont tres importantes car elle compense de 50/60%.
+
+### Causes du nombre de naissance
+
+- baisse du niveau de vie
+- tres peu d'aides sociales pour les familles, somme vraiment ridicule(80 roubles) a l'exception du capital maternel (10000 roubles).
+
+La femme russe est tres émancipé, avec le droit de contrôler ses biens apres le mariage, le droit de vote(1917).
+L'État russe a beaucoup profite de cet emancipation avec la double peine (travail en dehors de la maison).
+
+- Pas beaucoup de jardins d'enfants
+- Avec la crise, les problèmes de santé augmentent chez les hommes et les femmes
+- Peu de confiance en l'avenir
+- "la crise de la famille" : changements des relations familiales
+- emigration des femmes
+
+### Causes de la mortalité
+
+- Consommation d'alcool élevé (15 litres par an)
+- Consommation de drogues qui augmentent donc beaucoup d'overdoses et de tabagismes
+- Les accidents aussi de toutes sortes (criminalité)
+- les problemes écologiques peuvent influencer la santé
+- Maladies sexuellement transmissible : SIDA ou d'autres maladies infectieuses tel que la tuberculose
+
+### Le problème depopulation
+
+- Vieillissement de la population avec des consequences politiques et de santé 
+- La famille moyenne n'a qu'un seul enfant donc manque de moyens pour la retraite
+- Le manque de main d'oeuvre qualifié
+- Problemes possibles de sécurité
+
+### Crise démographique : Histoire
+
+Deuxième moitie du XXeme siecle mais s'aggrave dans les années 1990. L'esperance de vie diminue. Dans certaines regions, l'Homme ne dépasse les 56 ans. 
+
+### Structure sociale : classes et strates
+
+Nouvelle théorie et observation, definition d'une societe étatique.
+(domine par les groupes qui ne sont pas lies a l'économie de marche mais a l'État).
+La structure actuelle : 
+- classe etacratique
+- classe de fonctionnaires ordinaires
+- classe des hommes d'affaires
+- classe de salarie
+
+### Classe Moyenne Russe
+
+Quelqu'un qui gagne plus de 50000 roubles par mois avec maison et voiture. Qui peut se permettre des economies et qui occupent des postes importants. Représente 7% de la population. 
+A fait des etudes universitaires, voyagent et s'intéressent a la culture.
+Depuis 2014, la situation de la classe moyenne se degrade.
+
+### Revenus 
+
+Baisse des revenus globale avec l'inflation, les sanctions et les credits, augmentation des prix surtout au niveau du logement
+
+10% de la population payent la moitie de leurs salaires pour rembourser des credits. Beaucoup de pauvres et beaucoup de riches. 
+10% possèdent 30% des revenues.
+50% ne peut pas acheter des loisirs.
+
+### Pauvreté
+
+Ceux qui gagnent mins de 10000 roubles (150 euros)
+2017 : 19%
+80% des pauvres représentent les familles avec les pauvres. Ils ne peuvent pas sortir de cette situation et investir dans leurs avenirs = apathie. 
+
+### Migrations = une construction impériale singulière 
+
+La colonisation de l'espace est indissociable de la construction de la nation russe. Elle debut au Xe siecle, elle recommence apres la domination mongole donc la politique expansionists des tsars.
+- Ethnie et culture different au sein de la nation
+- Dynastie des Romaniv ont augmente le territoire russe selon des buts different (geostrategiques/defensifs/economiques/civilisationnels/religieux)
+
+### Migrations
+
+XXem siecle reproduit les tendances mondiales : hybridité domine la vie; idée de "melting pot".
+Beaucoup de types de migrations :
+- le retour des peuples déplacés
+-  le retour des gens dans leurs républiques d'origine
+-  migration intérieure
+-  emigration et immigration 
+-  migration économique
+-  migration illégale
+-  urbanisation
+-  réfugies
+
+### Le retour des peuples déplacés
+
+Les peuples déplacés a l'époque de Staline. 
+Les allemands de la Volga déplacés vers l'Asie centrale (le retour vers le centre et vers l'Allemagne).
+
+-Les Tatars de Crimée ainsi que les peuples du Caucase
+
+### Migration Intérieure
+
+Le depart de Russes des républiques de l'ex URSS vers la Federation de Russie commence. Dans les années 1990, 8 millions de Russes sont rentres en Russie pour des raisons politiques et économiques. 
+
+Néanmoins, 25 millions de Russes sont restes dans les anciennes républiques. Ces migrations ont provoque des pertes de population et de la stabilité économique. 
+
+### Migration Économique
+
+Beaucoup d'aides sociales qui attirait donc beaucoup de gens sont rentres dans les regions du centre (autour de Moscou).
+En 1994, encore perdu ont quitte la Sibérie. L'extreme Orient a perdu 11% de sa population.
+
+### Migration illégale
+
+2 mln d'immigres de ce type restent en Russie en 2018. 
+Pousse du racisme dans la societe actuelle. Forme du contrôle du pouvoir en Russie avec la corruption et les pots de vin.
+La region de Moscou est la plus attractive (salaires et travails).
+
+### Migration entre la ville et la campagne
+### Les Réfugies
+
+### Migration Extérieure
+
+<br>
 
 ## 7 - Santé (système de santé, consommation de drogues, SIDA), logement (la crise de logement soviétique, les SDF d’aujourd’hui)
+
+
+### La Santé comme problème social
+
+Apres fin époque soviétique, il a  fallu trouver un autre système. Deux approches : gratuite / payante
+
+=> choix complexe car le système soviétique était tres coûteux. 
+
+Revenu minimum garantit mais les dépenses sont moins importantes.
+Poutine choisit 4 projets nationaux : santé; enseignement;agriculture et logement.
+
+Accumulation de problemes dans des spheres de l'État.
+Le système soviétique de protection de santé est relativement pauvre car represent 3,6% PIB.
+A l'époque post-soviétique, les revenues sont en baisse, manque de medicaments, de fond donc hausse des maladies et de la mortalité. 
+- Les hôpitaux commencent a vieillir, les employés se sentent abandonnes. C'est uniquement apres les années 2000 que on commence a se préoccuper de la santé de la populations.
+- Les maladies infectieuses réapparaissent : tuberculose,cholera. etc...
+  
+### Consommation de drogues
+
+Elle apparaît dans les années 70 mais reste tres rare. Apres la perestroika, le nombre augmente rapidement. En 2004-2005, dépénalisation de la consommation.(abandon par la suite)
+
+- 90% des jeunes (11-24)
+- un des plus grands marche d'heroine du monde
+- 5/15% sont guéris via les centres mise en place 
+
+### SIDA
+
+1991 -  800000 nouveaux cas par an
+4eme place dans le monde et 1ere place en Europe
+En 2018, 1 mln de personnes sont malades.(0,7% de la pop)
+ 
+### Logements et les gens sans domicile
+
+La crise de logement date de l'époque soviétique, mais on constate aujourd'hui des nouveaux problemes. 
+En 1994, 8% des moscovites vivent dans des appartements communautaires ( solution d'urgence/ plusieurs familles).
+
+- SDF : n'existait pas auparavant car considéré comme crime, mais en 1991  cela a ete dépénalisée.
+- Beaucoup de difficultés a revenir a une vie normale car ils n'ont pas de papiers, pas de travail et sont souvent malade
+  
+=> Les concernés : 
+- 30/35% conflits familiaux
+- 20% voyagent d'une ville a l'autre
+- 20% victimes d'escroqueries
+- 15% orphelins
+- 12% anciens détenus
+
+Il est possible de revenir a une vie normale en 6 mois; ou sinon apres 12 mois ils se plient au circonstances et s'adaptent.
+Mais pas de contact avec d'autres couches sociale,ils sont tres isoles. 
 
 # Russe Civilisation (Zygadlo) 
 
