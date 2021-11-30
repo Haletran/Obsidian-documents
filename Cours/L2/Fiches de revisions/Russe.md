@@ -15,7 +15,50 @@ administrative : népotisme / copinage / favoritisme
 
 ### Les années Eltsine :
 
+La privatisation est menée de manière illégale ce qui cause un enrichissement des oligarques russes et l'appauvrissement d'une grande partie de la population.
 
+Aujourd'hui, il y a moins de 210 000 milliardaires, 28 a St Pétersbourg et 12 000 dans la region de Krasnodar.
+L'État permettait en quelque sorte le detournement (ex: les salaires par 50 banques proches du pouvoir;avantages fiscaux).
+
+Le president est au centre des conflits entre les oligarques. (Eltsine  utilise les fonds de l'État pour financer ces elections).
+
+### Groupes d'influence : 
+
+Leurs entreprises sont accumules de manière hasardeuse et sont liées a la privatisation grace a des liens politiques.
+Ils sont en concurrence pour : 
+- les subsides, les avantages fiscaux, les taxes particulières 
+- les plus riches sont liées aux extractions de pétrole,gaz,métaux.
+- beaucoup de problème a se moderniser
+- ils travaillent dans l'économie "grise" grace a leurs contacts avec les autorités (milliers)
+
+### Donnees internationales
+
+1997 : 49eme place - 2006 : 126 - 2016 : 235
+En 2005, on compte pas moins de 4,6 milliards de pots de vin et
+en 5,8 milliards. 
+1/2 des pots de vin viennent de l'État, les hôpitaux, la police routière et l'enseignement supérieur.
+
+### Projets politiques contre la corruption : Alexandre Navalny 
+
+Alexeï Anatolievitch Navalny né le 4 juin 1976 dans l'oblast de Moscou, est un avocat et militant politique russ, il est le fondateur de la Fondation anti-corruption (FBK), il est connu pour son opposition au président Vladimir Poutine.
+
+Il a voulu dénoncer la corruption dans les hautes-spheres notamment Vladimir Poutine et Dimitri Medvedev (Fuite des fonds a l'étranger)
+
+Ces Films : 
+- Ne l'appelez pas Dimon (affaires de corruption liées au Président du gouvernement de la Fédération de Russie Dmitri Medvedev sorti en 2017)
+- Le palais de Poutine (confirme l’existence, au bord de la mer Noire, d’un « État dans l’État », d’une superficie équivalente à « trente-neuf principautés de Monaco ».)
+
+### Mesures anti-corruption
+
+Pour la corruption e bas niveau : la politique d'une seule fenetre( les gens ont affaire avec un seul fonctionnaire); la transparence (publication des declarations des revenus)
+
+Depuis 2002, l'immunité parlementaire est moins protectrice avec une mise en place de campagnes anti-corruption. Augmentation des salaires de la police et  recherche de cadre qualifies. \
+=> Beaucoup d'arrêts de fonctionnaires de haut niveau ( 25000 cas en 2006).
+
+Mais les reformes ont une faible efficacité.
+
+La corruption permet de faire fonctionner les systèmes politiques car  elle est tres facilement contrôlable car tout le monde est corrompu, il est facile de commencer un procès
+- informations compromettantes sont utilises
 
 ## 2 - Droits d’hommes. La sécurité dans le système politique d’aujourd’hui
 
