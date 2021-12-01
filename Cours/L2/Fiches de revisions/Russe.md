@@ -215,6 +215,8 @@ Des fraudes électorales du côté du pouvoir / La crise des partis en Europe.
 - Le pouvoir est assez important, c’est un parlement professionnel,  mais dominé par la parti du pouvoir depuis trop 
 longtemps.
 
+## 4 -Construction de l’identité nationale et ses difficultés.
+
 ### La construction de l’identité nationale
 
 - Les Etats nationaux à l’ouest de l’Europe (France, Italie...), mais à l’est : des empires.
@@ -346,6 +348,8 @@ Baisse des revenus globale avec l'inflation, les sanctions et les credits, augme
 Ceux qui gagnent mins de 10000 roubles (150 euros)
 2017 : 19%
 80% des pauvres représentent les familles avec les pauvres. Ils ne peuvent pas sortir de cette situation et investir dans leurs avenirs = apathie. 
+
+### 6- Migrations et ses types en Russie contemporaine.
 
 ### Migrations = une construction impériale singulière 
 
