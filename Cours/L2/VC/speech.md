@@ -1,26 +1,3 @@
-# Speech Delivery 
-
-## Content 
-
-Subject = Online Privacy 
-Argument personnel/ blague qui permet d'introduire le sujet 
-Contenu avec questions ouvertes
-
-1- Capter l'attention l'attention des les premiers mots
-2- Générer un investissement émotionnel 
-3- Vous laisser avec un message memorable
-
-Devenir un simple conduit pour faire vivre les idées 
-Ne pas choisir un sujet spécifique ni trop ouvert
-Spécifique -> General :
-Histoire personnelle - anecdote révélatrice - conclusion generale a la fin 
-fil conducteur (en 15 mots), au debut de la presentation
-imbriquer ensemble
-emmener le public dans un voyage et atteindre l'arrivé 
-éliminez ce qui ne rentre pas dans le fil conducteur
-
-La vie privee est souvent peu considere par les gens, mais pourtant elle est importante.
-
 ## Speech
 
 Why should I care about privacy ? That's the question that I've ask myself when I've watched a long time ago a Youtube Video about why online privacy matters. After seeing this video I had this argument that many people use, "I have nothing to hide". And then I asked myself : "Baptiste if you have nothing to hide why do you wear clothes, why do you close doors, why do you use passwords, why do you have curtains ? That's when I've realized that I do have something to hide my privacy.
