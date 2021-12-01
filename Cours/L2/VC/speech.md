@@ -32,9 +32,12 @@ For example in 2013, Edward Snowden revealed numerous global surveillance progra
 
 On a personal level, simple private bits of our lives which we take for granted are being collected and stored indefinitely. Things like : entering your bank account password, your browsing history or even where are you going for vacations. Whether it's a moment of indiscretion, or just an unfortunate circumstance is irrelevant, imagine that information in the hands of a criminal or your boss. 
 
+To take me as an example, very recently, I've got my banking information stolen a couple of time. This is my private information, I don't share that sort of information with many people at all. But it turns out that I got hacked or I had my "data collected" from an organization, and my account was on their website.
+
 If people lose their right to privacy, if they live under constant surveillance, or perceived threat of constant surveillance, then they have lost every other right they have. I think the right to privacy is fundamental in our society.
 
-So What can you do protect your privacy ? Keeping your privacy isn't an absolute, all-or-nothing, venture. There are various compromises we make many times a day, when we are willing to give up some privacy in exchange for convenience, like using google services. Other times, we don't even realize that we have compromised our privacy. But the point is that we must retain some control over how information about us is collected and used. Privacy is a human right which is intimately linked with our many notions of freedom. Like any Human Right, those who would abuse it need to held accountable for their actions. To this end, there are some measures you can take immediately to help preserve privacy: 
+So What can you do protect your privacy ? Keeping your privacy isn't an absolute, all-or-nothing, venture. There are various compromises we make many times a day, when we are willing to give up some privacy in exchange for convenience, like using google services that are very easy to use, very convenient, and free. But you know this proverb telling "if this is free then you are the products". An by using those services, we don't even realize that we have compromised our privacy.
+ But the point is that we must retain some control over how information about us is collected and used. Privacy is a human right which is intimately linked with our many notions of freedom. Like any Human Right, those who would abuse it need to held accountable for their actions. To this end, there are some measures you can take immediately to help preserve privacy: 
 - avoid big IT services like Facebook,Google,Yahoo,Skype and others
 - Use open-source software
 - Be aware of this problem and educate your friends and family.
