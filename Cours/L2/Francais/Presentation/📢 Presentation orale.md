@@ -61,10 +61,6 @@ Pour conclure ma présentation, dans une époque comme la nôtre, avec l'avènem
 Le documentaire ARTE : "Il y a une réelle possibilité d'abus de pouvoir des gouvernements" (interview de Martin Drago, le juriste de l'association la Quadrature du Net).
 
 
-"Yeah, and when you go to the toilet, you still lock the fucking door, don't you?"
-
-> Through the stories of five protagonists, the documentary questions the threats that mass surveillance can pose to our democracies and for people who might think they are not concerned. The main character of the movie is a young artist in Berlin, who tends to think that he has “nothing to hide”. Mister X accepted to be tracked over 30 days on his cell phone and laptop. His data was then given to a data analyst and a tracker specialist. The experiment needed a month of preparation, a month of shooting and a month of analysis. The challenge was to see how much the two hackers could learn about Mister X through his digital activity (WhatsApp, Facebook, GPS location...) focusing only on his metadata (without looking into the contents of his communications). CC/license.
-
 ## Poème 
 
 
