@@ -9,53 +9,57 @@
 
 ## Introduction 
 
-Bonjour a tous, le sujet de mon expose est la surveillance généralisé ou surveillance de masse dans un contexte francais. Mon expose est compose de 3 parties, d'abord je vous parlerai de la presence omnisciente de la surveillance généralisé dans le monde ensuite on se demandera que fait la France pour et contre celle-ci et finalement comment elle est représenté dans les medias francais. 
+Bonjour à tous, le sujet de mon expose est la surveillance généralisé ou surveillance de masse dans un contexte français. Mon expose est compose de 3 parties, d'abord je vous parlerai de la présence omnisciente de la surveillance généralisé dans le monde ensuite on se demandera que fait la France pour et contre celle-ci et finalement comment elle est représentée dans les médias français. 
 
-## La presence omnisciente de la surveillance généralisé en France
+## La présence omnisciente de la surveillance généralisé en France
 
-Pour commencer, il faut d'abord définir ce qu'est la surveillance généralisé, d'apres le site de l'association Amnesty International:
+Pour commencer, il faut d'abord définir ce qu'est la surveillance généralisé, d'après le site de l'association Amnesty International :
 
-La surveillance généralisé ou la surveillance de masse, c'est l'espionage des communications, des actions ou des déplacements d'une ou plusieurs personnes par un gouvernement, un groupe ou un particulier. 
+La surveillance généralisé ou la surveillance de masse, c'est l'espionnage des communications, des actions ou des déplacements d'une ou plusieurs personnes par un gouvernement, un groupe ou un particulier. 
 
-Cette surveillance peut-être non cible c'est a dire que les communications électroniques et téléphoniques d'un grand nombre de personnes ou parfois d'un pays entier sont surveilles par des organismes de surveillance de masse mise en place par des agences de renseignements situe partout dans le monde tel que la CIA / NSA. Ces organismes qui avait ete notamment révélé par Edward Snowden en 2013. 
+Cette surveillance peut-être non-cible c'est à dire que les communications électroniques et téléphoniques (email/messages/appels) d'un grand nombre de personnes ou parfois d'un pays entier sont surveilles par des organismes de surveillance de masse mise en place par des agences de renseignements situe partout dans le monde tel que la CIA (Central Intelligence Agency) / NSA (National Security Agency) pour citer les plus connu. Ces organismes qui avaient été notamment révélé par Edward Snowden en 2013. 
 
-Elle peut aussi être cible, car si elle est fonde sur des soupcons d'actes malveillants ou reprehensible par la loi et autorise par une autorité indépendante. Un exemple de ce ciblage est la recherche de terroriste. 
+Elle peut aussi être cible, car si elle est fondée sur des soupçons d'actes malveillants ou répréhensible par la loi et autorise par une autorité indépendante. Un exemple de ce ciblage est la recherche de terroriste. 
 
-On ne peut pas évoquer la surveillance généralisé sans parler des GAFA (GAFAM) (Google/Amazon/Facebook/Apple/Microsoft). 5 entreprises les plus influentes au monde mais aussi celle qui respecte le moins la notion de vie prive. Ces géants d'Internet se servent des informations personnels fournies par les utilisateurs pour les vendre a des gouvernements ou a des entreprises. Facebook(Meta) notamment en 2018, a reveler avoir vendu les donnees de 50 000 000 utilisateurs a une societe prive de communication stratégique nommée "Cambridge Analytica".
+On ne peut pas évoquer la surveillance généralisé sans parler des GAFA (GAFAM) (Google/Amazon/Facebook/Apple/Microsoft). 5 entreprises les plus influentes au monde mais aussi celle qui respecte le moins la notion de vie prive. Ces géants d'Internet se servent des informations personnels fournies par les utilisateurs pour les vendre à des gouvernements ou à des entreprises. Facebook (Meta) notamment en 2018, a révélé avoir vendu les données de 50 000 000 utilisateurs a une société prive de communication stratégique nommée "Cambridge Analytica".
 
-Cette presence omnisciente, "Big brother" comme le disait Georges Orwell dans 1984, est de plus présente si bien que les populations oublient cette notion de vie privée. Cette surveillance des populations n'est donc plus directive mais participative, on accepte de léguer une partie de nous meme a une entreprise ou un gouvernement en l'échange d'un service, un peu comme léguer son ame au diable meme si cela est un peu fort. On est donc en droit de se demander si des pays tel que la France ont conscience de cela, et qu'est qu'ils font pour et contre. Et ce dont ma seconde partie va aborder.
+Cette présence omnisciente, "Big Brother" comme le disait Georges Orwell dans 1984, est de plus présente si bien que les populations oublient cette notion de vie privée qui est pourtant importante . Cette surveillance des populations n'est donc plus directive mais participative, on accepte de léguer une partie de nous-même a une entreprise ou un gouvernement en l'échange d'un service, un peu comme léguer son âme au diable même si cela est un peu fort. On est donc en droit de se demander si des pays tel que la France, ont conscience de cela, et qu'est qu'ils font pour et contre. Et ce dont ma seconde partie va aborder.
 
 ## Que fait la France pour et contre cela ?
 
-La France comme tout autre pays possède elle aussi des agences de renseignements tel que la DGSE (direction generale de la sécurité extérieure - acronyme), la DGSI(la direction generale de la sécurité intérieure - acronyme) et la CNCTR(commission nationale de contrôle des techniques de renseignements - sigle); agences directement lie a cette surveillance de masse.
+La France comme tout autre pays possède elle aussi des agences de renseignements tel que la DGSE (direction générale de la sécurité extérieure - acronyme), la DGSI (la direction générale de la sécurité intérieure - acronyme) et la CNCTR (commission nationale de contrôle des techniques de renseignements - sigle) ; agences directement lie à cette surveillance de masse.
 
-Donc la surveillance et la collecte est justifiée en France par des questions de sécurité nationale du principalement a la montée du  terrorisme dans le monde. Notamment avec l'instauration de loi tel que celle du 30 juillet 2021, loi relative a la prevention d'actes de terrorisme et de renseignement, qui permet de surveiller la population grace a des algorithmes d'Intelligence Artificielle.
+Des agences qui justifie ces collectes de donnees et cette surveillance par des questions de sécurité nationale du principalement à la montée du terrorisme dans le monde. Notamment avec l'instauration de loi tel que celle du 30 juillet 2021, loi relative à la prévention d'actes de terrorisme et de renseignement, qui donne tous les droits a l'état Francais de surveiller la population grâce à des algorithmes d'Intelligence Artificielle.
 
-Ainsi les organisations comme celle que j'ai cite et aussi les fournisseurs d'accès a Internet tel que Orange ou SFR utilisent les donnees des gens afin de traquer les operations qui semblent suspectes ou lies a du terrorisme. 
+Ainsi les organisations comme celle que j'ai cite et aussi les fournisseurs d'accès à Internet tel que Orange ou SFR utilisent les données des gens afin de traquer les opérations qui semblent suspectes ou lies a du terrorisme. 
 
-Mais la France a aussi mise en place des systèmes de protections de donnees notamment lie a Internet, tel que la CNIL (la commission internationale de l'informatique et des libertés - acronyme - independent) qui est charger de veiller a la protection des donnees personnelles contenues dans les fichiers et traitements informatiques ou papiers, public ou prive.  
+Mais la France a aussi mise en place des systèmes de protections de données notamment lie à Internet, tel que la CNIL (la commission internationale de l'informatique et des libertés - acronyme - indépendant) qui est chargée de veiller à la protection des données personnelles contenues dans les fichiers et traitements informatiques ou papiers, pour des affaires public ou prive.  
 
-Il y a aussi le RGPD (règlement général de protection des données), c'est un texte réglementaire européen qui encadre le traitement des donnees sur tout le territoire de UE.
+Il y a aussi le RGPD (règlement général de protection des données), c'est un texte réglementaire européen qui encadre le traitement des données sur tout le territoire de UE.
 
--> La CNIL et le RGPD ont ete conçu pour veiller a ce que l'informatique ne porte pas atteinte aux libertés, aux droits, a l'identité humaine ou a la vie privée. Donc renforcer les droits des personnes et les responsabiliser concernant leurs donnees personnelles.  
+-> La CNIL et le RGPD ont été conçu pour veiller à ce que l'informatique ne porte pas atteinte aux libertés, aux droits, a l'identité humaine ou à la vie privée. Donc renforcer les droits des personnes et les responsabiliser concernant leurs données personnelles.  
 
-On constate donc une evolution de cette surveillance dans le bon sens, mais pour l'instant l'État Francais va plutôt avoir recours a ce type de surveillance de masse sur une base permanente meme si cela peut aller a l'encontre des institutions européennes. 
+Des associations a but non lucratif , sont aussi présentes sur le territoire francais tel que *Amnesty International* ou *La Quadrature du NEet*. Associations qui promeuvent et défendent les libertés fondamentales sur Internet, et luttent contre la censure et la surveillance par des États ou des entreprises privées. 
 
-## Sa representation dans les medias francais
+On constate donc une évolution de cette surveillance en France, aussi bien dans le bon sens que dans le mauvais. Mais pour l'instant l'État Français va plutôt avoir recours à ce type de surveillance de masse sur une base permanente même si cela peut aller à l'encontre des lois instaurer par les institutions européennes mais aussi a sa propre maxime ou devise qui est je le rappelle "Liberté, Egalite, Fraternité". 
 
-On retrouve le sujet de surveillance généralise ou surveillance de masse dans énormément de medias, souvent des medias complotistes(Peuple Libre / Marianne / PaperJam), mais aussi des grands noms du journalisme tel que le Figaro ou FranceInter notamment. 
+## Sa représentation dans les médias français
 
-On voit ce sujet émerger suite a la crise du COVID-19 avec l'instauration du Pass Sanitaire ainsi que du vaccin. Avec des arguments tel que "votre vie privée n'est plus respecter meme si il y a des organismes mise en place pour la protéger" ou "vos donnees peuvent être exploiter afin de prévenir des risques sécuritaires et sanitaires". 
+On retrouve le sujet de surveillance généralise ou surveillance de masse dans énormément de médias, souvent des médias complotistes ou des medias
+d'extreme droite (Peuple Libre / Marianne / Paper Jam), mais aussi des grands noms du journalisme tel que le Figaro ou France-Inter notamment. 
 
-Elle a aussi ete évoquer suite aux votes de la loi dont j'ai parle plus tôt, la loi de renseignement et prevention d'actes terroriste, évoquant des arguments tel que "la fin de la vie privée en France" ou "La France se transforme t-elle en un système de surveillance chinois". 
+On voit ce sujet émerger à la suite de la crise du COVID-19 avec l'instauration du Passe Sanitaire ainsi que du vaccin. Avec des arguments tel que "le pass sanitaire impose la surveillance généralisé des corps" (Une du Figaro) ou "vos données peuvent être exploiter afin de prévenir des risques sécuritaires et sanitaires". Des unes qui expriment qui représentent des idées générales sur ce sujet, car meme pas besoin de lire l'article, tout est resume dans le titre. 
 
--> Le sujet est donc traiter dans les medias de manière a alerter la population des potentielles problèmes que cette surveillance peut causer. 
+Elle a aussi été évoquer suite aux votes de la loi dont j'ai parlé plus tôt, la loi de renseignement et prévention d'actes terroriste, évoquant des arguments tel que "la fin de la vie privée en France" ou "La France se transforme-t-elle en un système de surveillance chinois ?". 
+
+-> Le sujet est donc traité dans les médias de manière à alerter les populations des potentielles problèmes que cette surveillance peut causer. 
+En exprimant des idées d'abus de vie privée et de non-consentement. 
 
 ## Conclusion
 
-Pour conclure ma presentation, je dirais que dans une époque comme la notre, donc avec l'avènement des reseaux sociaux et d'internet en general, la vie prive est de moins en moins un problème pour les gens, il ne la considère plus et ressorte l'argument du "je n'ai rien a cacher". Meme si les consciences commencent a évoluer, cette surveillance généralisé, est, je pense ce qui nous attends dans les prochaines années, car les gouvernements ont de plus en plus conscience du pouvoir qu'ils peuvent avoir pour contrôler une population et tout savoir sur nous. On a qu'a regarder le système chinois actuel, ou la surveillance des ces habitants est au coeur du système avec notamment des cameras a reconnaissance faciale et le système de points attribuer en fonction de tes actions. 
+Pour conclure ma présentation, dans une époque comme la nôtre, avec l'avènement des réseaux sociaux et d'internet en général, la vie prive est de moins en moins un problème pour les gens, il ne la considère plus et ressorte l'argument du "je n'ai rien à cacher". Même si les consciences commencent à évoluer, cette surveillance généralisé, est, je pense ce qui nous attends dans les prochaines années, car les gouvernements ont de plus en plus conscience du pouvoir qu'ils peuvent avoir pour contrôler une population et tout savoir sur nous. On a qu'à regarder le système chinois actuel, ou la surveillance des ces habitants est au cœur du système avec notamment des cameras à reconnaissance faciale et le système de points attribuer en fonction de tes actions. 
+Le documentaire ARTE : "Il y a une réelle possibilité d'abus de pouvoir des gouvernements" (interview de Martin Drago, le juriste de l'association la Quadrature du Net).
 
-Si vous êtes intéressé pas ces notions de surveillance de masse ou de vie prive, je peux vous conseiller le documentaire *Nothing to Hide* qui traite de la surveillance et de son acceptation par le grand public a travers l'argument "je n'ai rien a cacher" que j'ai évoqué tout a l'heure. Ou de la video de la chaine Youtube *Kurzgesagt* *Sain et sauf que..." qui parle plus de l'aspect surveillance dans le cadre du terrorisme et ces aspects. 
 
 "Yeah, and when you go to the toilet, you still lock the fucking door, don't you?"
 
