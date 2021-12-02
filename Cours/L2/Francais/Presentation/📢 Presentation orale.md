@@ -60,3 +60,85 @@ Si vous êtes intéressé pas ces notions de surveillance de masse ou de vie pri
 "Yeah, and when you go to the toilet, you still lock the fucking door, don't you?"
 
 > Through the stories of five protagonists, the documentary questions the threats that mass surveillance can pose to our democracies and for people who might think they are not concerned. The main character of the movie is a young artist in Berlin, who tends to think that he has “nothing to hide”. Mister X accepted to be tracked over 30 days on his cell phone and laptop. His data was then given to a data analyst and a tracker specialist. The experiment needed a month of preparation, a month of shooting and a month of analysis. The challenge was to see how much the two hackers could learn about Mister X through his digital activity (WhatsApp, Facebook, GPS location...) focusing only on his metadata (without looking into the contents of his communications). CC/license.
+
+## Poème 
+
+
+1 /
+
+À Mademoiselle A. H.
+
+Le silence est l'âme des choses
+Qui veulent garder leur secret.
+Il s'en va quand le jour paraît,
+Et revient dans les couchants roses.
+
+Il guérit des longues névroses,
+De la rancune et du regret.
+Le silence est l'âme des choses
+Qui veulent garder leur secret.
+
+À tous les parterres de roses
+Il préfère un coin de forêt
+Où la lune au rayon discret
+Frémit dans les arbres moroses :
+Le silence est l'âme des choses.
+
+Maurice Rollinat, Les névroses
+
+
+2/ 
+
+Souvent, pour s’amuser, les hommes d’équipage
+Prennent des albatros, vastes oiseaux des mers,
+Qui suivent, indolents compagnons de voyage,
+Le navire glissant sur les gouffres amers.
+
+A peine les ont-ils déposés sur les planches,
+Que ces rois de l’azur, maladroits et honteux,
+Laissent piteusement leurs grandes ailes blanches
+Comme des avirons traîner à côté d’eux.
+
+Ce voyageur ailé, comme il est gauche et veule !
+Lui, naguère si beau, qu’il est comique et laid !
+L’un agace son bec avec un brûle-gueule,
+L’autre mime, en boitant, l’infirme qui volait !
+
+Le Poète est semblable au prince des nuées
+Qui hante la tempête et se rit de l’archer ;
+Exilé sur le sol au milieu des huées,
+Ses ailes de géant l’empêchent de marcher.
+
+Charles Baudelaire, Les fleurs du mal
+
+3/ 
+
+C'est une chose étrange à la fin que le monde
+Un jour je m'en irai sans en avoir tout dit
+Ces moments de bonheur ces midis d'incendie
+La nuit immense et noire aux déchirures blondes
+
+Rien n'est si précieux peut-être qu'on le croit
+D'autres viennent Ils ont le cœur que j'ai moi-même
+Ils savent toucher l'herbe et dire je vous aime
+Et rêver dans le soir où s'éteignent les voix
+
+Il y aura toujours un couple frémissant
+Pour qui ce matin-là sera l'aube première
+Il y aura toujours l'eau le vent la lumière
+Rien ne passe après tout si ce n'est le passant
+
+C'est une chose au fond que je ne puis comprendre
+Cette peur de mourir que les gens ont en eux
+Comme si ce n'était pas assez merveilleux
+Que le ciel un moment nous ait paru si tendre
+
+Malgré tout je vous dis que cette vie fut telle
+Qu'à qui voudra m'entendre à qui je parle ici
+N'ayant plus sur la lèvre un seul mot que merci
+Je dirai malgré tout que cette vie fut belle
+
+Louis Aragon, extrait de Les yeux et la mémoire, chant II: Que la vie en vaut la peine
+
+
+
