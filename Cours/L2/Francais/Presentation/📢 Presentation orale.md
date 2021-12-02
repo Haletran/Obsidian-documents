@@ -17,7 +17,7 @@ Pour commencer, il faut d'abord définir ce qu'est la surveillance généralisé
 
 La surveillance généralisé ou la surveillance de masse, c'est l'espionage des communications, des actions ou des déplacements d'une ou plusieurs personnes par un gouvernement, un groupe ou un particulier. 
 
-Cette surveillance peut-être non cible c'est a dire que les communications électroniques et téléphoniques d'un grand nombre de personnes ou parfois d'un pays entier sont surveilles. On pourrait prendre pour exemple les revelations d'Edward Snowden en 2013 qui dévoilait l'existence de programmes de surveillance de masse mise en place par des agences de renseignements situes partout dans le monde tel que la CIA / NSA. 
+Cette surveillance peut-être non cible c'est a dire que les communications électroniques et téléphoniques d'un grand nombre de personnes ou parfois d'un pays entier sont surveilles par des organismes de surveillance de masse mise en place par des agences de renseignements situe partout dans le monde tel que la CIA / NSA. Ces organismes qui avait ete notamment révélé par Edward Snowden en 2013. 
 
 Elle peut aussi être cible, car si elle est fonde sur des soupcons d'actes malveillants ou reprehensible par la loi et autorise par une autorité indépendante. Un exemple de ce ciblage est la recherche de terroriste. 
 
