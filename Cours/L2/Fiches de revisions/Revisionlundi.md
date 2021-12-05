@@ -36,20 +36,27 @@ Texte pour contrôle :
 
 Role-Playing - Entretien d'Embauche : (5min)
 
-| Francais | Russe | Anglais |
-| :------- | :-----: | ------: |
-|Pourquoi voulez-vous travailler pour nous ? | Почему вы хотите работать именно у нас?   | Why do you want to work for us?  |
-|Pourquoi voulez-vous travailler pour nous ? | Почему вы ушли с предыдущего места работы?  | Why did you leave your previous job? |
-|Où vous voyez-vous dans 5 ans ? | Кем вы видите себя через 5 лет?   | Where do you see yourself in 5 years?  |
-|Quelles sont vos attentes salariales ? | Какие ваши зарплатные ожидания?   | What are your salary expectations?  | 
-|Que pensez-vous des heures supplémentaires ?  | Как вы относитесь к переработкам? | How do you feel about overtime? |
-|Pourquoi devrions-nous vous engager ? | Почему мы должны взять на работу именно вас?  | Why should we hire you?  |
-|Pourquoi avez-vous choisi ce domaine d'études/cette université ? | Почему вы выбрали эту специальность/университет?  | Why did you choose this major/university?  | 
-|Comment passez-vous votre temps libre ?  | Как вы проводите свободное время?  | How do you spend your free time?  | 
-| Avez-vous de mauvaises habitudes ?  | Есть ли у вас вредные привычки?  | Do you have any bad habits?  |
-|Quelles sont vos forces et vos faiblesses ? | Каковы ваши сильные и слабые стороны? | What are your strengths and weaknesses?  |
-| Ou avez vous appris a parler l'anglais, le russe et l'arabe ? | Где вы научились говорить на английском, русском и арабском языках? |Where did you learn to speak English, Russian and Arabic? | 
-|Pourquoi pensez-vous être un atout pour cette entreprise ? |Почему вы считаете себя полезным для этого предприятия? | Why do you think you are an asset to this enterprise? |
+
+<b>Questions : </b>
+
+| Francais | Russe | Anglais | Reponses FR| Reponses RU |
+| :------- | :-----: | :------: | :-----: | -----: | 
+|Pourquoi voulez-vous travailler pour nous ? | Почему вы хотите работать именно у нас?   | Why do you want to work for us?  | Votre entreprise est celle avec laquelle j’ai le plus envie de travailler et m’engager sur du long terme. Je pense avoir les compétences nécessaires pour m’intégrer grâce à mes diverses expériences professionnelles acquises au cours de ma carrière. | Именно с вашей компанией мне интереснее всего работать и брать на себя долгосрочные обязательства. Я считаю, что у меня есть навыки, которые пригодятся мне благодаря моему разнообразному профессиональному опыту, приобретенному за время работы.
+|Pourquoi avez-vous quitter votre ancien travail ? | Почему вы ушли с предыдущего места работы?  | Why did you leave your previous job? |Mon ancien travail ne convenait pas a mes attentes vis a vis de l'entreprise ainsi que du salaires. | Моя предыдущая работа не соответствовала моим ожиданиям от компании и зарплаты.
+|Où vous voyez-vous dans 5 ans ? | Кем вы видите себя через 5 лет?   | Where do you see yourself in 5 years?  | Je serais déjà vraiment heureux(se) d'apporter toutes mes compétences à l'entreprise sur le poste de traducteur aussi longtemps que je m'y épanouirai. Je suis quelqu'un qui aime les résultats et souvent ça peut prendre du temps de prouver l'efficacité de son travail. Alors dans 5 ans j'espère être en position de justifier ce que j'aurai amené à l'entreprise. Et si c'est le cas je serai prêt(e) à évoluer au sein de l'entreprise en fonction des opportunités qui se présenteront. | Я буду очень рад внести свой вклад в работу компании в качестве переводчика, пока я буду счастлив это делать. Я человек, ориентированный на результат, и часто может потребоваться время, чтобы доказать эффективность моей работы. Поэтому через пять лет я надеюсь, что смогу оправдать то, что принес компании. И если да, то я буду готов развиваться в компании в зависимости от открывающихся возможностей.
+|Quelles sont vos attentes salariales ? | Какие ваши зарплатные ожидания?   | What are your salary expectations?  | D’après ce que je sais du poste, je pense que le salaire pourrait se situer aux alentours de 2000 à 3000 dollars. | Из того, что я знаю об этой работе, я думаю, что зарплата может составлять около $2000-$3000.
+|Que pensez-vous des heures supplémentaires ?  | Как вы относитесь к переработкам? | How do you feel about overtime? | C'est une bonne chose | Это хорошо
+|Pourquoi devrions-nous vous engager ? | Почему мы должны взять на работу именно вас?  | Why should we hire you?  | J'ai l'intelligence, l'expérience et la capacité de communication supérieure d'être un atout pour votre entreprise.  | У меня достаточно ума, опыта и превосходных коммуникативных навыков, чтобы стать активом для вашей компании. |
+|Pourquoi avez-vous choisi ce domaine d'études/cette université ? | Почему вы выбрали эту специальность/университет?  | Why did you choose this major/university?  | C’était la plus proche de chez moi, et celle qui convenait le plus a mes attentes en terme d'enseignements. | Она была ближе всего к моему дому и больше всего соответствовала моим ожиданиям в плане преподавания. | 
+|Comment passez-vous votre temps libre ?  | Как вы проводите свободное время?  | How do you spend your free time?  | En ce moment, je consacre mon temps libre a chercher un emploi. | В настоящее время я трачу свое свободное время на поиски работы. 
+| Avez-vous de mauvaises habitudes ?  | Есть ли у вас вредные привычки?  | Do you have any bad habits?  | Peut-être être trop en avance. | Возможно, слишком рано. | 
+|Quelles sont vos forces et vos faiblesses ? | Каковы ваши сильные и слабые стороны? | What are your strengths and weaknesses?  | Je suis passionne, entreprenant mais je suis aussi très indécis. | Я страстная, предприимчивая, но в то же время очень нерешительная. |
+| Ou avez vous appris a parler l'anglais, le russe et l'arabe ? | Где вы научились говорить на английском, русском и арабском языках? |Where did you learn to speak English, Russian and Arabic? | В школе и в университете.
+|Pourquoi pensez-vous être un atout pour cette entreprise ? |Почему вы считаете себя полезным для этого предприятия? | Why do you think you are an asset to this enterprise? | Je pense répondre parfaitement aux exigences listées par le descriptif du poste, je pourrais vraiment exceller dans ce rôle : j’apprécie particulièrement le fait de travailler dans ce secteur | Я думаю, что полностью соответствую требованиям, перечисленным в описании вакансии, я действительно могу преуспеть в этой роли: мне особенно нравится работать в этом секторе. | 
+
+
+
+
 
 ## Francais
 
