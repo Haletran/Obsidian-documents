@@ -4,7 +4,6 @@ For next time: you will write the article of your choice (blog post, tourism gui
 on the subject of "Irish history on screen" (films/ tv-series...).
 
 ---
-<br>
 
 ## Visit Ireland with movies !
 ### What a great way of visiting a country without even moving from your sofa. 
