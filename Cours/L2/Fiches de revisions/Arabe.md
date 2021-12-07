@@ -1,6 +1,7 @@
 # Civilisation Arabe
 
-La religion arabe est nee en Arabie a l'extreme Sud-Ouest de l'Asie, délimite par la Mer Rouge, le golfe persique, l'Ocean Indien, la Syrie et l'Irak. C'est une grande étendue désertique qui va du Nord vers le Sud. 
+La religion arabe est nee en Arabie a l'extreme Sud-Ouest de l'Asie, délimite par la Mer Rouge, le golfe persique, l'Ocean Indien, la Syrie et l'Irak. C'est une grande étendue désertique qui va du Nord vers le Sud entoure d'empires étranger : Byzantin et Perses. 
+
 L'Économie de ces pays reside sur l'élevage, notamment de moutons, de chevres et de dromadaires. Le dromadaire étant un animal tres important car moyen de transport efficace, renomme le "bateau du desert".
 
 Échanges commerciales avec les pays limitrophes pour des armes, du ble, des produits, etc...
@@ -44,7 +45,7 @@ A sa mort, Toute l'arabie est islamise, donc uni, elle forme une grande unite po
 
 **Qui va succéder ?**
 
-Grand debat entre les immigres et ceux qui soutenait Muhammad concernant la sucession du prophete. Ce sont les immigres qui gagneront avec la sucession de *Abou Bakr أبو بكر*.
+Grand débat entre les immigres et ceux qui soutenait Muhammad concernant la succession du prophète. Ce sont les immigres qui gagneront avec la succession de *Abou Bakr أبو بكر*.
 
 ### Succession :
 ## Abou Bakr أبو بكر
