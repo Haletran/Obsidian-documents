@@ -129,6 +129,111 @@ Turning point because of a report published in 1958 called the *Whitetaker Repor
 
 **From 1920 to 1958 : the failure of protectionism**
 
+Fully Independent state with a complete separation from the UK with a lot a protectionism. Reaction against the British Economic system. 
+This theory develop in Germany in the 19th century theorized by F. List as powerful as Britain called the *Economic Nationalism*.
+Tension between those 2 systems with Europe the theater of two different economic system. Sinn Feinn always took from the side of Germany. 
+
+**The Implementation of a protectionist agenda**
+
+How are we going to develop the economy ? 
+New party created called *Cuman na neaedheal*. They can choose their economic policy by the prime minister Cosgrave, with the choice of soft protectionism. The idea isn't to disrupt Irish economy. The reforms are low level of taxation, continuity, limit state spending.
+They have created states companies which has a monopoly on sectors of the economic like Irish Sugar company, Agricultural Credit corporation, Electricity Supply board. They choose those strategic sectors to be controled and produced by the state (state monopolies). 
+Same as tariffs and quotas on a certains products so no irish competition, so very consecutive nationalism. 
+
+After those 10 years, there is a new phase in 1932 last until the 50's. *Eamon Devalua* progressively realizes that staying from the system is counter-productive. So he want to change the system once he is in the government. They win the majority of votes thanks to an alliance and he become the prime minister. 
+
+They are going to try to change everything in Ireland because they are quasi-constantly in power so they have the time to develop new reforms.
+During the campaign, they took up Sinn Feinn programs so same economic vision without the link with Britain. Protectionists reforms in order to completely change the Irish economic system. *Trade War* in 1932 that start from a very political decision with the budget. This money was link to the Wyndhow Act. The State would give money to Britain every years. 
+
+Develara doesn't want to pay so taxes on irish imports by Britain and exact same measure for british imports by Ireland. Which last for 6 years, in 1936 *Cattle for coal agreement* so no taxes for those products (Commercial confrontation). System of control of prices which the government decide the price of products (agricultural) but also the debate of control of manufacturers act with the idea for the government to impose to any company in Ireland 90% of the Irish Company is own by Ireland people. 10% can be own by foreigners to make sure companies are own by Irish people. 
+
+*The Housing Act* deals with the construction of houses and Dublin decided about housing market. I
+*Industrial Credit Corporation* to promote industrialization.
+
+Establish a completely new economic system so abandon the "laisser - faire". Impact on Irish economy with some improvement in certains sectors like industrial sector (employement / industry / improvements). 
+Agriculture continued to suffer due to the Tariff War to 35 millions pounds to 13,9 millions. So that didn't manage to solve the agricultural problems. During WWII, Ireland remains neutral. The state although need to organize food. Irish continued to suffer and become poorer than the British state. 
+The Irish population continued to immigrate and that become quite common among Irish people. By the late 50's, the Irish economy hasn't evolve, they are incapable of solving their problem.
+
+**The Turning point** 
+
+In the late 50's, Ireland shifted to Free Trade facilitating by the creation of E.C.C.
+The turning point came and was inspired by Sean Lemass. In 1957, General election was a landside victory in the Dail for Fianna Fail. Develera became a bit old so a man more influential take his place in 1959 called Sean Lemass ("President"). T.K Whitetaker made the whitaker report. He gives a full description due to your own decision. ("bombs" in the Irish society).
+
+**The International Context**
+
+Europe started to benefit from the Marshall. Economy started to grow thanks to "Les Trentes glorieuses". So Ireland and Britain start to rethink their relation together. In 1957. the Treaty of Rome was signed by 6 countries so they share their area to make a free trade area. Start to become an norm in Europe.
+
+**The Main Reforms**
+
+Sean Lemass follow the recommandation of Whitetaker making a new piece of legislation called the economic development act in 1958. This piece of legislation implement a reorganization of economy from 1959 to 1963. Flexible planification that help to work in a direction the state want (objective fo 5 years terms). Emergence of a regional policy and own specific things adapted to their environnement.
+
+Region Shannon built a new airport (international airline) in their area with a zone area called the *Duty Free Zone*. The objective is to attack foreign capitals. In 1965, there is a major rehersal, Dublin and London signed an agreement which make Ireland and Britain a free trade zone that implement very quickly. The economic policy is completely transform. 
+
+=> The results are spectacular, between 58-65 industrial output increase by 55%, exportation of manufactured goods are multiple by 3. The secondary sectors benefits very quickly of this reforms. Also visible in the work force with a number of employees increase by 2,2% per year. In agriculture, the work force involve decreased by 3,2% per year. A gradual shift from Agriculture to Industries.
+
+The average growth rate per year is 4%. The impact is spectacular and amazing. The Irish economy still depend on the British economomy 40% of Investments (FDI) are British investments. 75% of Irish export were sent to Great Britain. Irish is still very related on British economy.
+
+**European Membership**
+
+In 1973, Ireland became member of the E.C.C also the Britain and Danemark. So now they can trade with 8 states. European Subsidies, E.C.C was limited from the Freedom Movement. Ireland is the poorest country in this organization so they should have a compensation to remove the gaps between all those countries. (FEDER)
+Created by France, to make sure Europe would protect french formers and formers in general. So Ireland also benefit a lot from this. (CAP)
+
+In the 70's, even with the changement in Ireland. The Irish economy still suffered from plenty of problems. In 1973-1979, there was an oil shock that made a massive wave of inflation. Same problem  as the rest of the world so stagnation. (Stagflation)
+Both the Finagel party and Finn Feinn as more of the less the same policy. They made the choice of sustaining demand ("Keynasion Policy").
+State intervention since there is inflation, with the increase of salaries and people subsidies. Increase salaries to make sure people have the same purchasing power. 
+
+Two ways to find the money :
+- increase taxes
+- increasing debt (borrow money)
+(vicious cycle)
+
+In 1969, inflation was at 7.4% per year and in 1973, inflation was at 11.4% per year. That led to an endless cycle of taxes and debt.
+In 1987, people become aware of this problems because of the *Single European Act* in 1986. No change of power when those party were in power. 70's and 80's Ireland suffer a lot of unemployment and poverty and increase immigration and the economic problem. 
+
+**Celtic Tiger**
+
+Beginning of the Celtic Tiger in 1987 (Started point). This Celtic tiger period last form 1995 to 2008 with the inspiration of China with their name Dragon. This period made a lot of jobs in Ireland with plently of new wealths and very little inflation.
+
+Two types of explanation :
+- Internal factors = investment in education, same kind of politic policy, specific kind of relationship
+- External Factors = european membership, the wave of globalisation (very well educated population)
+
+GPP : the growth of GPP accelerate, quick transformation and suddenly stops in 2008. 
+2.7 to 7.4 from 1947 to 2000.
+
+GPP exportations : european integration, increase very fast since 1970's. The economy is driven by exportation with sectors like food. In the 2000, Pharmaceuticals / office / Establishment jobs increase. 
+
+The Unemployment rate is very low like 4.6% in 2003, structural unemployment with plenty of jobs available. Economy with very little inflation and stay fairly stable and low. 
+
+Dublin and the region around were the mains areas for population so the prices for houses raised that brought a lot of problem with no solution.
+
+
+**Factors :**
+
+Two main types : external and domestic factors
+- External = Ireland benefited from certains changes which took place outside of Ireland (EU membership / globalisation / FDI)
+Wider market adn lot of possibilities to trade with a lot of people. The other reason was EU subsidies. It was the country who benefited the most from those subsidies. 1973 - 2001 = 10bln to 43 bln
+General movement of globalization was much easier for foreign capital to be invested than any country in the world. One companies was important those companies from US. It represents 10% of the general increase of employment in Ireland. In 1990, US companies invested 227 bln in the Irish economy and this is more than the US investment in Brazil / India / China combined. 
+These investments were in very technological fields = good salaries, good jobs
+520 000 numbers of people working for American company. 
+
+- Domestic = Investment in education and research, macro economic policy, social consumer, tax policies, deregulation
+Ireland is a state. In 1995, the percentage of the population, the percentage of people between 25 and 34 having a degree is more than 27%.
+Choice of spending a lot in educational purposes so students are better train than others countries.
+
+
+From 1987 on, Ireland never gave up on the policy of a stable debt, the share of debt diminish and this was never abandoned. Idea of stability to attack people and company. Deregulation and liberalization. Create states monopolies, one airline company called "Aerlingus" so all this state monopoly diminish to a more liberalization company. This process was done on many sectors with a lot of market competition.
+-> Created 140000 jobs in Ireland because of liberalize sector and much more liberal economy. 
+
+Ireland moves toward a system in which the state / employers negociate on a long term employee. Decided that they have enough jobs created and negotiate salary. Stable economic environment. Ireland decided to favor international investments. The standard rate was 50% of taxes on his benefits. In the late 90's, 12.5% taxes. So big companiesdecided to set their headquarters their companies in Ireland and Dublin. Very efficient for the Irish economy. 0% taxes on all copyright income (tax policies was to attack companies and people). But not everything was perfect with financial speculation. In 2004, Ireland was based on financial Real Estate Sector. 
+
+## Conclusion
+
+To poorest country in the world to one the richest one.
+The economy is the result of rights choices. 
+
+
+
 
 
 
