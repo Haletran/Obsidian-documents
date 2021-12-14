@@ -118,8 +118,16 @@ Negotiation with London that leads to a treaty, the *Anglo-irish treaty* that im
 => Beginning of the Civil War between pro-treaty and non-treaty. The war it's won by the pro-treaty, they create a new state : The Irish Free state. 
 Irish can now make they own choices, apply their own policy, economy, they are completely autonomous so that they can take care of Ireland. 
 
+Two Autonomous State with more and more independent and with more autonomy. 
+Two major periods : 
+- 1920's - 1950's = Ireland doesn't manage to development the economy  (poverty/migration)
+- 1950's - today = economic expansion to the Celtic Tiger (modernisation)
+
+Turning point because of a report published in 1958 called the *Whitetaker Report* that proposes to completely changes the economic policy, shift to protectionism to Free Trade. *Sean Lemass* make a different kind of economic policy that were boosted by the Irish membership in 1973 by becoming a member for E.C.C .
+
 ## II - From Home Rule to the Celtic Tiger
 
+**From 1920 to 1958 : the failure of protectionism**
 
 
 
