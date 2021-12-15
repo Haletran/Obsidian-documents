@@ -233,9 +233,69 @@ To poorest country in the world to one the richest one.
 The economy is the result of rights choices. 
 
 
+Resume : 
+
+1800 Act of Union.
+
+1823 Daniel O'Connell founds the Catholic Association.
+
+1828 O'Connell elected as MP for Clare.
+
+1829 Catholic Emancipation Act.
+
+1845-51 Irish famine leads to mass emigration and over a million deaths.
+
+1873 Foundation of the Home Rule League.
+
+1879 Irish National Land League founded.
+
+1886 First Home Rule Bill introduced.
+
+1912 Introduction of the Third Home Rule Bill; opposition from unionists to impending
+home rule; Ulster Covenant signed on 28 September.
+
+1913 Foundation of the Ulster Volunteer Force, Irish Citizens' Army and Irish Volunteers.
+
+1914 Importation of arms into Ireland by various private armies; outbreak of the First World
+War; passage and suspension of Home Rule; split in the Irish Volunteers between those
+supporting and those opposing participation in the war.
+
+1916 Easter Rising and ensuing execution of leaders. Battle of the Sommes.
+
+1917 De Valera wins East Clare election; rise of Sinn Féin.
+
+1918 Threat of conscription in Ireland; end of the First World War; Sinn Féin victories across
+Ireland in the 1918 general election; opening of Dáil Éireann.
+
+1919-21 War of Independence.
+
+1922-23 Civil War.
+
+1937 Constitution of Éire is introduced by de Valera.
 
 
+1939 Outbreak of the Second World War; Éire chooses neutrality; Northern Ireland plays a
+full part in the war.
 
+1948 Legislation to create the Republic of Ireland introduced (formalised in April 1949).
+
+1949 Ireland Act gives assurance that union is secure.
+
+1956-62 IRA border campaign.
+
+1967 Foundation of the Northern Ireland Civil Rights Association; and the first civil rights
+march.
+
+1969 First deaths in the 'modern' troubles; British Army sent to Northern Ireland; regular
+rioting across the Province.
+
+1972 Bloody Sunday in Derry; Direct Rule from Westminster imposed on Northern Ireland;
+IRA campaign of violence is stepped up; bloodiest ever year in the troubles.
+
+1981 Hunger strikes lead to the deaths of 10 Republican prisoners; Bobby Sands elected as
+an MP.
+
+1998 Good Friday Agreement signed by all the major parties in Northern Ireland.
 
 
 
