@@ -1,5 +1,8 @@
 # John F. Kennedy (death)
 
+## Problematic
+
+How JFK assassination was perceived and cover in the Newspapers in 1963 ?
 ## Summary of his life : 
 
 John F. Kennedy, in full John Fitzgerald Kennedy, byname JFK, (born May 29, 1917, Brookline, Massachusetts, U.S.—died November 22, 1963, Dallas, Texas), 35th president of the United States (1961–63), who faced a number of foreign crises, especially in Cuba and Berlin, but managed to secure such achievements as the Nuclear Test-Ban Treaty and the Alliance for Progress. He was assassinated while riding in a motorcade in Dallas.
