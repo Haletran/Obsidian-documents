@@ -1,0 +1,25 @@
+# John F. Kennedy (death)
+
+## Summary of his life : 
+
+John F. Kennedy, in full John Fitzgerald Kennedy, byname JFK, (born May 29, 1917, Brookline, Massachusetts, U.S.—died November 22, 1963, Dallas, Texas), 35th president of the United States (1961–63), who faced a number of foreign crises, especially in Cuba and Berlin, but managed to secure such achievements as the Nuclear Test-Ban Treaty and the Alliance for Progress. He was assassinated while riding in a motorcade in Dallas.
+
+# Assassination 
+
+President Kennedy believed that his Republican opponent in 1964 would be Sen. Barry Goldwater of Arizona. He was convinced that he could bury Goldwater under an avalanche of votes, thus receiving a mandate for major legislative reforms. One obstacle to his plan was a feud in Vice Pres. Johnson’s home state of Texas between Gov. John B. Connally, Jr., and Sen. Ralph Yarborough, both Democrats. To present a show of unity, the president decided to tour the state with both men. On Friday, November 22, 1963, he and Jacqueline Kennedy were in an open limousine riding slowly in a motorcade through downtown Dallas. At 12:30 pm the president was struck by two rifle bullets, one at the base of his neck and one in the head.
+
+He was pronounced dead shortly after arrival at Parkland Memorial Hospital. Governor Connally, though also gravely wounded, recovered. Vice President Johnson took the oath as president at 2:38 pm. Lee Harvey Oswald, a 24-year-old Dallas citizen, was accused of the slaying. Two days later Oswald was shot to death by Jack Ruby, a local nightclub owner with connections to the criminal underworld, in the basement of a Dallas police station. A presidential commission headed by the chief justice of the United States, Earl Warren, later found that neither the sniper nor his killer “was part of any conspiracy, domestic or foreign, to assassinate President Kennedy,” but that Oswald had acted alone. The Warren Commission, however, was not able to convincingly explain all the particular circumstances of Kennedy’s murder. In 1979 a special committee of the U.S. House of Representatives declared that although the president had undoubtedly been slain by Oswald, acoustic analysis suggested the presence of a second gunman who had missed. But this declaration did little to squelch the theories that Oswald was part of a conspiracy involving either CIA agents angered over Kennedy’s handling of the Bay of Pigs fiasco or members of organized crime seeking revenge for Attorney General Bobby Kennedy’s relentless criminal investigations. Kennedy’s assassination, the most notorious political murder of the 20th century, remains a source of bafflement, controversy, and speculation.
+
+John Kennedy was dead, but the Kennedy mystique was still alive. Both Robert and Ted ran for president (in 1968 and 1980, respectively). Yet tragedy would become nearly synonymous with the Kennedys when Bobby, too, was assassinated on the campaign trail in 1968.
+Jacqueline Kennedy and her two children moved from the White House to a home in the Georgetown section of Washington. Continuing crowds of the worshipful and curious made peace there impossible, however, and in the summer of 1964 she moved to New York City. Pursuit continued until October 20, 1968, when she married Aristotle Onassis, a wealthy Greek shipping magnate. The Associated Press said that the marriage “broke the spell of almost complete adulation of a woman who had become virtually a legend in her own time.” Widowed by Onassis, the former first lady returned to the public eye in the mid-1970s as a high-profile book editor, and she remained among the most admired women in the United States until her death in 1994. As an adult, daughter Caroline was jealous of her own privacy, but John Jr.—a lawyer like his sister and debonair and handsome like his father—was much more of a public figure.
+
+ Long remembered as “John-John,” the three-year-old who stoically saluted his father’s casket during live television coverage of the funeral procession, John Jr. became the founder and editor-in-chief of the political magazine George in the mid-1990s. In 1999, when John Jr., his wife, and his sister-in-law died in the crash of the private plane he was piloting, the event was the focus of an international media watch that further proved the immortality of the Kennedy mystique. It was yet another chapter in the family’s “curse” of tragedy.
+
+## Links 
+
+[How Newspapers reacted around the world](https://www.businessinsider.com/jfk-assassination-newspaper-front-pages-2017-10?op=1&r=US&IR=T)
+[Britannica](https://www.britannica.com/biography/John-F-Kennedy/Assassination)
+[AFP remaster](https://www.youtube.com/watch?v=roI2HV8zygI)
+[The Media Role,coverage](https://studycorgi.com/the-medias-role-in-the-jfk-assassination-coverage/)
+[American Media & The Second Assassination of John F. Kennedy](https://www.imdb.com/title/tt6670304/)
+[Press Coverage the Kennedy Assassination](https://www.pbs.org/wgbh/americanexperience/features/oswald-press-coverage-president-kennedys-assassination/)
