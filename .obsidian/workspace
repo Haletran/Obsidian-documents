@@ -7,11 +7,8 @@
         "id": "2831d9e8c11ef8ca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cours/L2/Expression Orale/📢 Presentation AI (debate).md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/L2/Expression Orale/📢 Presentation AI (debate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +82,17 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "cd4c200af822f8e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -97,15 +104,15 @@
   },
   "active": "2831d9e8c11ef8ca",
   "lastOpenFiles": [
-    "Cours/L2/Expression Orale/📢 Presentation AI (debate).md",
-    "Cours/L1/📢 Presentation Oral.md",
+    "University Classes/L2/Fiches de revisions/Irlande.md",
+    "University Classes/L2/Fiches de revisions/Arabe.md",
+    "University Classes/L2/Fiches de revisions/Arabe.pdf",
+    "University Classes/L2/CIV renforcement/Capture d’écran 2021-11-01 184130.png",
+    "University Classes/L2/Culture des medias/Oral.md",
+    "University Classes/L2/Expression Orale/📢 Presentation AI (debate).md",
+    "University Classes/L1/📢 Presentation Oral.md",
     "Cours/L2/Expression Orale/Expose AI.md",
     "Cours/L2/Expression Orale/Untitled.md",
-    "Cours/L1/Partiels L1/Fiches de revisions/Arabe ✅.md",
-    "DIVERS/Some stuffs to buy.md",
-    "Cours/DIVERS/Some stuffs to buy.md",
-    "Cours/DIVERS/Сергей Никитин - Со мною вот что происходит.md",
-    "Untitled.md",
-    "Cours/DIVERS/PC.md"
+    "University Classes/L1/Partiels L1/Fiches de revisions/Arabe ✅.md"
   ]
 }

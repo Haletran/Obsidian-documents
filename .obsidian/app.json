@@ -42,5 +42,12 @@
   ],
   "showFrontmatter": false,
   "strictLineBreaks": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "Files"
 }

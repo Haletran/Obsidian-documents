@@ -22,5 +22,13 @@
       ],
       "key": "2"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }

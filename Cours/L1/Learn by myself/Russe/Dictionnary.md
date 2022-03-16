@@ -1,1 +1,0 @@
-<iframe height=500 width=500 src="https://russianenthusiast.com/russian-vocab/basic-dictionary/"></iframe>
