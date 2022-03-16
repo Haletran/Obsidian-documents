@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2831d9e8c11ef8ca",
+        "id": "668b4187a4abefbb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Website Article/Remove bloat from your Android.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Website Article/Remove bloat from your Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2831d9e8c11ef8ca",
+  "active": "668b4187a4abefbb",
   "lastOpenFiles": [
-    "University Classes/L2/Fiches de revisions/Irlande.md",
-    "University Classes/L2/Fiches de revisions/Arabe.md",
-    "University Classes/L2/Fiches de revisions/Arabe.pdf",
-    "University Classes/L2/CIV renforcement/Capture d’écran 2021-11-01 184130.png",
-    "University Classes/L2/Culture des medias/Oral.md",
-    "University Classes/L2/Expression Orale/📢 Presentation AI (debate).md",
-    "University Classes/L1/📢 Presentation Oral.md",
-    "Cours/L2/Expression Orale/Expose AI.md",
-    "Cours/L2/Expression Orale/Untitled.md",
-    "University Classes/L1/Partiels L1/Fiches de revisions/Arabe ✅.md"
+    "Website Article/Remove bloat from your Android.md",
+    "Website Article/Enjoy YouTube Again (remove ads and sponsorship).md",
+    "Website Article/Enjoy Youtube Again.md",
+    "Website Article/Android customization.md",
+    "Website Article/Windows 10 Customization.md",
+    "Templates/Classes template.md",
+    "Templates/Website template.md",
+    "University Classes/Test for obsidian.md",
+    "Templates/Idea template.md",
+    "University Classes/L2/Fiches de revisions/Irlande.md"
   ]
 }

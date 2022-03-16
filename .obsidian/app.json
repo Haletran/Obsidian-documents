@@ -1,6 +1,6 @@
 {
   "obsidianCss": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "pdfExportSettings": {
     "pageSize": "A4",
     "landscape": false,
@@ -44,10 +44,15 @@
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "source",
   "readableLineLength": false,
-  "newFileLocation": "root",
-  "newFileFolderPath": "/",
-  "attachmentFolderPath": "Files"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "University Classes",
+  "attachmentFolderPath": "Files",
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "fr",
+    "en-US"
+  ]
 }

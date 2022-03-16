@@ -7,14 +7,7 @@
       "key": "1"
     }
   ],
-  "obsidian-git:push": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "="
-    }
-  ],
+  "obsidian-git:push": [],
   "obsidian-icons-plugin:open-icons-plugin-modal": [
     {
       "modifiers": [
@@ -29,6 +22,23 @@
         "Mod"
       ],
       "key": "T"
+    }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
     }
   ]
 }
