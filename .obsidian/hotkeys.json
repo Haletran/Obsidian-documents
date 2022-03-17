@@ -48,5 +48,14 @@
       ],
       "key": "="
     }
+  ],
+  "tq-obsidian:create-task-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
