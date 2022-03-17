@@ -2,4 +2,4 @@
 tags: [ misc ]
 ---
 
-- [ ] Menage
+- [x] Menage
