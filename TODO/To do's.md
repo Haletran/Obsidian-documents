@@ -1,4 +1,4 @@
-Tags: #todo
+Tags: #todolist
 
 ---
 
@@ -10,7 +10,7 @@ collapse: open
 
 ```dataview
 list
-from #todo 
+from #todolist 
 sort file.name
 ```
 

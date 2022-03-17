@@ -54,5 +54,6 @@
   "spellcheckLanguages": [
     "fr",
     "en-US"
-  ]
+  ],
+  "autoPairBrackets": false
 }
