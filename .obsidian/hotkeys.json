@@ -57,5 +57,15 @@
       ],
       "key": "T"
     }
+  ],
+  "obsidian-checklist-plugin:show-checklist-view": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
   ]
 }

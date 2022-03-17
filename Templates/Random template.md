@@ -1,10 +1,8 @@
 {{date:YYYY-MM-DD}}{{time:HHmm}}
 
-Status : #website
+Status : #other
 
 Tags: 
 
 
 # {{title}}
-
-# References

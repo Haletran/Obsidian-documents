@@ -5,11 +5,15 @@
   "url-into-selection",
   "obsidian-minimal-settings",
   "obsidian-hider",
-  "table-editor-obsidian",
   "obsidian-admonition",
   "sliding-panes-obsidian",
   "better-word-count",
   "obsidian-kanban",
   "obsidian-style-settings",
-  "tq-obsidian"
+  "tq-obsidian",
+  "dataview",
+  "calendar",
+  "obsidian-mind-map",
+  "obsidian-excalidraw-plugin",
+  "periodic-notes"
 ]

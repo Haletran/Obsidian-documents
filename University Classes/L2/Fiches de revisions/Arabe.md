@@ -1,3 +1,5 @@
+Tags: #current
+---
 # Civilisation Arabe
 
 La religion arabe est nee en Arabie a l'extreme Sud-Ouest de l'Asie, délimite par la Mer Rouge, le golfe persique, l'Ocean Indien, la Syrie et l'Irak. C'est une grande étendue désertique qui va du Nord vers le Sud entoure d'empires étranger : Byzantin et Perses. 
