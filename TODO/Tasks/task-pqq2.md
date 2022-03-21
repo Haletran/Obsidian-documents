@@ -4,4 +4,4 @@ tags: [ todo ]
 important: true
 ---
 
-- [ ] Do the Subtitles
+- [x] Do the Subtitles
