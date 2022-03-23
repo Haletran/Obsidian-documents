@@ -1000,7 +1000,9 @@ Personnages :
 
 
 **зефир** : friandise like Marshmallow with cream
+
 **SOYUZ MULT FILM** : entreprise de dessin anime russe
+
 **чебурашка** : est un personnage de la littérature enfantine russe, adaptée en une série de films d'animation de la fin des années 1960 au début des années 1980 par Roman Katchanov.
 
 **винии пух**
