@@ -1,3 +1,5 @@
+Status : #current 
+
 # Russie Civilisation - L2 S4
 
 ## 1. La Russie comme une zone grise : autoritarisme versus démocratie. Relations de la Russie et de l’Ouest : vers la nouvelle guerre froide ? 
@@ -916,16 +918,96 @@ L’État est toujours dominant et n’accepte pas d’autres centres de pouvoir
 
 Les oppositions sont souvent désignées comme antirusses et pro-européennes… Comme si les problèmes ne viennent pas de Russie de son organisation interne, mais de l’extérieur.
 
+## 12. La Russie et ses partenaires stratégiques
+
+### Partenaire dans les technologies militaires
+
+A l'époque post-soviétique, La Russie est obligée de repenser sa vision du monde et la liste de ses partenaires.
+Parmi ses technologies militaires qui peuvent intéresser, on peut nommer :
+- les missiles  anti-aériens 
+- hélicoptères
+- avions de combats Sukhoi
+
+=> 2 partenaires principaux :
+- Inde ( Sukhoi, sous-marins nucléaires, missiles de croisières supersoniques)
+- La Chine (niveau de coopération n'est pas le même suite au vente de Su33, avion de chasse version navale qui a été reproduit par la Chine) = Pour ne pas transmettre les technologies, la Russie a arrête les échanges depuis 2010, mais recommence plus tard.
 
 
+### Partenaires politiques 
+
+- Organisation de sécurité collective (depuis 2002) avec plusieurs membres du CEI : Russie, Biélorussie, Arménie, Kazakhstan, Kirghizstan et Tadjikistan qui se transforme en 2015 en Union économique euro-asiatique.
+- Depuis 2001, Organisation de la coopération de Shanghai, compose de 4 républiques de l'Asie centrale = Chine, Russie, Arménie et Biélorussie. Il y a aussi des pays observateurs qui sont = Mongolie, Turquie, US, Inde.
+
+L'organisation doit travailler pour garantir la stabilité politique  contre le terrorisme, la criminalité et le narcotrafic. Et aussi contre le séparationisme (ce qui est problématique: Guerre de Géorgie, Annexion Crimée...).
+Des changements militaires ont lieu avec les refus de bases militaires américaines ainsi que des œuvres militaires. 
+Depuis 2015, le sommet a Oufa en Russie avec les pays du BRIC.
+
+### BRICS
+
+L'acronyme BRIC a été invente par Jim O'neill en 2001, collaborateur de Goldman Sacks car il avait décerner une similitude entre ces pays.
+=> Réappropriation de cette idée en ajoutant l'Afrique du Sud.
+
+Le premier sommet se trouve a Ekaterinbourg en Russie a partir de 2009.
+Il y a donc un mécontentement des organismes financiers internationaux = FMI, banque mondiale.
+
+Les BRICS se déclarent ouvert a tous les pays souverains hors OTAN et UE ( car conflit Russe depuis 2004).
+Cette organisme devient important lorsque la Russie ne fait plus partie du G8.
+
+En 2050, le consensus voit le PIB de la Triane (communauté euro-asiatique + japon) inferieur a celui de la Chine et ne plus représenter que la moitie de celui des BRICS. 
+
+- 2011 : entrée de l'Afrique du Sud très riche en matières premières
+- 2015 : le sommet de BRICS est fusionne avec OCS, donc apparition d'un nouveau bloc non-occidental.
+- Le sommet de 2011 avait décide la création d'institutions analogues a la Banque Mondiale et au FMI, mais le conflit entre Chine et 4 autres membres car la participation n'est pas égale.
+- Le sommet de 2014 a pu entériner les  principes d'organisations de la future banque.
+- En 2015 : nouvelle banque du développement (+prêts en 2016)
+- Le *Contingent Reserve Arragement* (pool de réserve monétaire disposant de 100mlrd $)
+- Le Bureau Asiatique d'investissements (100mlrd$ avec 25% Chine, 8,4% Inde et 6,5% Russie)
+- Apres le début du conflit russo-ukrainien en 2014, il y a de nouvelles sphères de coopération avec la Chine notamment militaires (ventes de missiles sol-air S400)
+- Coopération Russie, Chine et Kazakhstan pour les nouvelles routes de la soi.
+
+### Biélorussie
+
+Ce territoire n'existe pas avant 1991 alors que leur position géographie est stratégique. Son territoire fait partie de l'empire Russe depuis XIXe siècle.
+La langue n'est pas codifie avant 1918 (influence allemande) et 1963 nouvelle codification.
+
+En 1991: le Nouvel Etat, 2 langues (russe et biélorusse), l'Eglise dépend du patriarche de Moscou.
+Le nbs de personnes qui préfèrent le russe augment de 19% en 1989 a  33,6% en 2009.
+Et depuis 1997, projet de former une Union avec la fédération de Russie (même devise, coopération militaire, etc...) mais reste "lettre morte".
+
+Depuis l'époque soviétique, le plus grand oléoduc du monde est a Droujba, il passe par la Biélorussie et va vers l'Allemagne.
+La Russie dépend de la Biélorussie comme l'Ukraine pur l'acheminement des hydrocarbure
+
+- 2006/2007, les conflits autour des prises du gaz et du pétrole et pour éviter les problèmes la Russie construit des oléoducs qui contournent  la Biélorussie.
+- Les conflits avec l'Ukraine sont plus importants, la Biélorussie est moins "hostile".
+
+Depuis 2020 : élection présidentielle Biélorusse avec Loukachenko qui est au pouvoir depuis la chute de l'URSS.
+La Biélorussie a soutenu l'intervention de la Russie en Ukraine en 2022.
+
+--- 
+
+##  Спокойной ночи, малыши! 
+
+Depuis 1964 avec des programmes de 50min.
+
+Personnages : 
+- Xрюша 
+- Филя
+- Степашка
+- Каркуша
+- Цап Царапыч
+- мишутка
+- тирёка мура
 
 
+**зефир** : friandise like Marshmallow with cream
+**SOYUZ MULT FILM** : entreprise de dessin anime russe
+**чебурашка** : est un personnage de la littérature enfantine russe, adaptée en une série de films d'animation de la fin des années 1960 au début des années 1980 par Roman Katchanov.
 
+**винии пух**
 
+**Маша и Медведь**
 
-
-
-
+=> Concept éducatif dans les années 2000 avec l'importation de dessins animes américains
 
 
 

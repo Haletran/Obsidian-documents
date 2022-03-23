@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODO/To do's.md",
-            "mode": "preview",
+            "file": "University Classes/L2/RUSSE/russeciv.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198
+    "width": 171
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO/To do's.md",
+                "file": "University Classes/L2/RUSSE/russeciv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,19 +120,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 250.5
   },
   "active": "86bfac1ef3355d5c",
   "lastOpenFiles": [
-    "TODO/To do's.md",
-    "University Classes/University.md",
-    "README.md",
-    "Templates/Idea template.md",
+    "University Classes/L2/RUSSE/russeciv.md",
+    "University Classes/L2/Fiches de revisions/Russe.pdf",
+    "University Classes/L2/Fiches de revisions/russe civi.md",
+    "University Classes/L2/Fiches de revisions/russelangue.md",
+    "University Classes/L2/Fiches de revisions/Russe.md",
     "Templates/Classes template.md",
-    "Templates/Website template.md",
-    "Templates/Random template.md",
-    "TODO/Tasks/task-3dk3.md",
-    "TODO/To do's - Project.md",
-    "TODO/To do's - Misc.md"
+    "University Classes/University.md",
+    "University Classes/L2/Irlande/newspaper.md",
+    "University Classes/L2/Irlande/Maria Edgeworth.pdf",
+    "University Classes/L2/Irlande/guidearticle.md"
   ]
 }

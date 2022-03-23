@@ -51,9 +51,6 @@
   "newFileFolderPath": "University Classes",
   "attachmentFolderPath": "Files",
   "showLineNumber": false,
-  "spellcheckLanguages": [
-    "fr",
-    "en-US"
-  ],
+  "spellcheckLanguages": null,
   "autoPairBrackets": false
 }
