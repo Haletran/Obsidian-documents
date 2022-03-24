@@ -918,7 +918,98 @@ L’État est toujours dominant et n’accepte pas d’autres centres de pouvoir
 
 Les oppositions sont souvent désignées comme antirusses et pro-européennes… Comme si les problèmes ne viennent pas de Russie de son organisation interne, mais de l’extérieur.
 
-## 12. La Russie et ses partenaires stratégiques
+## 12. La Russie et l'Eurasisme
+
+### L'Union économique euro-asiatique. La Culture
+
+Dans la culture, c'est la fin de l'époque soviétique, on voit un intérêt pour les minorités nationale (Peuple du Nord). L'expression de ces intérêts peut-être vue dans le film 
+[Urga](https://www.youtube.com/watch?v=HWL41hmD780) de Nikita Mikhalkov.
+La situation change dans les années 2000 et les idées d'une histoire russe non-linéaire come dans les romans *La Symphonie d'Eurasie*( plus de 7 romans, sur l'histoire alternative de l'Ordus).
+
+### l'UEEA
+
+Cela existe 2015 et remplace d'autres organismes du même type. 
+Les membres sont : La Russie, l'Arménie, la Biélorussie, le Kazakhstan et le Kirghizstan.
+Cette idée existe depuis 1994, elle a été propose par le président du Kazakhstan *Nazarbaev*.
+
+C'est un espace économique énorme avec plus de 20 mln m2 et 182,7 mln d'habitants.
+-> Cela offre une nouvelle de la Russie, elle n'est plus en périphérie de l'Europe ou l'Asie mais c'est une puissance régionale, un pole d'influence dans le monde multipolaire.
+
+### Concept Idéologique Complexe
+
+C'est un concept universitaire depuis 1920.
+La Russie n'est pas la périphérie de l'Europe mais la porte de l'Asie et son centre. Le peuple réunit des racines slaves et de racines turco-mongoles.
+Ils rejettent les modèles européens ou asiatiques mais cela créer une place plus particulière dans le monde.
+=> En 2000, le concept quitte le monde universitaire et entre dans la vie  politique et publique.
+
+- Les types d'eurasisme en Russie : 
+	- romantique (1920-1930)
+	- les idées de *Lev Goumiliov* (philosophe) (1960-1990)
+	- Le nationalisme penchant plus vers l'extrême droite d'*Alexandre Douguine*
+	- Défense du monde multipolaire d'*Alexandre Panarine* et la protection des minorités ainsi que des collaborations russo-turques
+	- L'Eurasisme kazakh, turque, tatar,...etc 
+
+### Les racines en Russie 
+
+XIXe siècle, les slavophiles donc les personnes a qui le modèle européen ne conviennent pas a la Russie.
+Citation de *Dostoievski* = "Les Russes sont des tatars pour l'Europe et des Européens pour l'Asie."
+
+1920/30 : Les immigres russes élabore une théorie sur la place de la Russie (Trubetskoj et Jakobson). 
+Ce concept euroasiatique n'est pas attache a la langue slave mais a la position géographique particulière de le Russie qui est un pays  polyethnique.
+- Le groupe souline le mélange des culture slaves avec d'autres cultures
+- Expression de la peur de la colonisation par l'Europe
+- l'Occident présente comme décadent 
+
+### 1920/30
+
+Contre la hiérarchie des cultures, toutes les cultures  sont importantes set ne doivent pas être assimiles par une autre.
+- L'Europe ne veut pas voir la différence entre les civilisations.
+- La Russie doit être analysée du point de vue de sa géographie et non pas su pdv de sa proximité avec l'Europe
+L'Ideal est la vie nomade.
+Ce qui donne des idées proches du fascisme : nationalisme, domination russe, mais ce n'est pas du racisme car l'Eurasie est un mélange de culture et les cultures pures n'existent pas.
+
+### Les Goumilev 60/90
+
+Il donne plus d'importance a l'influence asiatique et a des minorités ethniques sur la culture russes. Les peuples non-russes sont aussi importants.
+L'époque du Joug de Tatar est considéré comme une époque importante et bénéfique car elle a crée ce mélange de culture.
+Les Russes n'ont pas colonises d'autres peuples d'Eurasie mais ont coopéré avec eux.
+Les nations pures n'existent pas, se sont toujours des chimères, des hybrides… (pour n'importe quel pays)
+
+### Les bienfaits du Joug Tatar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 13. La Russie et ses partenaires stratégiques
 
 ### Partenaire dans les technologies militaires
 

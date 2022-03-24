@@ -14,5 +14,7 @@
   "calendar",
   "obsidian-mind-map",
   "obsidian-excalidraw-plugin",
-  "periodic-notes"
+  "periodic-notes",
+  "obsidian-checklist-plugin",
+  "obsidian-statusbar-pomo"
 ]

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eab616914dbad7c0",
+        "id": "5f6bf4adca698791",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "preview",
+            "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -53,15 +53,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 167
   },
   "right": {
     "id": "a5930f152dd8b5f1",
     "type": "split",
     "children": [
       {
+        "id": "1eb9bc51e19a7bf8",
+        "type": "tabs",
+        "dimension": 24.857142857142858,
+        "children": [
+          {
+            "id": "eab616914dbad7c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b80618778848275",
+        "type": "tabs",
+        "dimension": 26,
+        "children": [
+          {
+            "id": "1dd46d993d6aadb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO/To do's.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "62a1c1740fb69ed9",
         "type": "tabs",
+        "dimension": 49.142857142857146,
         "children": [
           {
             "id": "2b6ecb519bbecaf8",
@@ -69,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,23 +151,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 233.5
   },
-  "active": "eab616914dbad7c0",
+  "active": "5f6bf4adca698791",
   "lastOpenFiles": [
+    "University Classes/L2/RUSSE/CIVI/russeciv.md",
+    "University Classes/University.md",
+    "TODO/To do's.md",
+    "TODO/To do's - Misc.md",
+    "TODO/To do's - Project.md",
     "README.md",
+    "University Classes/L2/TANDEM/📢 Oral Presentation .md",
     "University Classes/L2/UE d'Ouverture/Numerique et societe.md",
     "University Classes/L2/VC/speech.md",
-    "University Classes/L2/TANDEM/📢 Oral Presentation .md",
-    "University Classes/L2/RUSSE/LANGUAGE/russelangue.md",
-    "University Classes/L2/RUSSE/CIVI/russeciv.md",
-    "University Classes/L2/RUSSE/CIVI/russe civi.md",
-    "University Classes/L2/RUSSE/CIVI/Russe.md",
-    "University Classes/L2/RUSSE/LANGUAGE/Revisionlundi.md",
-    "Files/Drawings/Drawing 2022-03-24 18.12.29.excalidraw.md"
+    "University Classes/L2/RUSSE/LANGUAGE/russelangue.md"
   ]
 }

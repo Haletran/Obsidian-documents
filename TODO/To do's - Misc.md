@@ -10,7 +10,7 @@ collapse: open
 
 ```dataview
 list
-from #todo 
+from #todolist  
 sort file.name asc
 ```
 
