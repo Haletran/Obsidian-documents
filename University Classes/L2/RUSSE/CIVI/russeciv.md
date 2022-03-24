@@ -1017,47 +1017,62 @@ Professeur de l'université de Moscou, peu connu du grand public. Il est l'auteu
 - Les origines de ses idées : la déception provoque par les reformes libérales a l'époque post-soviétique. Il prend donc une position contre la thérapie de choc, contre la capitalisme oligarchique, contre la reproduction des modelés occidentaux  et contre l'avancement de l'OTAN.
 - Fin de sa vie, ses idées se radicalisent : orthodoxissime et L'Etat fort du type autoritaire.
 
+Critique de l'Occident mélange le traditionalisme avec des idées nouvelles : 
+- traditionalisme
+- La vision avec des éléments de la pensée post-coloniale
+	- le monde occidentale n'est pas prêt a accepter l'importance d'autres cultures alors pas de création de hiérarchie de culture car unique
+	- l'Occident redonne pas assez de place aux cultures orientales (Inde, Chine,...)
+	- Globalisation est dangereuse car elle détruit les cultures mineures
 
-### Le post-colonialisme traditionelle
+### Le post-colonialisme traditionnelle
 
+- Multiplicité de l'histoire donc pas d'histoire unique
+- Aucun pays n'a le droit de "privatiser l'avenir" de l'humanité
+- Contre l'universalisme européen = la globalisation doit respecter les variétés locales
+- Le monde doit avoir plusieurs centres, il faut donner la place a la diversité culturelle
+- autres morales non-consommatrices
+- Il faut créer un modelé politique = propriété privée avec la protection sociale développée. L'Empire n'est pas nécessairement mauvais.
+- Il faut développer les relations entre Chine et avec l'Inde
 
+Nouveautés des idées politiques =>nationalisme transformée
+
+- Plus de slavophiles réducteurs, nostalgie soviétique, xénophobie
+- Elaboration d'une forme particulière de l'Etat 
+- Pour la diversité religieuse
+- Contre la reproduction des modèles occidentaux (mais sans slavophiles)
+- Contre la hiérarchie des cultures 
+- Toutes les cultures sont égales et ne peuvent remplacer l'une l'autre.
 
 ### L'Eurasisme n'est pas russe 
 
+- Le président Nazarbaev a propose l'idée de l'union euro-asiatique en 1994 (Kazakh)
+- Son régime autoritaire se construit autour de l'Eurasisme 
+- L'idée permet de revendiquer la position central du pays dans la région de l'Asie centrale
+- Revendiquer l'indépendance face a la Russie ainsi que d'autres influences extérieures
+- Pas de division de l'espace post-soviétique d'après les religions dominantes
+- Unité de la culture euroasiatique grâce a l'histoire commune, le caractère polyethnique du pays
+- On n'est pas oblige de reproduire des modèles occidentaux
+- Culture des 
+- Amalgame de l'Est et de l'Ouest 
+
 ### Tatarstan
 
+La région de la* *Volga* est aux croisement de cultures diverses = dialogue et tolérance.
+- L'Eurasisme avec l'Islam, un projet euro-islam
+- C'est un peuple qui réunit l'Eurasie pendant le Joug de Tatar , c'est un peuple qui doit continuer a jouer le rôle central dans l'histoire
+- L'Eurasisme permet de montrer l'importance de Tatars dans l'histoire russe et de la vie actuelle
+- Il peut devenir la base de revendications contre la dominance russe pour les élites politiques, mais les élites soutiennent l'orientation européenne  et euro-islam.
 
 ### Turquie
 
+Popularité du concept dans la vie politique après la Guerre Froide.
 
+Intérêts : relations plus développer avec d'autres pays d'Asie et la Russie pour protéger les cultures asiatiques
 
+-> Mouvement antirusse
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Panturquisme = réunir les pays turques
+- L'Eurasisme  peut-être vu comme un mouvement anti-européen et anti-américain : les euroasiatiques sont présentés comme des peuples oppresses
 
 
 ## 13. La Russie et ses partenaires stratégiques
@@ -1126,6 +1141,8 @@ Depuis 2020 : élection présidentielle Biélorusse avec Loukachenko qui est au 
 La Biélorussie a soutenu l'intervention de la Russie en Ukraine en 2022.
 
 --- 
+
+# Cours Secondaire
 
 ##  Спокойной ночи, малыши! 
 
