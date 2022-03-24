@@ -28,3 +28,5 @@ is something useful to store my <a href="https://obsidian.md/">Obsidian</a> work
 # Clone this repository 
 git clone https://github.com/Haletran/Obsidian-documents.git
 ```
+
+There's also some notes on this [Google Drive](https://drive.google.com/drive/folders/1Pw3IrUWfMep7SzaudP9mUhFDaL4ttfhf?usp=sharing) if you are interested by that.
