@@ -1,4 +1,19 @@
-# Obsidian - Documents
+<h1 align="center">
+  <br>
+  <a href="https://www.univ-poitiers.fr/"><img src="https://www.univ-poitiers.fr/wp-content/uploads/sites/10/2021/10/logo-up.svg" alt="Poitiers logo" width="100"></a>
+  <br>
+  University Notes
+  <br>
+</h1>
 
-Just some of my obsidian docs because I don't want to pay an online fee to put my documents on their servers. 
-That's my university courses.
+
+<h4 align="center">Some of my University notes and docs.</h4>
+
+---
+
+During 2020-2022, I've been in french university studying languages such as English, Russian and Arabic.
+In this repo, you can find every pieces of work that I've done or notes that I've taken during those classes.
+You may find some grammar mistakes, I've done my best to coorect them. 
+
+## Years 
+

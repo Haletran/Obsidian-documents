@@ -18,7 +18,7 @@ mondiale
 
 ### Ce modèle de transition et de modernisation 
 
-Il s'effondre car beaucoup de sociétés ne suivent pas le schema propose comme la Chine( niveau de vie, d'education,integration dans l'économie mondiale...)
+Il s'effondre car beaucoup de sociétés ne suivent pas le schéma propose comme la Chine( niveau de vie, d'éducation, intégration dans l'économie mondiale...)
 
 Beaucoup de pays de l’Asie du sud-est : Le Corée du Sud, le Taïwan, l’Indonésie, la Thaïlande… dans les années 1990, les révolutions démocratiques ont lieu, mais depuis 2000 le mouvement est renversé. La Thaïlande : la classe moyenne soutient le régime autoritaire… Cela ressemble en partie à la situation russe.
 
@@ -59,7 +59,7 @@ transformations radicales que cela amenaient.
 
 ### Peut-on parler de la Nouvelle Guerre Froide ? 
 
-Pour une partie des elites dans le monde la guerre froide n'a jamais fini. Mais l'utilisation du terme peut-être dangereux car l'histoire ne se répète pas, le terme reactive des cliches et des débats qui empêche de voir les changements. 
+Pour une partie des élites dans le monde la guerre froide n'a jamais fini. Mais l'utilisation du terme peut-être dangereux car l'histoire ne se répète pas, le terme réactive des cliches et des débats qui empêche de voir les changements. 
 
 ### Comment définir la guerre froide ? 
 
