@@ -6,11 +6,23 @@
   <br>
 </h1>
 
-<h4 align="center">Some of my University notes and docs.</h4>
+<h3 align="center">Some of my University notes and docs.</h4>
 
-During 2020-2022, I've been in french university studying languages such as English, Russian and Arabic.
+During 2020-2022, I've been in french university studying languages such as English, Russian and Arabic (LEA LTMI).
 In this repo, you can find every pieces of work that I've done or notes that I've taken during those classes.
-You may find some grammar mistakes, I've done my best to coorect them. 
+You may find some grammar mistakes, I've done my best to correct them. 
+
+There's also some others documents or notes that aren't related to those classes because for me this repo 
+is something useful to store my <a href="https://obsidian.md/">Obsidian</a> workflow.
 
 ## Years 
 
+* [First Year - 2020/2021](https://github.com/Haletran/Obsidian-documents/tree/master/University%20Classes/L1)
+* [Second Year - 2021/2022](https://github.com/Haletran/Obsidian-documents/tree/master/University%20Classes/L2)
+
+## How to use 
+
+```bash 
+# Clone this repository 
+git clone https://github.com/Haletran/Obsidian-documents.git
+```
