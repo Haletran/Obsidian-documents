@@ -930,6 +930,7 @@ La situation change dans les années 2000 et les idées d'une histoire russe non
 
 Cela existe 2015 et remplace d'autres organismes du même type. 
 Les membres sont : La Russie, l'Arménie, la Biélorussie, le Kazakhstan et le Kirghizstan.
+
 Cette idée existe depuis 1994, elle a été propose par le président du Kazakhstan *Nazarbaev*.
 
 C'est un espace économique énorme avec plus de 20 mln m2 et 182,7 mln d'habitants.
@@ -965,18 +966,68 @@ Ce concept euroasiatique n'est pas attache a la langue slave mais a la position 
 Contre la hiérarchie des cultures, toutes les cultures  sont importantes set ne doivent pas être assimiles par une autre.
 - L'Europe ne veut pas voir la différence entre les civilisations.
 - La Russie doit être analysée du point de vue de sa géographie et non pas su pdv de sa proximité avec l'Europe
+
 L'Ideal est la vie nomade.
+
 Ce qui donne des idées proches du fascisme : nationalisme, domination russe, mais ce n'est pas du racisme car l'Eurasie est un mélange de culture et les cultures pures n'existent pas.
 
 ### Les Goumilev 60/90
 
 Il donne plus d'importance a l'influence asiatique et a des minorités ethniques sur la culture russes. Les peuples non-russes sont aussi importants.
 L'époque du Joug de Tatar est considéré comme une époque importante et bénéfique car elle a crée ce mélange de culture.
+
 Les Russes n'ont pas colonises d'autres peuples d'Eurasie mais ont coopéré avec eux.
 Les nations pures n'existent pas, se sont toujours des chimères, des hybrides… (pour n'importe quel pays)
 
 ### Les bienfaits du Joug Tatar 
 
+- Les principautés russes comprennent qu'ils doivent unir leurs forces -> Russie Moscovite
+- Le changement des méthodes militaires, des armements
+- Développent de la poste et du transport pour réunir le pays
+- Renaissance de l'Eglise Orthodoxe 
+- Développement du commerce, relations diplomatiques, du système de taxes et d'impôts, comptabilité
+
+### L'Eurasisme contemporain
+
+Les idées reviennent depuis les années 1980, avec l'accent sur le Russo-centrisme dans le contrôle de la crise d'identité russe.
+
+Il remplace les idées de l'amitiés des peuples soviétiques.
+Pour le début des années 1990 = l'Eurasisme entre dans la culture populaire et certains partis politiques proposent des visions ultra-nationalistes.
+
+*Evgueni Primakov* = premier ministre 98/99, il dit qu'il faut donner la priorité aux contacts avec l'Asie dans les relations internationales.
+
+Début 1990 : Russo-centrisme plus modère, d'autres sont plus importants.
+
+### A l'époque de Poutine 
+
+2000 : Poutine évoque la place importante de la Russie dans les relations entre l'Europe et l'Asie
+
+2019 : Poutine a propos des relations avec  le Kazakhstan
+
+La Russie n'a toujours pas su bien profiter des relations avec l'Asie; attire par son mystère.
+- Priorité culturel russe et orthodoxe
+- *Derjaunost'* n'est pas la même chose que l'Eurasisme
+
+En 2001, une enquête sociologique montre que 71% pensent que la Russie représente une civilisation particulière et 13% pensent qu'elle fait partie de l'Europe.
+
+### La philosophie euro-asiatique d'*Alexandre Panarine*
+
+Professeur de l'université de Moscou, peu connu du grand public. Il est l'auteur du livre "*La Civilisation Orthodoxe*" dans le monde globalise qui obtenu le prix Soljenitsyne.
+
+- Les origines de ses idées : la déception provoque par les reformes libérales a l'époque post-soviétique. Il prend donc une position contre la thérapie de choc, contre la capitalisme oligarchique, contre la reproduction des modelés occidentaux  et contre l'avancement de l'OTAN.
+- Fin de sa vie, ses idées se radicalisent : orthodoxissime et L'Etat fort du type autoritaire.
+
+
+### Le post-colonialisme traditionelle
+
+
+
+### L'Eurasisme n'est pas russe 
+
+### Tatarstan
+
+
+### Turquie
 
 
 
