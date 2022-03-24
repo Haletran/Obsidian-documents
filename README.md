@@ -6,10 +6,12 @@
   <br>
 </h1>
 
-<h3 align="center">Some of my University notes and docs.</h4>
+<h3 align="center">Some of my University notes and docs.</h3>
+<h4 align="center">🇸🇦 🇫🇷 🇺🇸 🇷🇺</h4>
 
 During 2020-2022, I've been in french university studying languages such as English, Russian and Arabic (LEA LTMI).
-In this repo, you can find every pieces of work that I've done or notes that I've taken during those classes.
+In this repo, you can find every pieces of work that I've done or notes that I've taken during those classes. Those are 
+written mostly in English or French but there's also some Russian and Arabic.
 You may find some grammar mistakes, I've done my best to correct them. 
 
 There's also some others documents or notes that aren't related to those classes because for me this repo 
