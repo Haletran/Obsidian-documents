@@ -28,7 +28,7 @@ is something useful to store my <a href="https://obsidian.md/">Obsidian</a> work
 # Clone this repository 
 git clone https://github.com/Haletran/Obsidian-documents.git
 ```
-<button href="https://github.com/Haletran/Obsidian-documents/archive/refs/heads/master.zip">Download</button>
+Or use this link : <a href="https://github.com/Haletran/Obsidian-documents/archive/refs/heads/master.zip">Download</a>
 
 
 
