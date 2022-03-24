@@ -1058,7 +1058,7 @@ Nouveautés des idées politiques =>nationalisme transformée
 ### Tatarstan
 
 La région de la* *Volga* est aux croisement de cultures diverses = dialogue et tolérance.
-- L'Eurasisme avec l'Islam, un projet euro-islam
+- L'Eurasisme avec l'Islam, un projet euro-islam  
 - C'est un peuple qui réunit l'Eurasie pendant le Joug de Tatar , c'est un peuple qui doit continuer a jouer le rôle central dans l'histoire
 - L'Eurasisme permet de montrer l'importance de Tatars dans l'histoire russe et de la vie actuelle
 - Il peut devenir la base de revendications contre la dominance russe pour les élites politiques, mais les élites soutiennent l'orientation européenne  et euro-islam.
