@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167
+    "width": 201.5
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -69,6 +69,14 @@
             "type": "leaf",
             "state": {
               "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d81a93a6529fd31c",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
               "state": {}
             }
           }
@@ -116,14 +124,6 @@
             }
           },
           {
-            "id": "e375a932fbabb4c2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "cd4c200af822f8e5",
             "type": "leaf",
             "state": {
@@ -135,14 +135,6 @@
             }
           },
           {
-            "id": "776d9bee9a367719",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "d979b6566f7e4f10",
             "type": "leaf",
             "state": {
@@ -151,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -162,9 +154,9 @@
     "University Classes/L2/RUSSE/CIVI/russeciv.md",
     "University Classes/University.md",
     "TODO/To do's.md",
+    "README.md",
     "TODO/To do's - Misc.md",
     "TODO/To do's - Project.md",
-    "README.md",
     "University Classes/L2/TANDEM/📢 Oral Presentation .md",
     "University Classes/L2/UE d'Ouverture/Numerique et societe.md",
     "University Classes/L2/VC/speech.md",
