@@ -918,7 +918,135 @@ L’État est toujours dominant et n’accepte pas d’autres centres de pouvoir
 
 Les oppositions sont souvent désignées comme antirusses et pro-européennes… Comme si les problèmes ne viennent pas de Russie de son organisation interne, mais de l’extérieur.
 
-## 12. La Russie et l'Eurasisme
+
+## 12. Guerre de Géorgie et annexion de Crimée
+
+### La Guerre de Géorgie (2008) : Son histoire
+
+- La Région (Le Caucase du Nord) est très complexe et instable, souvent convoite donc frontières instables.
+
+2 religions : 
+		-  Orthodoxe
+		- Musulman
+
+L'unification de la Géorgie date du XIIe siècle, suivi par plusieurs invasions.
+La conquête russe a lieu au cours du XIXe siècle
+
+Apres la révolution de 1917 débute un époque d'Indépendance.(18-21)
+- 1921 : Intervention militaire soviétique avec la création de la république transcaucasienne avec l'Arménie et Azerbaïdjan.
+- Depuis 1936, elle devient une république à part.
+
+Plus de territoire très homogène avec beaucoup de populations/cultures.
+
+### A l'époque post-soviétique
+
+- 1989 : des conflits armes de Georgiens et des Abkhazes 
+-> Manifestations à Tbilissi pour l'indépendance de la Géorgie et contre le séparatisme de l'Abkhazie, intervention de l'armée soviétique, 19 morts.
+- 1990 : L'Abkhazie demande son indépendance
+
+ => Guerres civiles 1991-92 avec l'Ossétie du Sud; 1992-93 avec l'Abkhazie.
+- La Russie mené une politique ambiguë, tantôt elle soutient la Géorgie, tantôt les républiques séparatistes.
+
+### Les Facteurs Importants
+
+-> Bases militaires russes présentes sur le territoire qui sont abandonnes 1999, deux autres bases sont conduites sur le cote russe
+-> Le Conflit Tchétchène : 
+		- Chamil Basaev a participe au conflit abkhaze, s'est battu contre les Georgiens : pendant la 1G de Tchétchénie, pro-russe
+		- Pendant le 26, La Russie accuse la Géorgie de soutenir les troupes tchétchènes
+		- Des mercenaires internationaux ont leurs points de retraits en Géorgie. Les hélicoptères russes les territoires.
+
+### Le Conflit en Abkhazie
+
+C'est une guerre complexe donc déplacement massif des Georgiens qui ont quitte l'Abkhazie.
+- Participation pour arrêter les hostilités a été nécessaire 
+- Révolution des roses (2003), décide de restaurer l'intégrité de la Géorgie = se multiplient
+
+La Russie soutient l'Indépendance de l'Abkhazie et l'Ossète du Sud, mais non de l'Adjarie (près de Turquie).
+- 2005-2006 : plusieurs plans de paix ont échoues
+
+### Le Conflit en Abkhazie + OTAN
+
+- Crime de Guerre  des 2 cotes du conflits 
+- La Russie et la Géorgie : des avions russes traversent les frontières de la Géorgie et de l'Abkhazie.
+
+=> 2006-2007 : la Géorgie annonce sont intention de devenir membre de l'OTAN.
+- Depuis 1988, 20 mln $ par an de la part des US
+
+### Le Conflit en Ossétie du Sud
+
+- La situation est un peu plus simple qu'en Abkhazie initialement mais l'intention de contrôler la région et déstabiliser l'équilibre.
+- Les plans de paix n'ont pas réussi a calmer la région.
+- Plusieurs groupes paramilitaires ossètes, maintenir la paix, n'hésitent pas à attaquer 
+
+- 2004-2005 : plusieurs accrochages
+- La Russie distribue les passeports russes. Cela sera utilise par la suite : La Russie doit protéger ses citoyens
+- Les élections de nouveau président de l'Ossétie, sur les territoires contrôles par la Géorgie.
+
+### Guerre de 2008
+
+Le 7 aout = les troupes géorgiennes attaquent les ossètes qui ripostent, les forces de maintien de la paix russes sont touches
+- Les troupes russes traversent la frontière
+- 9 aout = contrôle aérien
+- 10-11 aout = l'Abkhazie rejoint le conflit 
+- 12 aout = Le président Sarkozy se rend en Géorgie
+
+### Les Conséquences
+
+- La Géorgie quitte la CEI (URSS)
+- L'Ukraine exige de prévenir des déplacements des troupes russes.
+- La Russie se venge par l'Indépendance de l'Ossétie et de l'Abkhazie a l'Indépendance du Kosovo.
+- Les nouvelles républiques sont soutenues par la Russie mais bloquées par la Géorgie
+- La méfiance envers la Russie se réveille chez les voisins proches 
+- Idée de protéger les citoyens russes a l'étranger apparait dans la doctrine de la politique internationale russe
+- La Géorgie a perdu ces chances de devenir membres de l'OTAN (aggravé la situation en Ukraine)
+
+
+- Les relations avec l'OTAN s'améliorent 
+- Les relations avec la Géorgie se stabilisent 
+- La Russie se montre comme une puissance militaire capable de réagir rapidement
+- La réaction étrangère est très négative au début, mais pas à la longue.
+
+### L'Annexion de Crimée = Introduction historique
+
+Une place stratégique pour le commerce maritime russe et pour la communication avec le monde extérieure.
+Convoite depuis des siècles par des peuples différents 
+- 1783 : La Conquête russe
+- 1853-55 : la Guerre de Crimée avec l'Empire Ottoman, La France et l'Angleterre
+- 2 fois cadeau : le cadeau du Prince Potentin a Catherine II
+		- 1954 = Offre la Crimée a l'Ukraine
+		- 1991 = le statut devient problématique
+ 
+### La Population
+
+- XVe - XVIIIe siècles, les Tatars de Crimée dominent 
+- Depuis le XVIIIe siècles, les terres de la Crimée sont distribues aux aristocrates russes
+- 1897 : 35% sont des tatars
+Et pendant la 2GM, le déplacement des Tatars, 1959 : Il n'y a plus de Tatars en Crimée.
+- 2001 : 60% russes / 24% Ukrainiens / 10% Tatars 
+- Pour les Russes, la Crimee est une destination de vacances et un lieu de memoire (GC - 2GM)
+
+### L' Histoire du Conflit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 13. Le Conflit en Ukraine
+
+> écrire le cours 
+
+
+
+## 14. La Russie et l'Eurasisme
 
 ### L'Union économique euro-asiatique. La Culture
 
@@ -1075,7 +1203,7 @@ Panturquisme = réunir les pays turques
 - L'Eurasisme  peut-être vu comme un mouvement anti-européen et anti-américain : les euroasiatiques sont présentés comme des peuples oppresses
 
 
-## 13. La Russie et ses partenaires stratégiques
+## 15. La Russie et ses partenaires stratégiques
 
 ### Partenaire dans les technologies militaires
 

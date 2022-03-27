@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -62,7 +62,7 @@
       {
         "id": "1eb9bc51e19a7bf8",
         "type": "tabs",
-        "dimension": 24.857142857142858,
+        "dimension": 32.467532467532465,
         "children": [
           {
             "id": "eab616914dbad7c0",
@@ -85,7 +85,7 @@
       {
         "id": "7b80618778848275",
         "type": "tabs",
-        "dimension": 26,
+        "dimension": 28.942486085343226,
         "children": [
           {
             "id": "1dd46d993d6aadb0",
@@ -104,7 +104,7 @@
       {
         "id": "62a1c1740fb69ed9",
         "type": "tabs",
-        "dimension": 49.142857142857146,
+        "dimension": 38.5899814471243,
         "children": [
           {
             "id": "2b6ecb519bbecaf8",
@@ -147,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 266.5,
+    "collapsed": true
   },
   "active": "5f6bf4adca698791",
   "lastOpenFiles": [
