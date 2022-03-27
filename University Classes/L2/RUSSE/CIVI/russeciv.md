@@ -1027,7 +1027,7 @@ Et pendant la 2GM, le déplacement des Tatars, 1959 : Il n'y a plus de Tatars en
 
 ### L' Histoire du Conflit
 
-
+> continuer écrire le cours 
 
 
 
