@@ -2,8 +2,6 @@
 
 Status : #classes
 
-Tags: 
-
 
 # {{title}}
 

@@ -2,8 +2,6 @@
 
 Status : #idea
 
-Tags: 
-
 
 # {{title}}
 

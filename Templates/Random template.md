@@ -2,7 +2,5 @@
 
 Status : #other
 
-Tags: 
-
 
 # {{title}}

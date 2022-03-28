@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
-            "mode": "preview",
+            "file": "University Classes/L2/CIVI/US/civius.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/RUSSE/CIVI/russeciv.md",
+                "file": "University Classes/L2/CIVI/US/civius.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "5f6bf4adca698791",
   "lastOpenFiles": [
+    "University Classes/L2/CIVI/US/civius.md",
+    "Templates/Classes template.md",
+    "Templates/Website template.md",
+    "Templates/Random template.md",
+    "Templates/Idea template.md",
     "University Classes/L2/RUSSE/CIVI/russeciv.md",
     "University Classes/University.md",
     "TODO/To do's.md",
     "README.md",
-    "TODO/To do's - Misc.md",
-    "TODO/To do's - Project.md",
-    "University Classes/L2/TANDEM/📢 Oral Presentation .md",
-    "University Classes/L2/UE d'Ouverture/Numerique et societe.md",
-    "University Classes/L2/VC/speech.md",
-    "University Classes/L2/RUSSE/LANGUAGE/russelangue.md"
+    "TODO/To do's - Misc.md"
   ]
 }

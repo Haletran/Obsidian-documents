@@ -2,8 +2,6 @@
 
 Status : #website
 
-Tags: 
-
 
 # {{title}}
 
