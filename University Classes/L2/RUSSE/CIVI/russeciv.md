@@ -1023,21 +1023,47 @@ Convoite depuis des siècles par des peuples différents
 - 1897 : 35% sont des tatars
 Et pendant la 2GM, le déplacement des Tatars, 1959 : Il n'y a plus de Tatars en Crimée.
 - 2001 : 60% russes / 24% Ukrainiens / 10% Tatars 
-- Pour les Russes, la Crimee est une destination de vacances et un lieu de memoire (GC - 2GM)
+- Pour les Russes, la Crimée est une destination de vacances et un lieu de mémoire (GC - 2GM)
 
 ### L' Histoire du Conflit
+- 1991 : Ukraine annonce son Indépendance
+- 1992 : Autonomie
+- 1993 : Le Parlement russe pour l'annexion de la Crimée
 
-> continuer écrire le cours 
+Durant les années 90, les investissements de Iouri Louzkhov et d'autres hommes d'affaires russes.
+- 2004 : la révolution orange, la Crimée a des tendances pro-russes
+- L'annexion de la Crimée : est-elle une action spontanée ou bien une réaction de protection provoque par l'annonce de l'OTAN; ou bien un plan prémédite.
+
+### Les tendances pro-russes
+
+Populations essentiellement russophones.
+- Plusieurs associations pro-russes, leurs représentants participent également dans le conflit a l'Est de l'Ukraine
+- 1997 : OTAN organise des manœuvres dans la mer noire, mais annule sur mouvement de la jeunesse eurasienne bloque l'aéroport
+- Distribution de passeports russes
+
+### Le Conflit
+
+- En 2013 : Euromaidan et mécontentement générale.
+- Les manifestations se transforment en conflit plus-violent
+- 21/22-02 : le départ de Yarouskovitch, président pro-russes
+- En Crimée, les manifestations pro-russes (20000) : les rencontres avec des hauts fonctionnaires russes
+- Il existe une base militaire russe sur la presqu'ile, la Russie loue cet espace, les militaires russes sont présents sur le territoire
 
 
+- 6/03 : le Parlement de la presqu'ile demande d'attacher la Crimée a la Russie : des militaires bloquent tous les organismes militaires ukrainiens en Crimée
+- 16/03 : le Referendum sur cette question est organise 
+- La communauté internationale ne voit pas ce referendum comme légitime
+- Commence a soutenir le mouvement séparatiste a l'Est de l'Ukraine
+- L'importance des médias des deux cotes du conflits = La Russie est prête désormais a donner sa vision des évènements 
 
+### Les conséquences du conflit
 
-
-
-
-
-
-
+- Importance géostratégique de la Crimée
+- Changement politique : elle construit son image d'une puissance capable de réagir
+- La réponse a l'activité de l'OTAN 
+- Changement de la politique russe : vers des actions militaires actives 
+- La protection d'intérêts d'économiques de la Russie même avec des armes 
+- L'Europe est vue désormais comme concurrent géostratégique, son avancement vers l'Est comme un danger
 
 
 ## 13. Le Conflit en Ukraine
