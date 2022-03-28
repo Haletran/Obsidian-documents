@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/CIVI/US/civius.md",
+            "file": "University Classes/L2/Arabe/📜 Arabe.md",
             "mode": "source",
             "source": true
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/CIVI/US/civius.md",
+                "file": "University Classes/L2/Arabe/📜 Arabe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,15 +152,15 @@
   },
   "active": "5f6bf4adca698791",
   "lastOpenFiles": [
-    "University Classes/L2/CIVI/US/civius.md",
-    "Templates/Classes template.md",
-    "Templates/Website template.md",
-    "Templates/Random template.md",
-    "Templates/Idea template.md",
-    "University Classes/L2/RUSSE/CIVI/russeciv.md",
-    "University Classes/University.md",
-    "TODO/To do's.md",
-    "README.md",
-    "TODO/To do's - Misc.md"
+    "University Classes/L2/Arabe/📜 Arabe.md",
+    "University Classes/L2/RUSSE/CIVI/russe civi.md",
+    "University Classes/L2/RUSSE/CIVI/questionciv.md",
+    "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
+    "University Classes/L2/RUSSE/CIVI/📜 RussecivS3.md",
+    "University Classes/L2/CIVI/US/📜 civius.md",
+    "University Classes/L2/CIVI/Irlande/📜  Irlande.md",
+    "University Classes/L2/Culture des medias/📢Oral.md",
+    "University Classes/L2/Expression Orale/📢 Presentation AI (debate).md",
+    "University Classes/L2/Renforcement civilisation/oral.md"
   ]
 }

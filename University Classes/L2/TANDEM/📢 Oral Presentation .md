@@ -47,7 +47,3 @@ Many Scientists and well know people, like *Elon Musk* (CEO / Engineer) or *Step
 
 To conclude, I will say that AI shows what humans are capable of creating, and I believe that this technology is the next big step of our evolution, the technology of tomorrow that will live in a relationship with us. And the future of AI is inspiring and promising for our next generation. Well that's it for me, Thank you for your attention and if you have any questions, I'll gladly answers them ! 
 
-<br>
-<br>
-
-**Copyright © 2021 Baptiste PASQUIER. All rights reserved**
