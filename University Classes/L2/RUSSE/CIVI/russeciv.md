@@ -918,6 +918,7 @@ L’État est toujours dominant et n’accepte pas d’autres centres de pouvoir
 
 Les oppositions sont souvent désignées comme antirusses et pro-européennes… Comme si les problèmes ne viennent pas de Russie de son organisation interne, mais de l’extérieur.
 
+--- 
 
 ## 12. Guerre de Géorgie et annexion de Crimée
 
@@ -1065,12 +1066,14 @@ Populations essentiellement russophones.
 - La protection d'intérêts d'économiques de la Russie même avec des armes 
 - L'Europe est vue désormais comme concurrent géostratégique, son avancement vers l'Est comme un danger
 
+--- 
 
 ## 13. Le Conflit en Ukraine
 
 > écrire le cours 
 
 
+--- 
 
 ## 14. La Russie et l'Eurasisme
 
@@ -1228,6 +1231,8 @@ Intérêts : relations plus développer avec d'autres pays d'Asie et la Russie p
 Panturquisme = réunir les pays turques
 - L'Eurasisme  peut-être vu comme un mouvement anti-européen et anti-américain : les euroasiatiques sont présentés comme des peuples oppresses
 
+
+--- 
 
 ## 15. La Russie et ses partenaires stratégiques
 
