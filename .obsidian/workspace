@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6bf4adca698791",
+        "id": "7ef08c4b8350582d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -62,7 +62,7 @@
       {
         "id": "1eb9bc51e19a7bf8",
         "type": "tabs",
-        "dimension": 32.467532467532465,
+        "dimension": 26.716141001855288,
         "children": [
           {
             "id": "eab616914dbad7c0",
@@ -85,7 +85,7 @@
       {
         "id": "7b80618778848275",
         "type": "tabs",
-        "dimension": 28.942486085343226,
+        "dimension": 26.90166975881262,
         "children": [
           {
             "id": "1dd46d993d6aadb0",
@@ -98,13 +98,25 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "5f6bf4adca698791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University Classes/University.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ]
       },
       {
         "id": "62a1c1740fb69ed9",
         "type": "tabs",
-        "dimension": 38.5899814471243,
+        "dimension": 46.38218923933209,
         "children": [
           {
             "id": "2b6ecb519bbecaf8",
@@ -113,8 +125,8 @@
               "type": "backlink",
               "state": {
                 "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -149,9 +161,10 @@
     "direction": "horizontal",
     "width": 266.5
   },
-  "active": "5f6bf4adca698791",
+  "active": "7ef08c4b8350582d",
   "lastOpenFiles": [
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
+    "University Classes/University.md",
     "University Classes/L2/Arabe/📜 Arabe.md",
     "University Classes/L2/RUSSE/CIVI/russe civi.md",
     "University Classes/L2/RUSSE/CIVI/questionciv.md",
@@ -159,7 +172,6 @@
     "University Classes/L2/CIVI/US/📜 civius.md",
     "University Classes/L2/CIVI/Irlande/📜  Irlande.md",
     "University Classes/L2/Culture des medias/📢Oral.md",
-    "University Classes/L2/Expression Orale/📢 Presentation AI (debate).md",
-    "University Classes/L2/Renforcement civilisation/oral.md"
+    "University Classes/L2/Expression Orale/📢 Presentation AI (debate).md"
   ]
 }
