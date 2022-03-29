@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/Arabe/📜 Arabe.md",
+            "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
             "mode": "source",
             "source": true
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/Arabe/📜 Arabe.md",
+                "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,15 +147,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "active": "5f6bf4adca698791",
   "lastOpenFiles": [
+    "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "University Classes/L2/Arabe/📜 Arabe.md",
     "University Classes/L2/RUSSE/CIVI/russe civi.md",
     "University Classes/L2/RUSSE/CIVI/questionciv.md",
-    "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS3.md",
     "University Classes/L2/CIVI/US/📜 civius.md",
     "University Classes/L2/CIVI/Irlande/📜  Irlande.md",

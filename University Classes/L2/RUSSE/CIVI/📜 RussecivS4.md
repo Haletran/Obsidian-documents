@@ -1070,7 +1070,24 @@ Populations essentiellement russophones.
 
 ## 13. Le Conflit en Ukraine
 
-> écrire le cours 
+### Introduction 
+
+Le territoire de l'Ukraine a une histoire complexe. Avec un climat très clément et des terres fertiles. Ces terres ont été indépendantes : La Russie kiévienne christianisée en 988.
+-> Grand Duché de Lituanie (XIII - XVIIe s)
+-> Conquises par les Russes en 1654
+
+La république ukrainienne est crée par *Staline*, elle comprend les populations de l'Ouest et russophones Est et la Russie.
+- "Le Holodomor" = famine organise
+
+Pendant la 2GM, une partie d'Ukrainiens pensent profiter de l'invasion des nazis pour se libérer de la domination de Staline.
+- 1954 : Kroutchev donne la Crimée
+- 1991 : dissolution de l'URSS, Ukraine indépendante et garde la Crimée.
+
+L'élargissement de l'OTAN inquiète la Russie. Plusieurs pays du bloc de Varsovie et autres membres deviennent membres de l'OTAN.
+
+### Les relations
+
+> Continuer le cours 
 
 
 --- 
