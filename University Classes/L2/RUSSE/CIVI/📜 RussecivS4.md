@@ -1087,7 +1087,81 @@ L'élargissement de l'OTAN inquiète la Russie. Plusieurs pays du bloc de Varsov
 
 ### Les relations
 
-> Continuer le cours 
+La Russie et son concept de "Dejavnot" : retour de l'idée d'une grande puissance. L'envie d'influencer et contrôler les pays satellites. 
+
+Elle cherche a garder le contrôle de l'Ukraine  par des moyens économiques surtout via les prix du gaz. 
+=> Tensions "guerres de gaz"
+
+Début des années 2000, la fragilité de l'Ukraine se lit sur les cartes . 
+
+2004-2010 : c'est un président pro-européen qui gagne les élections : **Viktor Ianoukovytch**.
+Et mouvement de contestation contre la fraude.
+
+### UE et Ukraine
+
+Les idéaux démocratiques culturels de l'UE sont très attirants pour beaucoup de pays même si des difficultés existent : 
+- absence de système de taxes et d'impôts commun
+- identité européenne "faible"
+
+L'Ukraine est également attire par l'UE surtout la population de l'Ouest. La population attend des changements économiques et politiques.
+
+### Partenariat oriental 
+
+<u>Le premier : </u>
+
+- coopération économique et énergétique, développement du réseau de transport 
+- développement démocratique, projets culturels 
+- l'obtentions des visas simplifies 
+
+
+<u>Le deuxième: </u>
+- accorde de libre-échange complet et approfondi
+- leaders du programme sont assez critiques envers la Russie 
+
+La Russie préférait ce type de combat a l'influence de l'OTAN. Vers 2013, La Russie voit ce partenariat comme le danger de l'OTAN.
+
+
+### La situation en Ukraine
+
+L'Ukraine est aussi importante pour la Russie que pour Bruxelles. La population est insatisfaite par la politique intérieure.
+
+2012-2013: accord de libre-échange commencent mais sans résultats car **Ianoukovytch** refuse de signer l'accord 
+
+Les fonctionnaires européens ont peur pour la zone de l'euro.
+
+Ces accords peuvent déstabiliser les liens de l'industrie militaire donc la Russie n'y voit pas d'intérêts particulier.
+
+### Le Maidane : nouvelles révolutions
+
+**Ianoukovytch** refuse de signer l'accord par l'UE donc cela provoque le mécontentement de la population.
+=> Manifestations (200000 - 500000) commencent sur la place de  Maidan a Kiev, février 2014. Ce sont des manifestations principalement paisible.
+- **Ianoukovytch** fuit l'Ukraine en 2018
+-> **Petro Porochenko** est élu nouveau président.
+
+La Russie annexe la Crimée par un referendum.
+
+Le conflit : La Crimée et le mouvement séparatiste a l'Est. Les fonctionnaires européens n'attendaient pas la réaction militaire russe.
+- UE et Russie partage la responsabilité pour la crise, mais pas pour la partie militaire : occupation de la Crimée.
+
+Pour l'Ukraine, c'est une renaissance nationale, affirmation de l'Etat Nation. Mais elle dépend de l'UE, FMI, USA, et a perdu une partie des territoires.
+Elle a également garde les problèmes économiques lies a la corruption.
+
+
+### Les conséquences économiques pour la Russie
+
+Sanctions des US et UE.
+=> La Russie riposte : interdictions importations des produits agricoles UE; cette mesure a touche la population russe qui a vu ses magasins vides 
+- Les liens économiques avec l'Ukraine sont détruits en grande partie
+- Soutien économique de la Crimée et Est Ukraine
+
+### La Russie, l'OTAN et l'antiaméricanisme des élites russes
+
+- La Russie n'avait pas de politique isolationniste : les contacts étaient encore présents.
+- Transition démocratique et économique
+- Les élites préfèrent mettre la responsabilité économiques sur le dos des étrangers
+- Poutine n'est pas anti-américain au début des années 2000 : il rencontre Bush, soutient la lutte avec le terrorisme, mais sa  position change avec le temps.
+- Mais depuis 2003 : Guerre Iraq, les révolutions de Couleur en Géorgie, Ukraine et au Kirghizstan 
+- Ces révolutions sont vues comme dangereuses pour l'influence russe dans son étranger proche et rapprochement OTAN.
 
 
 --- 
