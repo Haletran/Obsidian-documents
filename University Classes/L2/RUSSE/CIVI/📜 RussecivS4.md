@@ -1420,6 +1420,26 @@ Personnages :
 
 => Concept éducatif dans les années 2000 avec l'importation de dessins animes américains
 
+Le dessin anime américain n'aivait pas le monopole sur les écrans, ce qui garantissait aux réalisateurs soviétiques un large public et leurs faisaient une grande marge de création. Invention du procede image par image.
+
+Creation des studios **SOYUZ MULT FILM** en 1936, c'est le plus gros studios d'animations en Russie. Quelques difficultés après la perestroïka, années 60 jusqu'en 70.
+
+**ну погоди** : est une série d'animation télévisée d'origine soviétique, puis russe, produite par les studios Soyuzmultfilm. La série fut créée en 19692 et devint un cartoon populaire en Union soviétique. Elle s'est achevée en 2006, année durant laquelle le dernier épisode fut produit. Si la langue originelle de la série est le russe, elle utilise très peu de dialogues, principalement des interjections. C'est le Tom et Jerry russe. (loup et lièvre)
+
+**кот леопольд**
+
+**Garri Bardine :** est un auteur de films d'animation russe. Il est très connu. Il a sorti 23 films avec différentes techniques. (allumette/ fil de fer/pate a modeler)
+
+**Youri Norstein**: est un cinéaste d'animation russe. 5 films. Changements états des formes et des textures qui composent, en les matérialisant , les éléments du récit.
+
+**Baba Yaga est contre**: 3 épisodes, tentatives infructueuses de Baba Yaga et ses assistants d'empêcher Micha de  participer aux Jeux Olympiques. L'intrigue repose sur l'ambigüité de Baba Yaga dans l'imaginaire soviétique et son importance en tant que symbole de la culture de la population.
+
+
+
+
+
+
+
 
 
 ***
