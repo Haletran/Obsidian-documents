@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7ef08c4b8350582d",
+        "id": "a87cac5ac51cba35",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "University Classes/L2/Arabe/📜 Arabe.md",
-            "mode": "preview",
+            "mode": "source",
             "source": true
           }
         }
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 266.5
   },
-  "active": "7ef08c4b8350582d",
+  "active": "a87cac5ac51cba35",
   "lastOpenFiles": [
     "University Classes/L2/Arabe/📜 Arabe.md",
-    "Files/Drawings.md",
+    "Files/Drawings/Drawing-202022-04-04 00.13.19.excalidraw.md",
     "Files/Drawings/Drawing 2022-04-04 00.13.19.excalidraw.md",
+    "Files/Drawings.md",
     "Others/Some stuffs to buy.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "University Classes/University.md",
     "University Classes/L2/RUSSE/CIVI/russe civi.md",
     "University Classes/L2/RUSSE/CIVI/questionciv.md",
-    "University Classes/L2/RUSSE/CIVI/📜 RussecivS3.md",
-    "University Classes/L2/CIVI/US/📜 civius.md"
+    "University Classes/L2/RUSSE/CIVI/📜 RussecivS3.md"
   ]
 }
