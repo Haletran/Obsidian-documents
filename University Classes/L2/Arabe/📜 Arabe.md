@@ -325,7 +325,7 @@ Les descendants de la famille abbassides au Caire pour devenir plus légitime au
 
 Le pouvoir des Mamlouks s'étend de l'Egypte, une partie de l'Arabie, jusqu'au Sud du Yémen (route du commerce).
 
-<img src="https://github.com/Haletran/Obsidian-documents/blob/master/Files/Drawings/schema.png" alt="schema" width="200">
+<img src="https://github.com/Haletran/Obsidian-documents/blob/master/Files/Drawings/schema.png" alt="schema" width="600">
 
 - Prospère sur le plan économique avec le territoire de la route du commerce, la mer. Etat très fort sur le plan économique grâce au commerce. 
 -> Relations commerciales avec les villes italiennes
