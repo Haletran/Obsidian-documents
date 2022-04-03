@@ -327,6 +327,8 @@ Le pouvoir des Mamlouks s'étend de l'Egypte, une partie de l'Arabie, jusqu'au S
 
 ![[Drawing 2022-04-04 00.13.19.excalidraw]]
 
+<a href="Files/Drawings/Drawing 2022-04-04 00.13.19.excalidraw"></a>
+
 - Prospère sur le plan économique avec le territoire de la route du commerce, la mer. Etat très fort sur le plan économique grâce au commerce. 
 -> Relations commerciales avec les villes italiennes
 - Sur le plan social et intellectuel, il prêtait peu attention aux choses lies a la culture, décadence irrémédiable (illettrisme).
