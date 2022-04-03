@@ -165,6 +165,7 @@ Développement de la littérature surtout de la poésie.
 Cette opposition a réussi a mobiliser l'opinion publique, mise en place d'un mouvement de désobéissance civile. 
 
 Donc en 750, la revolution arrive a Damas, le Kalif est oblige de fuir son poste mais il est rattrape en Égypte et mise a mort. La revolution continue jusqu'en Andalousie. 
+
 ### Abassides de Bagdad : 
 
 Nouvelle dynastie 750 - 1258 descendant de Al'Abbas (oncle de M)
@@ -209,4 +210,146 @@ Il commence a s'ouvrir l'esprit en accueillants ou s'intéressant  a L'Inde et l
 Le premier texte a être traduit est Aristote. Ils ont pour but de traduire des textes et les proposer dans la maison de la Sagesse. Confier a جنين بن اسعاق.
 
 Travail de traduction, recherches de manuscrits, 3 trads qu'ils faisaient lire a trois personnes différentes. 
+
+---
+
+Formation de la garde "Califienne", délégation de leurs pouvoirs. Garde compose essentiellement de Turques (originaire de l'Asie Centrale, essentiellement nomades, islamises sous les Umayyades, résistance physique très importante ainsi que des guerriers vis a vis de leurs territoires).
+Police de Bagdad. Le pouvoir central manifeste donc des faiblesses.
+
+Les allawides loin du pouvoir central (Maghreb) , on put former un pays en Turquie actuelle nomme L'Etat Fatimide en 902. Avec un développement d'une littérature autour de Ali (idéalisation), tout pouvoir autre que sa descendance n'est pas considère comme Imam.
+
+### L'Etat Fatimide (Les allawides) (902-1174)
+
+Etat purement chiites avec la capitale nommée **Mahdia** situe en Tunisie actuelle.
+
+- Invention de l'Imam purement infaillible 
+- Chez les chiites s'est les descendants de Ali qui peuvent devenir Imam.
+
+Le 6eme descendant avait 2 fils :   
+- Moussa : ligne des 12 Imams donc celle qui ne respecte pas la descendance de Ali = Chiismes Duodécimains 
+- Ismail : ligne des 7 Imams, il est considère comme le dernier Imam de la ligne du prophète = Chiismes Ismaélites
+
+Vers 957, ils vont envahir la Sicile pendant deux siècles.
+
+Vers 969, ils vont envahir l'Egypte et crée la ville du **Caire**. Ils vont aussi envahir la Syrie.
+=> On voit donc apparaitre une rivalité avec Bagdad
+
+Création d'institution culturelle et institutionnelle : Al-Azhar ( centre de formation) 
+
+L'Etat va avoir deux siècles jusqu'en 1174 ou il va chute, malgré un élan intellectuelle assez important et le recensement de 50 papeteries. 
+
+A la fin du siècle, un évènement va avoir lieu = **Les Croisades**
+
+### Les Croisades (1095-1293)
+
+Suite a l'appel de **Urbain II** en 1095 qui était le pape de l'époque, il invite tous les chrétiens d'Occident essentiellement d'aller sauver les byzantins et sauver leurs frères d'Orient.
+Pour les secourir et récupérer les lieux Saints tel que Jérusalem, avec des échos très favorable dans l'aristocratie et la chevalerie mais aussi auprès du peuple. 
+-> croyance populaire d'une fin du monde proche (jugement dernier)(fin du premier millénaire)
+
+Ces guerres incessantes au sein de la chrétienté et de la féodalité qui ont peut-être dégonflé grâce a l'appel du pape et éloigner les conflits.
+
+=> Croissance démographique inédite et importante. Racheter ces pèches. Prêtre propagande pour les Croisades (se préparer). Les aristocrates utilisent des bateaux et le peuple a pied. "Si dieu le veut" : leur slogan populaire
+
+Arrive en terre sainte (Palestine) en 1099, les croisées profitent de ces occasions qui donneront lieu a 4 fondations chrétiennes (Etats latin d'Orient) : 
+- Principauté d'Edesse
+- Principauté d'Antioche
+- Principauté de Jérusalem
+- Principauté de Tripoli 
+≃ 60000 morts au total
+
+Resistance musulmane très faible. Le premier résistant est un chef militaire turc **Zanki** (Chef de la police de Bagdad qui va s'installer au Nord de la Syrie a Moussol et Alep)
+
+En 1146, il arrive a défaire l'armée des croisées et libérer Edesse. Apres sa mort, ces fils se sont partager le territoire.
+
+**Nur-al-Din** (très croyant) utilise le concept de _jihâd_  pour mobiliser l'opinion publique. La première vrai résistance est la sienne en mobilisant les gens contre les croises.
+
+## 2eme Croisade
+
+**Louis VII** (1148), essaye de s'emparer de Damas pour avoir un espace territorial plus grand mais échec de cette croisade (Alep - Damas / pour Nur-al-Din).
+
+**Amaury Ier** roi de Jérusalem, il va orienter les conflits vers l'Egypte car elle va jouer le rôle le plus important. A la 3eme tentative en 1159, il arrive a mettre la main sur l'Egypte.
+**Nur-al-Din** va aussi orienter ces forces vers l'Egypte et réussir a l'annexer en 1168 grâce a son chef militaire nomme **Salladin**.
+
+Unité entre la Syrie et l'Egypte s'installe. Les croises sont coinces entre les deux cotes.
+
+## 1174-1187
+
+1182 : Mort de **Nur-al-Din** donc **Salladin** impose son pouvoir pour entrer en guerre pour récupérer Jérusalem.
+
+1187 : suite au combat/guerre contre les croises, ils arrivent a libérer Jérusalem. Port de St Jean d'Acre
+
+-> Nouvelles de cette évènement qui se repend dans l'Occident. Les chefs des croises et les croises en prison ce qui va amener un départ de la 3eme Croisade. 
+
+## 3eme Croisade
+
+- **Conrade II** : empereur allemand
+- **Philippe Auguste** : roi de France
+- **Richard Cœur de Lion** : Angleterre 
+
+Cette croisade arrive en terre sainte en 1190. L'Empereur allemand n'a pas réussi a atteindre. 
+Philippe Auguste n'avait pas envie d'y aller et est rester quelques mois.
+
+Signature du traite de *Al-Ramba* ce qui a donne la possibilité aux catholiques de faire leurs pèlerinages et sécuriser la route. 
+Ils rentrent en Occident.  
+
+Quelques mois après, Salladin meurt en 1193 (Egypte et Syrie comme territoire). C'est ces 5 enfants qui vont se partager le territoire ce qui va donc créer d'autres des conflits. 
+
+## 4eme Croisade (1204)
+
+Elle n'est pas arriver jusqu'au Proche Orient. 
+
+Frederic II va en Terre Sainte pour se faire pardonner par le pape qui va lui demander de faire une nouvelle croisade.
+
+## 7eme Croisade (1247)
+
+Celle de St Louis (Louis IX), personnalité très religieuse qui décide lui aussi de libérer le tombeau du Christ (Jérusalem).
+
+1247 : Damiette (port), pour soumettre l'Egypte et continuer pour récupérer Jérusalem. Mais armées des héritiers de Salladin qui sont des jeunes de maximum 10 ans captures et choisis par leurs physiques pour le corps militaire nomme **Les Mamlouks**. On leurs donne du savoir (langue, religion) mais essentiellement une éducation militaire (redoutable guerrier).
+
+Il va envoyer ses mamlouks en Egypte pour assiéger les croisées et emprisonne le roi. De retour au Caire, ils vont s'emparer du pouvoir en Egypte et instauré leurs propres Etats (Etat Mamlouk)
+
+## Etat Mamlouk (1248-1515)
+
+Ils vont créer leur propre façon de prendre le pouvoir avec la loi du plus fort. 
+
+Ils  vont faire face a un très grand phénomène : l'invasion mongole (Ouest de la Chine)
+Ils détruisent tous sur leurs passages, avec une stratégie de la Terre brule.
+
+Damas en 1257/Bagdad en 1258 => assiéger pendant 3 semaines et ils arrivent a pénétrer dans la ville.
+
+Le contenu de la bibliothèque de Bagdad est mis dans le fleuve du Tigre. " Les eaux du Tigre étaient colores en noir et en rouge"
+
+Leurs projets étaient d'envahir le monde (Ukraine/Palestine…). Les Mamlouks décident d'aller a la rencontre des mongoles ce qui mènera a la guerre de *Mary Dabyq* en 1265 en Palestine actuelle, ce qui se conclut par une victoire par les mamlouks.
+
+Les descendants de la famille abbassides au Caire pour devenir plus légitime aux yeux des musulmans
+
+Le pouvoir des Mamlouks s'étend de l'Egypte, une partie de l'Arabie, jusqu'au Sud du Yémen (route du commerce).
+
+![LE POUVOIR :](Files/Drawings/Drawing%202022-04-04%2000.13.19.excalidraw)
+
+- Prospère sur le plan économique avec le territoire de la route du commerce, la mer. Etat très fort sur le plan économique grâce au commerce. 
+-> Relations commerciales avec les villes italiennes
+- Sur le plan social et intellectuel, il prêtait peu attention aux choses lies a la culture, décadence irrémédiable (illettrisme).
+- Très bons bâtisseurs, toujours présents au Caire (Mosquées)
+
+A la fin de la période mamlouks, très peu de personnes savent lire et écrire.
+**Ibn Khaldoum**, tunisien qui a travaille comme ministre, livre d'histoire arabes et berbères, introduction a la sociologie - dernier esprit original, sociologie de l'histoire).
+
+Particularité linguistique de la langue persane qui va adopter l'alphabet arabe. Les turcs commencent a voir leur propre langue.
+
+Etat prospère économiquement . Fin XVe, les géographes cherchent un moyen d'accéder a l'Inde (Parfums, encens, soie, bijoux). Car auparavant route du commerce : 
+Chine -> Inde -> Arabie Saoudite ->Egypte // Vasco de Gama (Cap de bonne espérance - Afrique du Sud - contourne pour arriver en Inde.
+
+Chute de l'Etat Mamlouk a cause de ce changement de la route du commerce.
+
+## L'Empire Ottoman 
+
+Venant du nom de son fondateur **Ottoman I**.
+Les tribus turcs de l'Asie Centrale, trottoir de l'empire byzantin = affrontement entre les deux pour conquérir la plupart de l'Anatolie.
+
+Ce qui signe la fin de l'empire byzantin (Chrétiens d'Orient) en 1465 par Mohammed II, le Conquérant.
+
+
+
+
 
