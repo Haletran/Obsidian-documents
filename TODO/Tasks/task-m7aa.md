@@ -2,4 +2,4 @@
 tags: [ todo, classes ]
 ---
 
-- [ ] Mettre au propre le cours CIVI Arabe
+- [x] Mettre au propre le cours CIVI Arabe

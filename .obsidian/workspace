@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/Arabe/📜 Arabe.md",
+            "file": "University Classes/L2/Renforcement civilisation/oral.md",
             "mode": "source",
             "source": true
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/Arabe/📜 Arabe.md",
+                "file": "University Classes/L2/Renforcement civilisation/oral.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,10 +159,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "active": "a87cac5ac51cba35",
   "lastOpenFiles": [
+    "University Classes/L2/Renforcement civilisation/oral.md",
     "University Classes/L2/Arabe/📜 Arabe.md",
     "README.md",
     "University Classes/University.md",
@@ -171,7 +173,6 @@
     "Files/Drawings.md",
     "Others/Some stuffs to buy.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
-    "University Classes/L2/RUSSE/CIVI/russe civi.md",
-    "University Classes/L2/RUSSE/CIVI/questionciv.md"
+    "University Classes/L2/RUSSE/CIVI/russe civi.md"
   ]
 }
