@@ -1182,17 +1182,17 @@ En 2014 en Crimée et a l'Est de l'Ukraine : les actions militaires russes qui o
 -  étape indirecte : médias, l'économie, politique, diplomatie et contacts avec la population, psychologie, le mécontentement de la population, provocations et collecte d'information.
 -  étape directe : destruction des réseaux de télécommunication, attaque par des forces conventionnelles
 
- ### L'Annexion de la Crimee et le Soutien des separatistes
+ ### L'Annexion de la Crimée et le Soutien des séparatistes
 
 
 
-### Les causes du succes en Crimee
+### Les causes du succès en Crimée
 
 
 ### 2022 : La Guerre de l'Ukraine
 
 
-### Le debut de la guerre 
+### Le début de la guerre 
 
 
 
