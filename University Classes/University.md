@@ -15,3 +15,12 @@ list
 from #learning
 sort file.name asc
 ```
+
+
+# Complete
+
+```dataview
+list
+from #complete
+sort file.name asc
+```

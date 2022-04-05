@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
-            "mode": "source",
+            "file": "University Classes/University.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
+                "file": "University Classes/University.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,13 +164,13 @@
   },
   "active": "9dcb8d0e8f444940",
   "lastOpenFiles": [
+    "University Classes/University.md",
+    "University Classes/L2/Arabe/📜 Arabe.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "PDFs/📜 RussecivS4.pdf",
     "University Classes/L2/CIVI/US/📜 civius.md",
     "University Classes/L2/Renforcement civilisation/oral.md",
-    "University Classes/L2/Arabe/📜 Arabe.md",
     "README.md",
-    "University Classes/University.md",
     "Files/Drawings/schema.md",
     "Files/Drawings/Drawing-202022-04-04 00.13.19.excalidraw.md",
     "Files/Drawings.md"

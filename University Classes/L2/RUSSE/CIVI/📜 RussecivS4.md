@@ -1,4 +1,4 @@
-Status : #current 
+Status : #learning
 
 # Russie Civilisation - L2 S4
 

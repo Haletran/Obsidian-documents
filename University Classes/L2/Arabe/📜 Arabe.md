@@ -1,4 +1,4 @@
-Tags: #current
+Tags: #complete
 ---
 # Civilisation Arabe
 
