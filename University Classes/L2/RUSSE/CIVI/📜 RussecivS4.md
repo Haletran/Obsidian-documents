@@ -1184,17 +1184,38 @@ En 2014 en Crimée et a l'Est de l'Ukraine : les actions militaires russes qui o
 
  ### L'Annexion de la Crimée et le Soutien des séparatistes
 
+- Prise de contrôle des centres politiques. Le parlement est contrôle par des militaires 
+- Contrôle des médias et leurs remplacements par des médias russes
+- Les médias a l'intérieur de la Russie sont contrôles afin d'éviter les protestations
+- Utiliser les mécontentements de la population : moins de succès a l'Est car la population est plus retissante
+- Mais la Crimée est plus facilement contrôlable car il y a beaucoup de russophones.
 
+La situation est beaucoup plus complexe a l'Est. Malgré les demandes des séparatistes. Poutine ne veut pas de leur adhésion a la Russie.
 
 ### Les causes du succès en Crimée
 
+- Le succès est moins franc a l'Est 
+- UE et OTAN n'ont pas a attendre ce type d'action
+- La guerre d'information est efficace
+- Même si la Russie perd dans ces conditions, ce n'est pas grave, car elle "n'a jamais participe a une guerre"
+- L'Etat Ukrainien est faible surtout après la révolution
+- Soutien de la population russophone
 
 ### 2022 : La Guerre de l'Ukraine
 
+- Les heurtes des séparatistes avec l'armée ukrainienne malgré les accords de _Minsk_ durant 8 ans et fait 14000 morts
+- Mouvements des troupes russes dans les régions frontalières depuis avril 2021. Les US s'inquiètent.
+- Poutine exige des US des promesses écrites que l'Ukraine ne fera jamais partie de l'OTAN
+- En juin 2020, le pays est devenu l'un des six pays partenaires "nouvelles opportunités" de l'OTAN. Le président ukrainien Vladimir Zelenski réclame un calendrier d'adhésion "clair et réalisable".
+- Sans avoir obtenu les promesses de l'OTAN, Poutine commence la guerre
 
 ### Le début de la guerre 
 
-
+- La crise ukrainienne illustre le bras de fer auquel se livrent Washington et Moscou depuis la fin de la Guerre Froide.
+- US annoncent (Joe Biden) un risque de "guerre mondiale" en cas de confrontation entre soldats américains et russes.
+- Intervention militaire qui commence le 24/02/22 après la reconnaissance des deux républiques séparatistes
+- La majorité de la population russe n'a pas d'informations sur le déroulement de la guerre qui est pour elle, une intervention pour protéger les deux républiques russophones
+- L'offensif russe est beaucoup plus importante et vise plusieurs villes des pays.
 
 --- 
 
