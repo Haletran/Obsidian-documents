@@ -1162,6 +1162,38 @@ Sanctions des US et UE.
 - Poutine n'est pas anti-américain au début des années 2000 : il rencontre Bush, soutient la lutte avec le terrorisme, mais sa  position change avec le temps.
 - Mais depuis 2003 : Guerre Iraq, les révolutions de Couleur en Géorgie, Ukraine et au Kirghizstan 
 - Ces révolutions sont vues comme dangereuses pour l'influence russe dans son étranger proche et rapprochement OTAN.
+- La situation intérieure russe change également a cause de Poutine
+- Les échanges de place avec Medvedev n'a pas été apprécies non plus
+- La tentation est grande de trouver le responsable des problèmes a l'extérieur : la guerre de l'Ukraine est parfaite de ce pdv
+
+### "La Guerre Hybride" en Crimée et a l'Est de l'Ukraine
+
+En 2014 en Crimée et a l'Est de l'Ukraine : les actions militaires russes qui ont un caractère particulier : non directe; avec des militaires non-identifies 
+- La guerre hybride dans l'histoire : des partisans, des mouvements révolutionnaires, Resistance, Vietnam, Afghanistan
+- La guerre de Tchétchénie : actions séparatistes tchétchènes
+
+
+### Comment définir ce terme ? 
+
+- Le terme introduit par l'OTAN suites aux évènements en Ukraine
+- L'hybridité : de plusieurs pdv 
+-> des troupes régulières et irrégulières ; nouvelles technologies
+
+-  étape indirecte : médias, l'économie, politique, diplomatie et contacts avec la population, psychologie, le mécontentement de la population, provocations et collecte d'information.
+-  étape directe : destruction des réseaux de télécommunication, attaque par des forces conventionnelles
+
+ ### L'Annexion de la Crimee et le Soutien des separatistes
+
+
+
+### Les causes du succes en Crimee
+
+
+### 2022 : La Guerre de l'Ukraine
+
+
+### Le debut de la guerre 
+
 
 
 --- 

@@ -52,8 +52,7 @@
   "attachmentFolderPath": "Files",
   "showLineNumber": false,
   "spellcheckLanguages": [
-    "fr",
-    "en-US"
+    "fr"
   ],
   "autoPairBrackets": false
 }

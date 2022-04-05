@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/Renforcement civilisation/oral.md",
+            "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
             "mode": "source",
             "source": true
           }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/Renforcement civilisation/oral.md",
+                "file": "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,6 +164,8 @@
   },
   "active": "a87cac5ac51cba35",
   "lastOpenFiles": [
+    "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
+    "University Classes/L2/CIVI/US/📜 civius.md",
     "University Classes/L2/Renforcement civilisation/oral.md",
     "University Classes/L2/Arabe/📜 Arabe.md",
     "README.md",
@@ -171,8 +173,6 @@
     "Files/Drawings/schema.md",
     "Files/Drawings/Drawing-202022-04-04 00.13.19.excalidraw.md",
     "Files/Drawings.md",
-    "Others/Some stuffs to buy.md",
-    "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
-    "University Classes/L2/RUSSE/CIVI/russe civi.md"
+    "Others/Some stuffs to buy.md"
   ]
 }
