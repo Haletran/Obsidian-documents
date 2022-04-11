@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Others/Stage.md",
+            "file": "University Classes/L2/CIVI/US/📜 civius.md",
             "mode": "source",
             "source": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.5
+    "width": 201.5,
+    "collapsed": true
   },
   "right": {
     "id": "a5930f152dd8b5f1",
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Stage.md",
+                "file": "University Classes/L2/CIVI/US/📜 civius.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,12 +165,12 @@
   },
   "active": "9dcb8d0e8f444940",
   "lastOpenFiles": [
+    "University Classes/L2/CIVI/US/📜 civius.md",
     "Others/Stage.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "University Classes/University.md",
     "University Classes/L2/Arabe/📜 Arabe.md",
     "PDFs/📜 RussecivS4.pdf",
-    "University Classes/L2/CIVI/US/📜 civius.md",
     "University Classes/L2/Renforcement civilisation/oral.md",
     "README.md",
     "Files/Drawings/schema.md",
