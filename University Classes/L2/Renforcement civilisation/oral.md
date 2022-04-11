@@ -48,6 +48,10 @@ Thrown together in September 1975 by manager Malcolm McLaren to promote Sex, his
 
  Early Prog Rock drew on many sources, combining elements of Rock and Roll, Psychedelic Rock, Jazz, Folk, and Classical music. What set Prog apart was its grounding in Western symphonic tradition and its reliance on instrumental virtuosity, which had previously been considered the province of Classical and Jazz players and other “legitimate” musicians. There was nothing light or trivial about early Prog, which demanded to be taken seriously as an art form worthy of the same respect accorded to Classical music and Jazz.
 
+Prog rock fashion is about being different. So, long hair on dudes, wearing whatever's at the top of the pile no matter whose pile you picked it from, and trying new, strange things. cape (Rick Wakeman's capes - The Caped Crusader) - futuristic fashions that were a fusion of classic and modern designs
+
+//prog was more punk than punk// (Steve Howes)
+
 Hype over this branch of rock was short-lived, spanning only from the late 60s to mid-70s. Prog Rock is often ignored because of the length of their songs. However, prog-rock bands carried on in the art of blending classical and rock music.
 
 ### Supertramp
