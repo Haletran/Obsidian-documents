@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "University Classes/L2/Renforcement civilisation/oral.md",
+            "file": "University Classes/L2/Culture des medias/WrittenExpression.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "a0a81399e63b2595",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "University Classes/L2/Culture des medias/📢Oral.md",
             "mode": "source",
             "source": true
           }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "University Classes/L2/Renforcement civilisation/oral.md",
+                "file": "University Classes/L2/Culture des medias/WrittenExpression.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,15 +176,15 @@
   },
   "active": "9dcb8d0e8f444940",
   "lastOpenFiles": [
+    "University Classes/L2/Culture des medias/WrittenExpression.md",
+    "University Classes/L2/Culture des medias/📢Oral.md",
+    "University Classes/L2/Arabe/📜 Arabe.md",
     "University Classes/L2/Renforcement civilisation/oral.md",
     "University Classes/L2/CIVI/US/📜 civius.md",
     "Others/Stage.md",
     "University Classes/L2/RUSSE/CIVI/📜 RussecivS4.md",
     "University Classes/University.md",
-    "University Classes/L2/Arabe/📜 Arabe.md",
     "PDFs/📜 RussecivS4.pdf",
-    "README.md",
-    "Files/Drawings/schema.md",
-    "Files/Drawings/Drawing-202022-04-04 00.13.19.excalidraw.md"
+    "README.md"
   ]
 }

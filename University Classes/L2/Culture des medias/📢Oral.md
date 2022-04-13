@@ -14,9 +14,7 @@ JFK, in full John Fitzgerald Kennedy, born in May 29 1917 in Brookline (Massachu
 He is a well-known figure of the United States because he was the 35th President of the US (61-63) and he faced a number of foreign crisis 
 especially in Cuba and Berlin. But you might know him unfortunately because of his assassination.
 
-On Friday, November 22 1963, he and his wife (Jacqueline) were in an open limousine riding slowly in a motorcade through downtown Dallas. 
-At 12:30 PM, the President was struck by two bullets, one at the base of his neck and one in the head. And was pronounced dead shortly 
-after arrival at Parkland Memorial Hospital. ([From the Movie Jacquie](https://www.youtube.com/watch?v=gYOJ9mXIapg)).
+On Friday, November 22 1963, he and his wife (Jacqueline) were in an open limousine riding slowly in a motorcade through downtown Dallas.  At 12:30 PM, the President was struck by two bullets, one at the base of his neck and one in the head. And was pronounced dead shortly  after arrival at Parkland Memorial Hospital. ([From the Movie Jacquie](https://www.youtube.com/watch?v=gYOJ9mXIapg)).
 
 This terrible event was obviously at the center of attention all around the world and depicted in the media. So that's what we are gonna 
 talk about during our presentation. Our problematic is "How was JFK assassination perceived and cover in the media in 1963 ?"
